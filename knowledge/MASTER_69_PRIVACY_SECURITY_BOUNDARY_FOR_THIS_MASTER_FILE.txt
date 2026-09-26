@@ -1,0 +1,25 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 69. PRIVACY / SECURITY BOUNDARY FOR THIS MASTER FILE
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+69. PRIVACY / SECURITY BOUNDARY FOR THIS MASTER FILE
+================================================================================
+
+Intentionally excluded from this Amber-ready export:
+- passwords
+- API keys
+- private authentication tokens
+- private account credentials
+- precise private location
+- security-question answers
+- secret recovery codes
+- private medical/health information
+- unnecessary private profiles of other people
+
+People other than DARTHWOLF are included only when they were explicitly associated with projects, teams, school/project activities, or idea contributions. This file should not be treated as a dossier about them.
+
+================================================================================
+END OF AMBER MASTER CONTEXT
+================================================================================

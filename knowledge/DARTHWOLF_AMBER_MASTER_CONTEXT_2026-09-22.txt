@@ -1,0 +1,2321 @@
+DARTHWOLF / NTSAKISO CHAUKE — AMBER MASTER PERSONAL, CYBER PULSE, AND PROJECT CONTEXT
+================================================================================
+Document date: 22 September 2026
+Profile type: Amber knowledge-base import + personal + project + organization master record
+
+IMPORTANT NOTE
+--------------
+This file is a reconstruction of the non-sensitive information shared across prior conversations.
+It is intended to describe who DARTHWOLF is, what he is interested in, what he builds, the Cyber Pulse organization, the people associated with it, the major projects, experimental systems, websites, app ideas, AI systems, hardware ideas, and the general direction of the work.
+
+Private secrets are intentionally not included.
+This file does NOT include passwords, API keys, authentication secrets, exact private location, private account credentials, or other highly sensitive personal information.
+
+Where an older name, spelling, project ownership status, or role changed later, the newer correction is preferred.
+Where older records conflict, the uncertainty is stated instead of inventing a fact.
+
+================================================================================
+1. WHO DARTHWOLF IS
+================================================================================
+
+Name:
+Ntsakiso Chauke
+
+Alias / creator identity:
+DARTHWOLF
+Also commonly written as Darthwolf or DarthWolf.
+
+Main identity:
+Student developer, builder, founder, technology enthusiast, AI enthusiast, cybersecurity learner, programmer, and system designer.
+
+Country:
+South Africa
+
+Education context:
+High-school student.
+Grade 10 in 2026.
+Science-oriented school path.
+Strong interest in technology and engineering-related fields.
+Geography has also been one of the subjects strongly associated with his school interests.
+
+Core areas of interest:
+- Artificial intelligence
+- AI advancement
+- AI engineering
+- Cybersecurity
+- Ethical hacking
+- Programming
+- Python
+- Android development
+- Kotlin
+- Jetpack Compose
+- Web development
+- Desktop software
+- Operating-system concepts
+- Offline AI
+- Automation
+- AI agents
+- Voice assistants
+- Robotics
+- Electronics
+- Electrical engineering
+- Computer control systems
+- App security
+- Digital safety
+- Education technology
+- Futuristic user interfaces
+- AI companions
+- Local/offline models
+- Smart-device integration
+- Multi-device control
+- Cloud + offline hybrid systems
+
+DARTHWOLF is not primarily interested in building simple single-purpose apps.
+A repeated pattern in his projects is combining multiple systems together:
+AI + automation + voice + security + offline capabilities + futuristic UI + mobile + desktop + connected devices.
+
+================================================================================
+2. GENERAL BUILDING STYLE
+================================================================================
+
+DARTHWOLF tends to think in ecosystems rather than isolated applications.
+
+Typical project direction:
+- Start with a basic idea.
+- Add AI.
+- Add offline capability.
+- Add Android.
+- Add desktop support.
+- Add remote control.
+- Add voice.
+- Add automation.
+- Add memory.
+- Add security.
+- Add device control.
+- Add plugins or skills.
+- Add web dashboards.
+- Add Firebase or another sync layer.
+- Add a futuristic interface.
+- Keep expanding until the project becomes a platform.
+
+Common goals:
+- Make the app useful even without internet.
+- Make AI available everywhere.
+- Make devices controllable using natural language.
+- Create systems that feel more advanced than ordinary apps.
+- Build products that connect to each other.
+- Give projects strong visual identity.
+- Make tools practical for students.
+- Make technology accessible even on limited hardware.
+
+================================================================================
+3. DESIGN PREFERENCES
+================================================================================
+
+DARTHWOLF strongly prefers futuristic visual design.
+
+Repeated visual themes:
+- Black backgrounds
+- OLED dark interfaces
+- Neon cyan
+- Electric blue
+- Violet / purple
+- Orange/yellow liquid-glass accents for StudyLock
+- Glassmorphism
+- Liquid-glass UI
+- Glowing borders
+- Rounded cards
+- 3D layered interfaces
+- HUD-style panels
+- Sci-fi dashboards
+- Motion effects
+- Smooth spring animations
+- Blur
+- Depth effects
+- Animated navigation
+- Futuristic loading states
+- Cinematic hero sections
+- Cyberpunk visual language
+
+Cyber Pulse visual style:
+Dark, futuristic, polished, AI-first, high-technology presentation.
+
+StudyLock visual style:
+Liquid yellow/orange, rounded, modern, student-friendly, less white background.
+
+Infinity / AEGIS visual style:
+Dark cyberpunk glass, cyan/blue/purple neon, advanced command-center feel.
+
+================================================================================
+4. FAVORITE TECHNOLOGY DIRECTION
+================================================================================
+
+The strongest long-term technical interests are:
+
+1. Artificial Intelligence
+2. Cybersecurity
+3. Android applications
+4. Desktop AI
+5. Automation
+6. Offline AI
+7. Personal AI assistants
+8. AI operating systems
+9. Device control
+10. Robotics
+11. Electronics
+12. Futuristic interfaces
+
+DARTHWOLF is especially interested in the idea of AI that:
+- listens
+- speaks
+- sees the screen
+- remembers
+- controls apps
+- controls the computer
+- works offline
+- works online
+- uses multiple models
+- switches between providers
+- can automate repetitive work
+- can write code
+- can operate tools
+- can connect to a phone
+- can connect to other devices
+
+================================================================================
+5. DEVELOPMENT TOOLS AND TECHNOLOGIES USED OR DISCUSSED
+================================================================================
+
+Programming:
+- Python
+- Kotlin
+- JavaScript
+- HTML
+- CSS
+
+Android:
+- Android Studio
+- Kotlin
+- Jetpack Compose
+- Gradle
+- Android Accessibility Service
+- Device Admin concepts
+- WebView
+- Firebase SDKs
+- Android notifications
+- Speech-to-text
+- Text-to-speech
+
+AI:
+- Gemini
+- OpenRouter
+- Google Generative AI
+- llama.cpp
+- Whisper.cpp
+- local LLMs
+- cloud LLM APIs
+- multiple-model routing
+- AI agent systems
+- offline model concepts
+
+Backend / sync:
+- Firebase
+- Firestore
+- Firebase Authentication
+- REST APIs
+- FastAPI
+- LAN sync
+- QR pairing
+- pairing codes
+
+Automation / agent concepts:
+- MCP
+- plugins
+- AI agents
+- browser automation
+- Windows automation
+- mobile automation
+- accessibility control
+- command routing
+
+Development platforms:
+- GitHub
+- GitHub Actions
+- Netlify
+- Firebase Hosting
+- AppDeploy
+- Replit
+- Android Studio
+
+================================================================================
+6. CYBER PULSE
+================================================================================
+
+Organization:
+Cyber Pulse
+
+Slogan:
+Build Beyond the Idea.
+
+Type:
+Youth-owned technology organization / technology ecosystem.
+
+Founder:
+Ntsakiso Chauke / DARTHWOLF
+
+Primary role:
+Founder
+CEO
+Lead Developer
+System architect
+Main builder across the product ecosystem
+
+Cyber Pulse exists to turn ideas into working technology.
+
+Areas Cyber Pulse has focused on:
+- AI
+- Education
+- Study tools
+- Productivity
+- Student software
+- Digital safety
+- Cybersecurity
+- Automation
+- Mobile apps
+- Desktop apps
+- Offline systems
+- AI assistants
+- Connected devices
+- Future-computing concepts
+- Community safety
+- Robotics and experimental hardware
+
+DARTHWOLF's role inside Cyber Pulse:
+- Takes ideas and turns them into software.
+- Designs systems.
+- Develops apps.
+- Expands original ideas.
+- Adds AI.
+- Adds security.
+- Builds Android versions.
+- Builds desktop versions.
+- Connects systems.
+- Tests projects.
+- Redesigns interfaces.
+- Handles integrations.
+- Creates long-term technical direction.
+
+================================================================================
+7. CYBER PULSE PEOPLE
+================================================================================
+
+The following names have been associated with Cyber Pulse or projects connected to it.
+
+Ntsakiso Chauke / DARTHWOLF
+Role:
+- Founder
+- CEO
+- Lead Developer
+- Main system builder
+- System architect
+
+Associated across:
+- StudyLock
+- Star AI
+- Study AI
+- StudyOS
+- Infinity-related work
+- AEGIS
+- GuardianAI
+- Evolution Learning
+- websites
+- infrastructure
+- Android development
+- project integration
+
+RHANDZU FUELA
+Latest records identify the StudyLock contributor as Rhandzu Fuela / R? Fuela, with older spelling variations appearing in historical notes.
+Most consistently recovered newer spelling:
+Rhandzu Fuela
+
+Association:
+- StudyLock
+- Research
+- Early idea contributor
+- One of the first minds behind the StudyLock idea
+
+Nziani Nhlanhla
+Also appeared earlier as Dziani Nhlanhla.
+
+Association:
+- StudyLock
+- Research partner
+- Idea collaborator
+
+Nkateko Maluleke
+Also written in surname-first form:
+Maluleke Nkateko
+
+Association:
+- Star AI
+- Study AI
+- UI ideas
+- Liquid-gloss visual assistance in some StudyLock history
+- Original Star AI idea contributor
+
+Themba Fuela
+
+Association:
+- GuardianAI
+- Safety product concept
+- Original GuardianAI idea contributor
+
+Success Mabunda
+Surname was later corrected to Mabunda.
+
+Association:
+- GuardianAI
+- Concept/research contribution
+- Associated with Themba Fuela in GuardianAI idea history
+
+Mawela Nkoriso
+Earlier records sometimes contained spelling variants.
+
+Association:
+- Community Gadget
+- Community Safety App
+- Concept lead / idea contributor
+
+Hlaisi Nhlahla
+Association:
+- Alpha11
+- Alpha11 system/concept contribution
+
+IMPORTANT ORGANIZATION NOTE:
+Alpha11 was later clarified as NOT being part of Cyber Pulse.
+It may still be connected historically to DARTHWOLF's broader project history, but it should not automatically be listed as a current Cyber Pulse product.
+
+The above people should be described as collaborators, contributors, project-associated people, or team members only where that was actually stated.
+The records do not justify inventing personal relationships beyond what was explicitly shared.
+
+================================================================================
+8. CORE CYBER PULSE PRODUCTS
+================================================================================
+
+The main Cyber Pulse portfolio has included:
+
+- StudyLock
+- Evolution Learning
+- StudyOS
+- Study AI
+- Star AI
+- GuardianAI
+- Infinity OS Android / Infinity Prime direction
+- AEGIS
+- Community Safety App
+- Community Gadget
+- Cyber Pulse AI Earpods
+
+Other systems have appeared in the broader history but do not all have the same ownership/status.
+
+================================================================================
+9. STUDYLOCK
+================================================================================
+
+StudyLock is one of the biggest and most developed Cyber Pulse projects.
+
+Purpose:
+Help students focus, reduce distractions, study more effectively, and connect parents and teachers into the learning process.
+
+Main app family:
+- StudyLock Student
+- StudyLock Parent
+- StudyLock Teacher
+- Parent HTML dashboard
+- Earlier desktop experiments
+
+Core Student features:
+- Focus Mode
+- Study timer
+- App blocking
+- Accessibility-based blocking
+- Auto Study
+- Study schedule
+- AI Tutor
+- Offline Tutor
+- Quiz system
+- Offline quizzes
+- Notes
+- Planner
+- Progress
+- Learning resources
+- Rewards / XP
+- PIN lock
+- Parent pairing
+- Teacher connection
+- Offline library
+- Local knowledge
+- Metrics
+- blocked-app tracking
+
+Parent features:
+- Pairing code
+- QR pairing
+- Student status
+- Study metrics
+- Start focus remotely
+- Manage schedules
+- Auto Study control
+- blocked-app visibility
+- protection controls
+- approval flow
+
+Teacher features:
+- Class code
+- student joining
+- notes
+- assignments
+- resources
+- questions
+- announcements
+- broadcasts
+- visual-learning sharing concepts
+- class communication
+
+Technology:
+- Kotlin
+- Android
+- Compose
+- Firebase
+- Firestore
+- Accessibility
+- Device Admin
+- offline databases
+
+Major StudyLock engineering challenges:
+- Parent ↔ Student pairing
+- Teacher ↔ Student pairing
+- Firebase rules
+- APK installation
+- invalid-package errors
+- signing conflicts
+- app blocking
+- PIN persistence
+- uninstall protection
+- offline AI
+- damaged local databases
+- button/touch issues
+- repeated Gradle/CI failures
+
+Design direction:
+Liquid yellow/orange StudyLock interface.
+Parent and Teacher should visually match Student.
+
+StudyLock is one of the projects that best represents DARTHWOLF's overall development style because it combines:
+education + AI + security + offline support + Android + sync + family control + teacher support.
+
+================================================================================
+10. EVOLUTION LEARNING
+================================================================================
+
+Evolution Learning is an education platform.
+
+Slogan:
+learn → practice → improve → evolve.
+
+Main concept:
+A student learning environment built around continuous improvement.
+
+Major sections:
+- Home
+- Study Hub
+- AI Tools
+- Quiz
+- Progress
+- Profile
+
+Features discussed:
+- AI learning support
+- quizzes
+- notes
+- flashcards
+- homework
+- planning
+- goals
+- progress
+- study tools
+
+Development direction:
+- Web/HTML prototype
+- Android rebuild
+- Firebase support
+- authentication
+- AI integration
+- offline-oriented ideas
+
+Evolution Learning Android build workflows were actively attempted in September 2026 and had build failures during development.
+
+================================================================================
+11. STUDYOS
+================================================================================
+
+StudyOS is a student-focused operating environment.
+
+Purpose:
+Create a study-centered system where AI, learning tools, offline models, productivity, and device integration are combined.
+
+StudyOS v4.0 direction:
+- offline-first
+- local models
+- llama.cpp
+- Whisper.cpp
+- Phi-class models
+- Gemma-class models
+- local speech
+- no constant cloud dependency
+
+StudyOS v5.0 direction:
+- Android
+- WearOS
+- embedded systems
+- encrypted models
+- no-cloud mode
+- watch tiles
+- remote brain over LAN
+- agent swarm
+- distributed study intelligence
+
+StudyOS is connected historically to the development path that later influenced AEGIS and Infinity OS.
+
+A project lineage mentioned in earlier work:
+Evolution Learning
+→ StudyOS
+→ AEGIS
+→ Infinity OS
+
+================================================================================
+12. STUDY AI
+================================================================================
+
+Study AI is a dedicated education AI assistant.
+
+Purpose:
+AI tutoring and learning assistance.
+
+Direction:
+- online models
+- offline models
+- education-focused AI
+- Firebase integration
+- Android APK
+
+Study AI has been actively developed inside Cyber Pulse.
+
+GitHub Actions builds for Study AI Android were repeatedly attempted during September 2026 and several builds failed.
+
+Study AI is separate from StudyLock:
+StudyLock is the larger focus/study-control system.
+Study AI is more directly centered around AI tutoring.
+
+================================================================================
+13. STAR AI
+================================================================================
+
+Star AI is a general-purpose AI assistant.
+
+Purpose:
+General AI for:
+- work
+- learning
+- research
+- productivity
+- coding
+- everyday assistant tasks
+
+Direction:
+- Android
+- desktop
+- online models
+- offline models
+- multiple providers
+- voice
+- speech-to-text
+- text-to-speech
+- background operation
+- memory
+- user interaction history
+
+Voice personality ideas discussed:
+- Jarvis-style voice
+- EDITH-style voice
+- Friday-style voice
+- Ultron-style voice
+- Optimus Prime-style voice
+
+Android identity recorded historically:
+com.cyberpulse.starAI
+
+Version direction:
+1.1.0
+
+Star AI Android builds were repeatedly attempted around September 2026 and experienced build failures.
+
+Original idea association:
+Nkateko Maluleke.
+
+================================================================================
+14. GUARDIANAI
+================================================================================
+
+GuardianAI is a digital safety project.
+
+Purpose:
+Protect users, especially younger users, from harmful or inappropriate content.
+
+Core ideas:
+- detect harmful/adult content
+- block content
+- app protection
+- parental controls
+- safer-device behavior
+- digital safety
+
+Platforms discussed:
+- Android
+- Desktop
+
+Original idea associations:
+- Themba Fuela
+- Success Mabunda
+
+GuardianAI has also appeared as a downloadable APK project in the Cyber Pulse download ecosystem.
+
+================================================================================
+15. INFINITY OS
+================================================================================
+
+Infinity OS is one of DARTHWOLF's largest AI-first computing concepts.
+
+Purpose:
+Build an AI-centered computing environment where the assistant can control, automate, organize, code, research, manage files, operate apps, and work across devices.
+
+Infinity OS design:
+- cyberpunk glass
+- OLED dark
+- cyan
+- blue
+- purple
+- advanced AI dashboard
+
+Important Infinity OS features discussed:
+- Dashboard
+- AI chat
+- AI orchestrator
+- local models
+- cloud models
+- Model Center
+- Memory Vault
+- voice
+- vision
+- Learning Suite
+- Notes
+- Code Workspace
+- developer tools
+- Debug Console
+- Automation
+- Security Center
+- Files
+- Browser
+- Store
+- Themes
+- Settings
+- Plugin SDK
+- Wear companion
+- device integration
+- project memory
+- browser automation
+- phone companion
+- MCP
+- backups
+- rollback
+- device control
+- app launching
+- coding
+- remote commands
+
+Infinity OS also experimented with:
+- QR pairing
+- web pairing
+- remote laptop control
+- live chat
+- file upload
+- multiple API providers
+- voice control
+- always-on mic concepts
+- mobile/desktop connection
+- WhatsApp-related automation concepts
+
+IMPORTANT OWNERSHIP HISTORY:
+Later records distinguished Desktop Infinity from Cyber Pulse in some versions, while Infinity OS Android / Infinity Prime remained associated with the Cyber Pulse ecosystem.
+The exact ownership label changed over time, so this distinction should be preserved.
+
+================================================================================
+16. INFINITY PRIME
+================================================================================
+
+Infinity Prime is the Android direction of the Infinity system.
+
+Package direction recorded:
+com.cyberpulse.infinityprime
+
+Concepts included:
+- AEGIS
+- smart routing
+- multi-provider AI
+- Vault
+- memory
+- Project Brain
+- voice
+- screen awareness
+- operations timeline
+- accessibility control
+- paired desktop control
+- remote actions
+- WhatsApp Cloud API concepts
+
+The goal was to place much of the Infinity experience onto Android.
+
+================================================================================
+17. AEGIS
+================================================================================
+
+AEGIS is an AI assistant/engine associated with the Infinity ecosystem.
+
+Purpose:
+Act as an intelligent system assistant capable of:
+- answering
+- controlling
+- automating
+- routing models
+- managing tasks
+- voice interaction
+- device operation
+- security-related actions
+- coding
+- system commands
+
+AEGIS has existed in multiple conceptual forms:
+- AEGIS
+- AEGIS TITAN
+- AEGIS v16 OMEGA
+- AEGIS Core
+- Aegis Titan Shield
+
+Related named systems:
+- Titan Core
+- Titan Shield
+- Sentinel
+- Forge
+- Omega Forge
+- Omega Brain
+- Nexus IDE
+- Trinity Engine
+- Memory Vault
+- Skill Tree
+- Mission Control
+
+The Aegis Titan Shield project was also published through Replit at one point, with the free-tier deployment later expiring.
+
+================================================================================
+18. INFINITY CORE AND RELATED ENGINES
+================================================================================
+
+Infinity-related internal system names have included:
+
+Infinity Core
+Core intelligence/orchestration layer.
+
+Agent Matrix
+Multi-agent structure.
+
+Mission Control
+Central control panel for tasks and agents.
+
+Device Mesh
+Connection layer for multiple devices.
+
+Memory Vault
+Persistent memory system.
+
+Infinity Shield
+Security layer.
+
+Developer OS
+Developer-focused workspace.
+
+Vision
+Visual/screen understanding.
+
+Model Hub
+Model management and routing.
+
+Project Capsules
+Project-specific memory/workspaces.
+
+Infinity Sandbox
+Safe execution/testing environment.
+
+Memory 3.0 Knowledge Graph
+More advanced structured memory concept.
+
+Background Intelligence
+AI processing that continues in the background.
+
+Time Machine
+History/rollback concept.
+
+Model Benchmark Lab
+Compare AI model behavior/performance.
+
+Adaptive Performance
+Adjust system behavior based on available hardware.
+
+Skill Store
+Installable assistant abilities.
+
+Forge / Omega Forge
+Building/automation/development system.
+
+Nexus IDE
+Integrated development environment concept.
+
+Trinity Engine
+Core multi-part engine concept.
+
+================================================================================
+19. PULSAR AI
+================================================================================
+
+Pulsar AI is a major independent AI project direction.
+
+Official name:
+Pulsar AI
+
+Internal naming:
+- Pulsar Core
+- Pulsar-1
+
+Goal:
+Build an original AI engine/model and eventually run it as an API/service.
+
+Ambition:
+Reach very high general intelligence capability.
+
+Pulsar direction included:
+- own engine
+- own model
+- server API
+- 24/7 availability
+- desktop companion
+- Android companion
+- floating assistant
+- voice
+- always-on mic concepts
+- screen control
+- open apps
+- coding
+- plugins
+- skills
+- offline operation
+- OpenRouter support
+- multi-model routing
+
+Pulsar Companion ideas:
+- floating draggable assistant
+- configurable avatar
+- voice responses
+- continuous listening
+- computer control
+- multilingual ability
+- coding ability
+- plugin system
+- desktop + Android
+
+Pulsar later absorbed or borrowed concepts from:
+- AEGIS
+- Infinity OS
+- ASTER Agent systems
+
+A robot-body concept was also discussed:
+- LEGO construction
+- 3 motors
+
+Pulsar builds:
+GitHub repository work included Pulsar Android / companion builds and AMBER-related build targets.
+Several builds failed during September 2026.
+
+================================================================================
+20. AMBER
+================================================================================
+
+AMBER became associated with the Pulsar AI Companion Android project.
+
+Direction:
+- AI assistant
+- Android companion
+- extensive control capabilities
+- desktop/laptop interaction
+- app control
+- messaging automation concepts
+- game-control concepts
+- advanced automation
+
+Build names included:
+- AMBER APK
+- AMBER Full APK
+
+Several GitHub Actions AMBER builds failed during active development.
+
+================================================================================
+21. KNOX AI
+================================================================================
+
+Knox AI was discussed as a possible name for a separate AI model/project outside Cyber Pulse.
+
+Purpose direction:
+Build a powerful independent AI model/engine.
+
+The idea was discussed in the context of creating a system approaching the capability of frontier AI models.
+
+Knox AI did not become as fully defined in the known project history as Pulsar AI, but it is part of DARTHWOLF's broader AI-building history.
+
+================================================================================
+22. VOID
+================================================================================
+
+Void is a separate Android phone UI / launcher project.
+
+Status:
+Separate from Cyber Pulse.
+
+Purpose:
+Replace or heavily redesign the normal Android phone interface.
+
+Goal:
+Create a new phone UI with the feature richness of major Android interfaces.
+
+References:
+- Samsung One UI
+- Pixel Launcher
+- HyperOS
+- ColorOS
+- Nothing OS
+
+Features:
+- custom notifications
+- status-bar customization
+- quick-settings customization
+- control-center design
+- app-open animations
+- broad appearance customization
+- fluid transitions
+- spring physics
+- gestures
+- blur
+- depth
+- smooth motion
+
+Target:
+Keep installed size at or below roughly 500 MB.
+
+================================================================================
+23. ALPHA11 / ALPHA ELEVEN
+================================================================================
+
+Alpha11 is a reasoning/reflection/personal-development system concept.
+
+Associated person:
+Hlaisi Nhlahla
+
+IMPORTANT:
+Alpha11 was later explicitly clarified as NOT part of Cyber Pulse.
+
+Historical functions associated with Alpha11:
+- reasoning
+- reflection
+- learning
+- decision support
+
+It remains part of DARTHWOLF's broader project history, but should be listed separately from current Cyber Pulse products.
+
+================================================================================
+24. PHOENIX
+================================================================================
+
+Phoenix / Phoenix Learning System appears in older project history.
+
+General direction:
+Education / learning-system concept.
+
+It appeared among the projects that existed before or alongside the larger Cyber Pulse ecosystem.
+
+The available project history does not define Phoenix as deeply as StudyLock, StudyOS, or Evolution Learning.
+
+================================================================================
+25. DROIDDESK
+================================================================================
+
+DroidDesk appears in the broader historical catalog.
+
+General direction:
+Android / desktop interaction or desktop-like Android productivity concept.
+
+It is an experimental project name rather than one of the best-documented core Cyber Pulse products.
+
+================================================================================
+26. HORIZON
+================================================================================
+
+HORIZON-related names appeared in experimental operating-system and system-platform development.
+
+Names included:
+- HORIZON OS
+- HORIZON OS 2.0
+- HORIZON EVENT
+- HORIZON CORE
+- HORIZON AI
+- HORIZON MESH
+- HORIZON UI
+
+Directions discussed:
+- OS concepts
+- settings
+- SMS
+- AI
+- device mesh
+- interface layer
+- laptop/Android integration
+
+================================================================================
+27. COMMUNITY GADGET
+================================================================================
+
+Community Gadget is a safety hardware/software concept.
+
+Purpose:
+Provide an emergency alert terminal for community use.
+
+Core idea:
+A very simple emergency interface.
+
+Known concept:
+3-button emergency logic.
+
+Goals:
+- offline operation
+- emergency signaling
+- easy use
+- connection to a control center
+- community response
+
+Associated person:
+Mawela Nkoriso
+
+================================================================================
+28. COMMUNITY SAFETY APP
+================================================================================
+
+Community Safety App is the software side of the community-safety idea.
+
+Functions discussed:
+- private-code community access
+- alerts
+- emergency location sharing
+- notifications
+- coordination
+- group/community response
+
+Associated concept contributor:
+Mawela Nkoriso
+
+================================================================================
+29. CYBER CHAT
+================================================================================
+
+Cyber Chat was proposed as a communication hub for Cyber Pulse members and people using Cyber Pulse apps.
+
+Concepts:
+- one-to-one communication
+- groups
+- voice calls
+- video calls
+- product discussion groups
+- communication around apps such as StudyLock, Star AI, GuardianAI, and Evolution Learning
+
+================================================================================
+30. CYBER PULSE AI EARPODS
+================================================================================
+
+Cyber Pulse AI Earpods appeared as a hardware/product idea.
+
+Concept:
+Wearable AI-linked audio device connected to the Cyber Pulse ecosystem.
+
+Possible direction:
+- voice assistant access
+- audio responses
+- hands-free AI
+- integration with larger Cyber Pulse assistants
+
+This concept has not been documented as deeply as the main software projects.
+
+================================================================================
+31. INFINITY CAR / ROBOTIC CAR
+================================================================================
+
+Cyber Pulse / Infinity-related hardware ideas included an AI robotic car.
+
+Concept direction:
+- AI-controlled vehicle/robotic platform
+- ESP32 or electronics-based control
+- connection to AI systems
+- automation
+- robotics experimentation
+
+The idea appeared in older Cyber Pulse hardware/project catalogs.
+
+================================================================================
+32. TRI-TECH / BACKUP POWER CONCEPT
+================================================================================
+
+A hand-crank / backup-power concept appeared in the broader idea history.
+
+Name associated:
+TriTech hand-crank backup concept.
+
+Direction:
+Practical emergency or low-power technology.
+
+This was an experimental hardware idea rather than a major software product.
+
+================================================================================
+33. CYBER PULSE MAIN WEBSITE
+================================================================================
+
+Main organization website:
+Cyber Pulse
+
+Live deployment used:
+cyber-pulse-info.netlify.app
+
+Slogan:
+Build Beyond the Idea.
+
+Main sections:
+- Products
+- Meet the Team
+- Join Cyber Pulse
+- Contact
+- About Cyber Pulse
+
+Visual style:
+- futuristic
+- dark
+- neon cyan/blue/purple
+- glass
+- cinematic hero
+- animated navigation
+- 3D elements
+
+Authentication directions included:
+- Continue with Google
+- Continue as Guest
+- Continue anonymously
+- Email/password where used
+
+Earlier authentication experiments also included other providers before later simplification.
+
+The site also included or planned:
+- user profiles
+- admin dashboard
+- PWA
+- sound design
+- Pulse AI floating assistant
+- product information
+- team information
+
+================================================================================
+34. CYBER PULSE OFFLINE LIBRARY WEBSITE
+================================================================================
+
+Website:
+cyber-learn-projects.netlify.app
+
+Purpose:
+Act as an offline-knowledge/library source for Cyber Pulse education and AI apps.
+
+Apps intended to use it:
+- StudyLock
+- Study AI
+- StudyOS
+- Star AI
+- Infinity OS
+
+Important rule:
+The apps use the website/library URL.
+The website does not need to send users back into the apps.
+
+Library content direction:
+- Grade 8–12 curriculum
+- past papers from 2020 onward
+- public memos where available
+- grade filters
+- subject filters
+- year filters
+- term filters
+- general knowledge
+- focus music
+
+Focus-music direction:
+- calm instrumental
+- playback controls
+- preference memory
+
+================================================================================
+35. CYBER PULSE APK DOWNLOAD WEBSITE
+================================================================================
+
+Website:
+cyber-pulse-download.netlify.app
+
+Purpose:
+Provide a visually rich place to download Cyber Pulse applications.
+
+Design:
+- stacked app cards
+- scroll between apps
+- tap display image for details
+- download button
+- liquid-fill button
+- animated pill navigation
+- 3D stacked carousel
+
+First-visit idea:
+- animated heart
+- particles gathering
+- thank-you message
+- poem
+- first visit only
+
+Background music:
+- included
+- starts with welcome
+- user controls
+- preference memory
+
+Apps represented at different times included:
+- StudyLock
+- GuardianAI
+- Evolution Learning
+- Study AI
+- connected StudyLock Student
+- StudyLock Parent
+- StudyLock Teacher
+
+Important rule:
+StudyLock Student, Parent, and Teacher should be separate app cards, not one combined entry.
+
+================================================================================
+36. PULSE AI
+================================================================================
+
+Pulse AI is a Cyber Pulse website assistant.
+
+Purpose:
+Answer questions about Cyber Pulse.
+
+Potential topics:
+- products
+- organization
+- projects
+- people
+- website navigation
+- what Cyber Pulse builds
+
+It functions more like a brand/site assistant than a standalone full general-purpose AI product.
+
+================================================================================
+37. CYBER PULSE FUNDRAISING / $100,000 CHALLENGE
+================================================================================
+
+A fundraising platform was discussed under a "$100,000 Challenge" concept.
+
+Components:
+- public website
+- admin website
+- progress dashboard
+- donations/supporters
+- milestones
+- FAQ
+- contact links
+- social links
+- questionnaires
+- publishing/deployment
+
+This project was part of efforts to build support and visibility around technology development.
+
+================================================================================
+38. CYBER PULSE WEBSITE SUBSYSTEMS
+================================================================================
+
+Website-related projects and sections mentioned historically include:
+- Main Cyber Pulse website
+- Community site
+- Team site
+- Products site
+- Tree site
+- Safety site
+- Family site
+- project portfolio
+- Infinity OS site
+- authentication portal
+- offline-learning library
+- APK download website
+- admin systems
+- dashboards
+- launch pages
+- branding pages
+- ID/profile pages
+
+================================================================================
+39. OTHER NAMED EXPERIMENTAL SYSTEMS
+================================================================================
+
+Other names appearing in the broader project history include:
+
+AIClient2API
+Direction:
+AI API routing / connection work.
+
+500 AI Agents
+Direction:
+large multi-agent experimentation.
+
+OpenHands
+Direction:
+agent/coding automation influence.
+
+NEXUS
+Direction:
+UI / development / orchestration concept.
+
+GPT-7 Lab
+Direction:
+experimental advanced-AI lab concept.
+
+The Forbidden Gates
+Direction:
+experimental/creative project name.
+
+McDonald's South Africa website concept
+Direction:
+website/prototype exercise, not a Cyber Pulse core product.
+
+These are part of the broader idea/build history and should not automatically be treated as official commercial Cyber Pulse products.
+
+================================================================================
+40. ROBOTICS
+================================================================================
+
+DARTHWOLF has repeatedly shown interest in giving AI a physical body.
+
+Examples:
+- Pulsar robot
+- LEGO robot concept
+- 3-motor design
+- Infinity robotic car
+- ESP32-related concepts
+- AI-connected gadgets
+- emergency hardware
+
+The robotics direction connects software AI to:
+- motors
+- sensors
+- voice
+- remote control
+- physical movement
+- automation
+
+================================================================================
+41. OFFLINE AI
+================================================================================
+
+Offline capability is one of the strongest repeated themes across DARTHWOLF's projects.
+
+Projects with major offline direction:
+- StudyLock
+- Study AI
+- StudyOS
+- Star AI
+- Infinity OS
+- Pulsar AI
+
+Offline technologies discussed:
+- llama.cpp
+- Whisper.cpp
+- local models
+- local databases
+- imported knowledge packs
+- offline quizzes
+- dictionaries
+- local search
+- LAN communication
+- encrypted model storage
+
+Why offline matters in the project philosophy:
+- internet is not always available
+- costs matter
+- student tools should continue working
+- privacy can improve
+- local models reduce dependence on one provider
+- devices can remain useful during outages
+
+================================================================================
+42. AI MODEL ROUTING
+================================================================================
+
+Many DARTHWOLF projects use the idea of multiple AI providers instead of relying on only one.
+
+Model-routing concepts:
+- local model first
+- cloud model when needed
+- different model for coding
+- different model for reasoning
+- fallback providers
+- OpenRouter support
+- model benchmarking
+- automatic route selection
+
+This appears in:
+- Infinity OS
+- Star AI
+- Pulsar AI
+- Study AI
+- AEGIS
+
+================================================================================
+43. VOICE ASSISTANT DIRECTION
+================================================================================
+
+Voice is a repeated requirement.
+
+Common desired behavior:
+- wake or listen
+- understand natural speech
+- perform the task
+- respond by voice
+- run in background
+- open apps
+- type messages
+- read information
+- control the PC
+- work across desktop and mobile
+
+Named personality inspirations:
+- JARVIS
+- EDITH
+- Friday
+- Ultron
+- Optimus Prime
+
+Infinity/AEGIS personality names also included:
+- AUTO
+- allay
+- wolf
+- EDITH
+
+================================================================================
+44. DEVICE CONTROL
+================================================================================
+
+A major DARTHWOLF goal is AI that can control a device rather than only answer questions.
+
+Desired abilities across Infinity, AEGIS, Pulsar, and AMBER:
+- open programs
+- use VS Code
+- write code
+- control Windows
+- use browser
+- manage files
+- interact with WhatsApp
+- send messages
+- respond to messages when allowed
+- control games
+- press keys
+- use mouse
+- automate repeated actions
+- control Android using accessibility
+- pair desktop and phone
+
+This is one of the clearest long-term directions in DARTHWOLF's AI work.
+
+================================================================================
+45. CYBERSECURITY INTEREST
+================================================================================
+
+Cybersecurity is one of DARTHWOLF's strongest personal interests.
+
+Areas discussed:
+- ethical hacking
+- device security
+- Android security
+- app permissions
+- spyware detection
+- account security
+- cybersecurity news
+- protection software
+- secure apps
+- parental safety
+- access control
+- local encryption
+- secure model storage
+
+Cybersecurity is also connected to:
+- GuardianAI
+- Infinity OS
+- AEGIS
+- StudyLock
+- device-control systems
+
+================================================================================
+46. EDUCATION INTEREST
+================================================================================
+
+Despite the heavy AI/cybersecurity focus, a large part of DARTHWOLF's actual product output is education technology.
+
+Major education projects:
+- StudyLock
+- Evolution Learning
+- StudyOS
+- Study AI
+- Phoenix Learning System
+- Cyber Learn / offline library
+
+Common educational features:
+- quizzes
+- notes
+- tutoring
+- offline curriculum
+- past papers
+- learning resources
+- progress
+- goals
+- planning
+- focus control
+- parent involvement
+- teacher involvement
+
+================================================================================
+47. SCHOOL / LEARNING DIRECTION
+================================================================================
+
+DARTHWOLF is a high-school student in a science-oriented track.
+
+Academic topics frequently worked on in ChatGPT:
+- Physics
+- Life Sciences
+- History
+- Mathematics/probability
+- Geography
+- school assignments
+- exam preparation
+
+Technology and school often overlap:
+many of the biggest projects are designed specifically for students.
+
+================================================================================
+48. FAVORITES AND GENERAL INTERESTS
+================================================================================
+
+Known interests include:
+- Minecraft
+- AI
+- cybersecurity
+- programming
+- gadgets
+- futuristic systems
+- robotics
+- electronics
+
+Musicians that have been followed:
+- Dax
+- Marshmello
+- Alan Walker
+
+Actor mentioned as a favorite:
+- Dwayne Johnson
+
+The user has also shown interest in:
+- technology news
+- AI releases
+- cybersecurity developments
+- music releases
+- device customization
+- Android UI design
+
+================================================================================
+49. DEVICES AND DEVELOPMENT ENVIRONMENT
+================================================================================
+
+Main computing context:
+- Dell Windows laptop
+- One recorded development-laptop configuration: Intel Core i5-2520M with 8 GB RAM
+- Android phone
+- Android Studio
+- emulator
+- GitHub
+- Python environments
+
+Phone context:
+Samsung Android device has been used for testing and daily mobile development-related discussions.
+One specifically recorded phone model is Samsung A06.
+
+Other devices discussed:
+- JVC smart TV
+- wearable / WearOS concepts
+- robotics hardware
+
+Python versions discussed across troubleshooting:
+- Python 3.8
+- Python 3.10
+- Python 3.13
+- Python 3.14
+
+Development difficulties encountered:
+- pip timeouts
+- virtual-environment problems
+- Gradle timeouts
+- Android Studio cache size
+- GitHub Actions failures
+- APK signing
+- package errors
+- Firebase configuration
+- missing dependencies
+
+================================================================================
+50. GITHUB AND BUILD CULTURE
+================================================================================
+
+DARTHWOLF frequently uses GitHub repositories and GitHub Actions to build projects.
+
+Common pattern:
+- build app
+- CI fails
+- inspect error
+- patch source
+- rebuild
+- download APK
+- test on Android
+- find real-device issue
+- repeat
+
+Projects with repeated CI/build work:
+- StudyLock
+- Study AI
+- Evolution Learning
+- Star AI
+- Pulsar AI
+- AMBER
+- Infinity-related projects
+
+The development process is very iterative and hands-on.
+
+================================================================================
+51. APK DEVELOPMENT
+================================================================================
+
+A major part of DARTHWOLF's workflow is turning ideas or HTML prototypes into Android APKs.
+
+Typical requests:
+- convert HTML to Android app
+- preserve exact UI
+- make preview buttons real
+- wire Firebase
+- wire AI
+- add offline mode
+- sign APK
+- make installable
+- fix "App not installed"
+- fix package conflicts
+- build again
+
+Projects built or intended as APKs:
+- StudyLock Student
+- StudyLock Parent
+- StudyLock Teacher
+- Star AI
+- GuardianAI
+- Evolution Learning
+- Study AI
+- Infinity Prime
+- Pulsar AI Companion
+- AMBER
+- Void
+
+================================================================================
+52. FIREBASE USAGE
+================================================================================
+
+Firebase has been repeatedly used as the main backend direction.
+
+Uses:
+- authentication
+- pairing
+- syncing
+- user accounts
+- app data
+- student/parent state
+- teacher classes
+- AI-related app support
+- cloud data
+
+Projects associated with Firebase:
+- StudyLock
+- GuardianAI
+- Evolution Learning
+- Study AI
+- Star AI
+- Cyber Pulse website
+
+One of the major lessons in the project history:
+the UI can appear correct while Firebase rules, app registration, package identity, auth, or schema still prevent the actual system from working.
+
+================================================================================
+53. NETLIFY
+================================================================================
+
+Netlify became an important hosting platform for Cyber Pulse websites.
+
+Known deployments:
+- Cyber Pulse main information website
+- Cyber Learn Projects / offline library
+- Cyber Pulse APK download website
+
+Netlify was preferred for quick deployment of static sites.
+
+================================================================================
+54. PERSONAL DEVELOPMENT DIRECTION
+================================================================================
+
+DARTHWOLF's projects show a consistent pattern:
+he wants to move from using technology to building technology.
+
+The long-term direction includes:
+- becoming stronger in AI engineering
+- cybersecurity
+- software engineering
+- Android development
+- system design
+- robotics
+- automation
+- electrical/electronic systems
+
+The most ambitious projects are not simple apps.
+They aim to become platforms, operating environments, AI engines, or connected ecosystems.
+
+================================================================================
+55. WHAT MAKES THE PROJECT PORTFOLIO DISTINCT
+================================================================================
+
+The portfolio mixes:
+
+EDUCATION
+- StudyLock
+- Study AI
+- StudyOS
+- Evolution Learning
+- Phoenix
+
+AI ASSISTANTS
+- Star AI
+- AEGIS
+- Pulsar AI
+- AMBER
+- Pulse AI
+- Knox AI concept
+
+SAFETY
+- GuardianAI
+- Community Safety App
+- Community Gadget
+- Titan Shield
+- Infinity Shield
+
+OPERATING SYSTEM / PLATFORM IDEAS
+- Infinity OS
+- Infinity Prime
+- StudyOS
+- HORIZON OS
+- Void
+
+HARDWARE
+- AI Earpods
+- Infinity Car
+- Pulsar robot
+- emergency gadget
+- backup-power concepts
+
+WEB
+- Cyber Pulse main website
+- offline learning library
+- APK download website
+- fundraising platform
+- team/community/product sites
+
+================================================================================
+56. PROJECT OWNERSHIP / STATUS CLARIFICATIONS
+================================================================================
+
+Not every project mentioned historically should automatically be labeled an official Cyber Pulse product.
+
+Known clarifications:
+
+Alpha11:
+Explicitly later stated to be outside Cyber Pulse.
+
+Void:
+Separate from Cyber Pulse.
+
+Pulsar AI:
+Discussed as an independent AI-engine project rather than a normal Cyber Pulse product.
+
+Desktop Infinity:
+Later records distinguished it from Cyber Pulse.
+
+Infinity OS Android / Infinity Prime:
+Associated with Cyber Pulse in later project registries.
+
+Core Cyber Pulse products should therefore be separated from:
+- independent projects
+- older experiments
+- personal projects
+- historical concepts
+
+================================================================================
+57. CYBER PULSE'S GENERAL MISSION
+================================================================================
+
+Cyber Pulse can be summarized as a youth technology ecosystem focused on:
+
+- building practical student technology
+- experimenting with advanced AI
+- improving learning
+- improving digital safety
+- making AI more capable
+- building offline-first systems
+- creating connected apps
+- exploring future computing
+- turning ideas from team members into functional technology
+
+The organization is strongly driven by DARTHWOLF's development work.
+
+================================================================================
+58. DARTHWOLF AS A BUILDER
+================================================================================
+
+The strongest recurring characteristics in the project history are:
+
+- ambitious scope
+- willingness to experiment
+- interest in building complete systems
+- repeated iteration
+- strong preference for AI integration
+- strong interest in offline functionality
+- strong interest in device control
+- strong visual-design preferences
+- tendency to combine projects
+- interest in real APKs rather than only mockups
+- focus on turning concepts into usable software
+- willingness to troubleshoot failed builds repeatedly
+
+DARTHWOLF often pushes projects beyond their original scope.
+A small app idea can eventually become:
+- an AI assistant
+- a connected ecosystem
+- a desktop version
+- a mobile version
+- an offline version
+- a voice-controlled version
+- a multi-agent version
+
+================================================================================
+59. KNOWN CURRENT PROJECT FOCUS AROUND SEPTEMBER 2026
+================================================================================
+
+Major active areas around late September 2026 include:
+
+StudyLock:
+- Student/Parent/Teacher connection
+- Parent installation errors
+- Firebase pairing
+- matching UI across apps
+- uninstall protection
+- offline learning
+
+Pulsar / AMBER:
+- advanced AI companion
+- laptop control
+- Android companion
+- automation
+
+Star AI:
+- Android build
+- AI integration
+- Firebase
+- offline support
+
+Evolution Learning:
+- Android build
+- Firebase
+- real feature implementation
+
+Study AI:
+- Android APK builds
+- education AI
+
+Cyber Pulse:
+- website
+- APK download platform
+- library
+- branding
+- product organization
+
+================================================================================
+60. MASTER PROJECT INDEX
+================================================================================
+
+CORE CYBER PULSE / STRONGLY ASSOCIATED
+--------------------------------------
+StudyLock
+StudyLock Student
+StudyLock Parent
+StudyLock Teacher
+StudyLock Parent Dashboard
+Evolution Learning
+StudyOS
+Study AI
+Star AI
+GuardianAI
+Infinity OS Android
+Infinity Prime
+AEGIS
+Community Safety App
+Community Gadget
+Cyber Pulse AI Earpods
+Pulse AI
+Cyber Pulse main website
+Cyber Learn Projects
+Cyber Pulse APK Download website
+
+INFINITY / AEGIS SUBSYSTEMS
+---------------------------
+Infinity Core
+Agent Matrix
+Mission Control
+Device Mesh
+Memory Vault
+Infinity Shield
+Developer OS
+Vision
+Model Hub
+Project Capsules
+Infinity Sandbox
+Memory 3.0 Knowledge Graph
+Background Intelligence
+Time Machine
+Model Benchmark Lab
+Adaptive Performance
+Skill Store
+Forge
+Omega Forge
+Omega Brain
+Titan Core
+Titan Shield
+Sentinel
+Nexus IDE
+Trinity Engine
+AEGIS Core
+AEGIS TITAN
+AEGIS v16 OMEGA
+Aegis Titan Shield
+
+INDEPENDENT / EXPERIMENTAL / BROADER PERSONAL PROJECT HISTORY
+-------------------------------------------------------------
+Pulsar AI
+Pulsar Core
+Pulsar-1
+Pulsar AI Companion
+AMBER
+Knox AI
+Void
+Alpha11 / Alpha Eleven
+Phoenix Learning System
+DroidDesk
+HORIZON OS
+HORIZON OS 2.0
+HORIZON EVENT
+HORIZON CORE
+HORIZON AI
+HORIZON MESH
+HORIZON UI
+AIClient2API
+500 AI Agents concept
+NEXUS
+GPT-7 Lab
+The Forbidden Gates
+
+HARDWARE / ROBOTICS
+-------------------
+Pulsar robot
+LEGO AI robot
+Infinity Car / robotic car
+ESP32 vehicle concepts
+Community emergency gadget
+Cyber Pulse AI Earpods
+TriTech hand-crank / backup power concept
+
+WEB / ORGANIZATION / INFRASTRUCTURE
+-----------------------------------
+Cyber Pulse main website
+Cyber Pulse Team
+Cyber Pulse Products
+Cyber Pulse Community
+Cyber Pulse Safety
+Cyber Pulse Family
+Cyber Pulse Tree
+Cyber Pulse portfolio
+Cyber Pulse authentication
+Cyber Learn Projects
+Offline library
+APK download website
+$100,000 Challenge
+Fundraising dashboard
+Admin dashboards
+Infinity OS website
+
+================================================================================
+61. ONE-PARAGRAPH PROFILE
+================================================================================
+
+Ntsakiso Chauke, known as DARTHWOLF, is a South African student developer and the founder, CEO, and lead developer of Cyber Pulse. His work focuses heavily on artificial intelligence, cybersecurity, Android software, offline AI, automation, connected devices, education technology, robotics, and futuristic interface design. He has built or planned a large ecosystem of projects including StudyLock, Evolution Learning, StudyOS, Study AI, Star AI, GuardianAI, Infinity OS, AEGIS, Community Safety systems, Pulsar AI, AMBER, Void, and many experimental engines, websites, assistants, hardware ideas, and AI-control systems. His development style is highly iterative and ambitious: projects usually evolve from simple ideas into larger platforms with AI, voice, memory, automation, offline support, mobile/desktop versions, device control, and interconnected services.
+
+================================================================================
+62. SHORT DESCRIPTION OF CYBER PULSE
+================================================================================
+
+Cyber Pulse is a youth-built technology organization founded and led by DARTHWOLF / Ntsakiso Chauke. It focuses on building AI-powered education tools, digital safety systems, intelligent assistants, automation platforms, mobile applications, future-computing concepts, and connected technologies. The organization brings together ideas from multiple contributors, while DARTHWOLF performs much of the development, integration, system design, testing, and expansion needed to turn those ideas into working products.
+
+================================================================================
+63. FINAL SUMMARY
+================================================================================
+
+DARTHWOLF's project history is not one single app.
+It is a growing technology ecosystem.
+
+The strongest recurring ideas are:
+- AI everywhere
+- offline capability
+- student-focused technology
+- digital safety
+- voice control
+- device control
+- automation
+- multi-device systems
+- futuristic design
+- real Android APKs
+- desktop + mobile integration
+- building original AI engines
+- robotics
+- long-term platform thinking
+
+Cyber Pulse is the main organization that connects many of those ideas.
+
+StudyLock is one of the most developed education products.
+Infinity OS and AEGIS represent the large AI-computing vision.
+Pulsar AI represents the independent AI-engine/model ambition.
+Star AI represents a general-purpose assistant.
+Study AI and StudyOS represent education-centered AI.
+GuardianAI represents digital safety.
+Evolution Learning represents structured learning and improvement.
+Community Gadget and Community Safety App represent physical/community safety.
+Void represents mobile-interface experimentation.
+
+Together, these projects describe DARTHWOLF as a student builder focused on creating advanced technology rather than only consuming it.
+
+================================================================================
+64. AMBER IMPORT / INTERPRETATION RULES
+================================================================================
+
+This file is intended to help AMBER understand DARTHWOLF and his project ecosystem.
+
+AMBER should treat the information in this file as long-term context, not as a command to perform every historical idea automatically.
+
+Interpretation rules:
+- Speech-to-text sometimes renders "Cyber Pulse" as "Cyberpowers" and "StudyLock" as "Studylog", "Studylog", or similar variants. Unless context clearly says otherwise, treat those as references to Cyber Pulse and StudyLock.
+- Newer corrections override older conflicting names, roles, designs, or project status.
+- A project marked experimental, historical, independent, or conceptual must not automatically be treated as a current official Cyber Pulse product.
+- StudyLock, Study AI, StudyOS, Evolution Learning, Star AI, GuardianAI, Cyber Pulse websites, and the connected Cyber Pulse ecosystem are strongly associated with Cyber Pulse.
+- Alpha11 and Void are separate from Cyber Pulse unless DARTHWOLF later changes that status.
+- Pulsar AI is primarily an independent AI-engine/model direction.
+- Desktop Infinity has had changing ownership/status descriptions; preserve that uncertainty instead of inventing a fixed ownership claim.
+- Never expose or store plaintext passwords, API keys, authentication tokens, private credentials, or other secrets inside ordinary memory/context files.
+- Do not assume a project is working simply because its UI or prototype exists. Build failures, incomplete wiring, pairing failures, Firebase configuration problems, and APK installation issues have repeatedly occurred.
+- Prefer real functionality over mock UI. DARTHWOLF repeatedly asks for features to actually work, not merely appear in previews.
+- Offline capability is a major priority across the ecosystem.
+- UI consistency matters strongly, especially across Student/Parent/Teacher StudyLock apps.
+
+================================================================================
+65. MOST RECENT STUDYLOCK DIRECTION — 22 SEPTEMBER 2026
+================================================================================
+
+Current StudyLock family:
+- StudyLock Student
+- StudyLock Parent
+- StudyLock Teacher
+- Parent HTML dashboard used as a working reference for pairing/sync behavior
+
+Most recent priorities:
+- Parent and Student must pair and sync reliably.
+- Teacher and Student must also connect reliably where supported.
+- The Parent HTML dashboard has historically connected when the Parent APK did not; its working connection logic is therefore an important reference when debugging the native app.
+- Parent and Teacher should use the same overall UI/UX language as Student.
+- Current visual direction is liquid yellow/orange with rounded modern surfaces and minimal white-background usage.
+- Parent and Teacher interfaces should feel like one product family with the Student app.
+- Pairing code / key generation must work.
+- Firebase configuration, app registration, schema, authentication, rules, signing, and package identity must be checked whenever pairing fails.
+- Same-Wi-Fi / LAN communication has also been considered as a direct sync path, with cloud/Firebase as a fallback or complementary layer depending on build design.
+- StudyLock should work as fully offline as practical for tutoring, quizzes, stored knowledge, focus functions, and local controls.
+- A six-digit PIN is central to protected settings and administrative controls.
+- Uninstall/deactivation protection has been a repeated concern; Android platform limitations must be respected, but protected admin/settings flows should require the intended PIN wherever the platform permits.
+- App blocking must actually function, not only display a blocked-app list.
+- Student metrics include study time, AI usage, focus state, remote sessions, and blocked-app information.
+- Parent controls include student metrics, blocked apps, schedule management, and remote focus-session controls.
+- Teacher direction includes notes, commitments/assignments, resources, broadcasts, student groups/classes, and communication features.
+- Visual learning has been discussed as a dedicated learning area, including safe video-based learning resources.
+
+Recorded Student Android identity from earlier work:
+Package: com.studylock.student
+Version direction recorded: 1.0.15-firebase-parent-controls
+
+Do not treat package hashes, signing fingerprints, or build identifiers as user authentication secrets. They are technical identity metadata, but AMBER should still avoid exposing them unnecessarily.
+
+================================================================================
+66. MOST RECENT AMBER DIRECTION
+================================================================================
+
+AMBER is intended to become a powerful AI companion closely connected to Pulsar AI work.
+
+Desired capability direction:
+- Desktop/laptop control
+- Android companion functionality
+- Natural-language task execution
+- Opening applications
+- Typing and mouse/keyboard interaction through authorized automation
+- Coding and developer assistance
+- Screen-aware assistance where permission is granted
+- File and application workflows
+- Voice input and spoken responses
+- Background assistant behavior where the operating system allows it
+- Plugin/skill architecture
+- Multi-model routing
+- Online and offline operation
+- Memory/context about DARTHWOLF's projects
+- Ability to work with tools such as browsers, editors, terminals, and project files
+
+Messaging automation direction discussed:
+- Use WhatsApp or other messaging surfaces only through authorized user sessions and supported automation.
+- DARTHWOLF wants the option to send messages by voice/instruction.
+- Automatic replies were discussed as a user-controlled setting that can be enabled or disabled.
+- AMBER should not impersonate DARTHWOLF or send sensitive/high-impact messages without the level of confirmation configured by the user and supported by the platform.
+
+Game / computer-control direction discussed:
+- AMBER should be capable of pressing keys and controlling applications when a safe, authorized computer-control layer is available.
+- The goal is practical control rather than pretending an action occurred.
+- If AMBER cannot perform an action because an automation bridge, permission, or connector is missing, it should state that clearly rather than claiming success.
+
+================================================================================
+67. PERSONAL PREFERENCES USEFUL TO AMBER
+================================================================================
+
+Preferred creator name / identity:
+DARTHWOLF
+
+Known favorite / recurring entertainment interests:
+- Minecraft
+- Dax
+- Marshmello
+- Alan Walker
+- Dwayne Johnson
+
+Latest food preference recorded in conversation context:
+- Chicken nuggets
+
+Preferred technology themes:
+- AI advancement
+- cybersecurity
+- ethical hacking
+- programming
+- Android development
+- electronics
+- electrical engineering
+- robotics
+- offline AI
+- futuristic interfaces
+
+Preferred visual language:
+- dark
+- cinematic
+- futuristic
+- neon cyan / blue / purple
+- glass / liquid-glass
+- 3D depth
+- smooth motion
+- HUD / command-center styling
+
+StudyLock exception:
+- liquid yellow/orange is the defining current StudyLock family style.
+
+================================================================================
+68. KNOWN RECURRING WORKFLOWS / INFORMATION PREFERENCES
+================================================================================
+
+Historical recurring requests and monitoring preferences have included:
+- Weekly StudyLock project summaries covering changes, blockers, next milestone, and risks.
+- Important Gmail summaries prioritizing account-security notices, deadlines, decisions, and messages needing replies.
+- Friday AI and cybersecurity briefings written at a Grade-10-friendly level.
+- GitHub/build monitoring for project failures and missing APK outputs.
+- Weekly Cyber Pulse development recaps with next actions.
+- Music-release alerts for Dax, Marshmello, and Alan Walker using official sources where possible.
+
+These are historical preference records and should not be assumed to be currently scheduled unless AMBER has an active scheduler entry confirming them.
+
+================================================================================
+69. PRIVACY / SECURITY BOUNDARY FOR THIS MASTER FILE
+================================================================================
+
+Intentionally excluded from this Amber-ready export:
+- passwords
+- API keys
+- private authentication tokens
+- private account credentials
+- precise private location
+- security-question answers
+- secret recovery codes
+- private medical/health information
+- unnecessary private profiles of other people
+
+People other than DARTHWOLF are included only when they were explicitly associated with projects, teams, school/project activities, or idea contributions. This file should not be treated as a dossier about them.
+
+================================================================================
+END OF AMBER MASTER CONTEXT
+================================================================================

@@ -1,0 +1,11 @@
+StudyLock knowledge pack installed — 22 September 2026
+
+Included:
+- Full StudyLock project overview and development history
+- StudyLock people/roles reference
+- Fast StudyLock quick-reference file
+- Prebuilt Ember knowledge index
+- Compact StudyLock memory pointers
+- Prompt routing rule telling Ember to search local StudyLock knowledge for detailed answers
+
+No new API keys or passwords were added by this update.

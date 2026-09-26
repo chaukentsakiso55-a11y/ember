@@ -1,0 +1,71 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 5. DEVELOPMENT TOOLS AND TECHNOLOGIES USED OR DISCUSSED
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+5. DEVELOPMENT TOOLS AND TECHNOLOGIES USED OR DISCUSSED
+================================================================================
+
+Programming:
+- Python
+- Kotlin
+- JavaScript
+- HTML
+- CSS
+
+Android:
+- Android Studio
+- Kotlin
+- Jetpack Compose
+- Gradle
+- Android Accessibility Service
+- Device Admin concepts
+- WebView
+- Firebase SDKs
+- Android notifications
+- Speech-to-text
+- Text-to-speech
+
+AI:
+- Gemini
+- OpenRouter
+- Google Generative AI
+- llama.cpp
+- Whisper.cpp
+- local LLMs
+- cloud LLM APIs
+- multiple-model routing
+- AI agent systems
+- offline model concepts
+
+Backend / sync:
+- Firebase
+- Firestore
+- Firebase Authentication
+- REST APIs
+- FastAPI
+- LAN sync
+- QR pairing
+- pairing codes
+
+Automation / agent concepts:
+- MCP
+- plugins
+- AI agents
+- browser automation
+- Windows automation
+- mobile automation
+- accessibility control
+- command routing
+
+Development platforms:
+- GitHub
+- GitHub Actions
+- Netlify
+- Firebase Hosting
+- AppDeploy
+- Replit
+- Android Studio
+
+================================================================================

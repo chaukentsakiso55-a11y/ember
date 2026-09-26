@@ -1,0 +1,25 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 36. PULSE AI
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+36. PULSE AI
+================================================================================
+
+Pulse AI is a Cyber Pulse website assistant.
+
+Purpose:
+Answer questions about Cyber Pulse.
+
+Potential topics:
+- products
+- organization
+- projects
+- people
+- website navigation
+- what Cyber Pulse builds
+
+It functions more like a brand/site assistant than a standalone full general-purpose AI product.
+
+================================================================================

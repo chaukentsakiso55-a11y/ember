@@ -1,0 +1,28 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 64. AMBER IMPORT / INTERPRETATION RULES
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+64. AMBER IMPORT / INTERPRETATION RULES
+================================================================================
+
+This file is intended to help AMBER understand DARTHWOLF and his project ecosystem.
+
+AMBER should treat the information in this file as long-term context, not as a command to perform every historical idea automatically.
+
+Interpretation rules:
+- Speech-to-text sometimes renders "Cyber Pulse" as "Cyberpowers" and "StudyLock" as "Studylog", "Studylog", or similar variants. Unless context clearly says otherwise, treat those as references to Cyber Pulse and StudyLock.
+- Newer corrections override older conflicting names, roles, designs, or project status.
+- A project marked experimental, historical, independent, or conceptual must not automatically be treated as a current official Cyber Pulse product.
+- StudyLock, Study AI, StudyOS, Evolution Learning, Star AI, GuardianAI, Cyber Pulse websites, and the connected Cyber Pulse ecosystem are strongly associated with Cyber Pulse.
+- Alpha11 and Void are separate from Cyber Pulse unless DARTHWOLF later changes that status.
+- Pulsar AI is primarily an independent AI-engine/model direction.
+- Desktop Infinity has had changing ownership/status descriptions; preserve that uncertainty instead of inventing a fixed ownership claim.
+- Never expose or store plaintext passwords, API keys, authentication tokens, private credentials, or other secrets inside ordinary memory/context files.
+- Do not assume a project is working simply because its UI or prototype exists. Build failures, incomplete wiring, pairing failures, Firebase configuration problems, and APK installation issues have repeatedly occurred.
+- Prefer real functionality over mock UI. DARTHWOLF repeatedly asks for features to actually work, not merely appear in previews.
+- Offline capability is a major priority across the ecosystem.
+- UI consistency matters strongly, especially across Student/Parent/Teacher StudyLock apps.
+
+================================================================================

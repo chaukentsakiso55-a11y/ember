@@ -1,0 +1,45 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 22. VOID
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+22. VOID
+================================================================================
+
+Void is a separate Android phone UI / launcher project.
+
+Status:
+Separate from Cyber Pulse.
+
+Purpose:
+Replace or heavily redesign the normal Android phone interface.
+
+Goal:
+Create a new phone UI with the feature richness of major Android interfaces.
+
+References:
+- Samsung One UI
+- Pixel Launcher
+- HyperOS
+- ColorOS
+- Nothing OS
+
+Features:
+- custom notifications
+- status-bar customization
+- quick-settings customization
+- control-center design
+- app-open animations
+- broad appearance customization
+- fluid transitions
+- spring physics
+- gestures
+- blur
+- depth
+- smooth motion
+
+Target:
+Keep installed size at or below roughly 500 MB.
+
+================================================================================

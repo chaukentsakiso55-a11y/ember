@@ -1,0 +1,41 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 65. MOST RECENT STUDYLOCK DIRECTION — 22 SEPTEMBER 2026
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+65. MOST RECENT STUDYLOCK DIRECTION — 22 SEPTEMBER 2026
+================================================================================
+
+Current StudyLock family:
+- StudyLock Student
+- StudyLock Parent
+- StudyLock Teacher
+- Parent HTML dashboard used as a working reference for pairing/sync behavior
+
+Most recent priorities:
+- Parent and Student must pair and sync reliably.
+- Teacher and Student must also connect reliably where supported.
+- The Parent HTML dashboard has historically connected when the Parent APK did not; its working connection logic is therefore an important reference when debugging the native app.
+- Parent and Teacher should use the same overall UI/UX language as Student.
+- Current visual direction is liquid yellow/orange with rounded modern surfaces and minimal white-background usage.
+- Parent and Teacher interfaces should feel like one product family with the Student app.
+- Pairing code / key generation must work.
+- Firebase configuration, app registration, schema, authentication, rules, signing, and package identity must be checked whenever pairing fails.
+- Same-Wi-Fi / LAN communication has also been considered as a direct sync path, with cloud/Firebase as a fallback or complementary layer depending on build design.
+- StudyLock should work as fully offline as practical for tutoring, quizzes, stored knowledge, focus functions, and local controls.
+- A six-digit PIN is central to protected settings and administrative controls.
+- Uninstall/deactivation protection has been a repeated concern; Android platform limitations must be respected, but protected admin/settings flows should require the intended PIN wherever the platform permits.
+- App blocking must actually function, not only display a blocked-app list.
+- Student metrics include study time, AI usage, focus state, remote sessions, and blocked-app information.
+- Parent controls include student metrics, blocked apps, schedule management, and remote focus-session controls.
+- Teacher direction includes notes, commitments/assignments, resources, broadcasts, student groups/classes, and communication features.
+- Visual learning has been discussed as a dedicated learning area, including safe video-based learning resources.
+
+Recorded Student Android identity from earlier work:
+Package: com.studylock.student
+Version direction recorded: 1.0.15-firebase-parent-controls
+
+Do not treat package hashes, signing fingerprints, or build identifiers as user authentication secrets. They are technical identity metadata, but AMBER should still avoid exposing them unnecessarily.
+
+================================================================================

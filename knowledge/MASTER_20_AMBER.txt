@@ -1,0 +1,28 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 20. AMBER
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+20. AMBER
+================================================================================
+
+AMBER became associated with the Pulsar AI Companion Android project.
+
+Direction:
+- AI assistant
+- Android companion
+- extensive control capabilities
+- desktop/laptop interaction
+- app control
+- messaging automation concepts
+- game-control concepts
+- advanced automation
+
+Build names included:
+- AMBER APK
+- AMBER Full APK
+
+Several GitHub Actions AMBER builds failed during active development.
+
+================================================================================

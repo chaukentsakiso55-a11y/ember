@@ -1,0 +1,55 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 55. WHAT MAKES THE PROJECT PORTFOLIO DISTINCT
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+55. WHAT MAKES THE PROJECT PORTFOLIO DISTINCT
+================================================================================
+
+The portfolio mixes:
+
+EDUCATION
+- StudyLock
+- Study AI
+- StudyOS
+- Evolution Learning
+- Phoenix
+
+AI ASSISTANTS
+- Star AI
+- AEGIS
+- Pulsar AI
+- AMBER
+- Pulse AI
+- Knox AI concept
+
+SAFETY
+- GuardianAI
+- Community Safety App
+- Community Gadget
+- Titan Shield
+- Infinity Shield
+
+OPERATING SYSTEM / PLATFORM IDEAS
+- Infinity OS
+- Infinity Prime
+- StudyOS
+- HORIZON OS
+- Void
+
+HARDWARE
+- AI Earpods
+- Infinity Car
+- Pulsar robot
+- emergency gadget
+- backup-power concepts
+
+WEB
+- Cyber Pulse main website
+- offline learning library
+- APK download website
+- fundraising platform
+- team/community/product sites
+
+================================================================================

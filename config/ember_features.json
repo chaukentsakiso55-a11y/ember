@@ -1,0 +1,26 @@
+{
+  "model_mode": "auto",
+  "temporary_memory": false,
+  "active_workspace": "default",
+  "theme": "amber",
+  "avatar": "face",
+  "voice_profile": "default",
+  "kill_switch": false,
+  "privacy_logging": true,
+  "notification_digest": true,
+  "whisper_mode": false,
+  "mini_hud": true,
+  "performance_profile": "balanced",
+  "agent_supervisor": true,
+  "visual_agent": true,
+  "screen_understanding": true,
+  "workflow_recording": false,
+  "selected_agents": [
+    "research",
+    "coding",
+    "study",
+    "files",
+    "vision",
+    "planning"
+  ]
+}

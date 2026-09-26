@@ -1,0 +1,75 @@
+DARTHWOLF + CYBER PULSE — HIGH-FREQUENCY KNOWLEDGE QUESTIONS
+================================================================
+This file is a retrieval guide. Answers are compressed from the installed master context and detailed project records. When more detail is needed, search the named project record.
+
+WHO IS DARTHWOLF?
+Ntsakiso Chauke / DARTHWOLF is recorded as a South African high-school student developer, Founder, CEO, Lead Developer and system architect of Cyber Pulse. His strongest recurring technical interests include AI, cybersecurity, Android/Kotlin, Python, offline AI, automation, robotics/electronics, device control, education technology and futuristic interfaces.
+
+WHAT IS CYBER PULSE?
+Cyber Pulse is a youth-built technology ecosystem focused on turning ideas into working technology across education, AI, digital safety, automation, mobile/desktop software, offline systems, connected devices, community safety and experimental hardware. Its slogan is “Build Beyond the Idea.”
+
+WHO ARE THE RECORDED CYBER PULSE / PROJECT CONTRIBUTORS?
+Ntsakiso Chauke / DARTHWOLF is Founder, CEO and Lead Developer. The master people record lists Rhandzu Fuela as the most consistently recovered newer spelling for the StudyLock contributor, Nziani Nhlanhla for StudyLock research/idea collaboration, Nkateko Maluleke for Star AI/Study AI/UI ideas, Themba Fuela and Success Mabunda for GuardianAI, and Mawela Nkoriso for Community Gadget / Community Safety work. Because older spelling variants exist, Ember should consult the master people section before repeating uncertain spellings.
+
+WHAT ARE THE MAIN CYBER PULSE PRODUCTS?
+StudyLock, Evolution Learning, StudyOS, Study AI, Star AI, GuardianAI, Infinity OS Android / Infinity Prime, AEGIS, Community Safety App, Community Gadget and Cyber Pulse AI Earpods are listed among the core/strongly associated portfolio.
+
+WHAT IS STUDYLOCK?
+A Student/Parent/Teacher focus-and-learning ecosystem combining protected study sessions, app blocking, tutoring, offline learning, quizzes, notes, planning, progress, pairing/sync, family controls and teacher content. Its current visual family uses liquid yellow/orange.
+
+WHAT IS STUDYOS?
+A student-focused AI operating environment. v4 centers offline-first local models, llama.cpp, Whisper.cpp, Phi/Gemma-class models and local speech. v5 expands toward Android, WearOS, embedded systems, encrypted models, no-cloud mode, watch tiles, LAN remote-brain concepts and agent swarms.
+
+WHAT IS STUDY AI?
+A dedicated education AI assistant for tutoring and learning assistance, with online/offline model direction, Firebase integration and Android APK development. It is not the same as StudyLock.
+
+WHAT IS STAR AI?
+A general-purpose assistant for work, learning, research, productivity, coding and everyday tasks. Its direction includes Android/desktop, online and offline models, multiple providers, voice, speech-to-text, text-to-speech, background operation and memory.
+
+WHAT IS GUARDIANAI?
+A digital-safety project aimed at detecting/blocking harmful or inappropriate content, app protection, parental controls and safer-device behavior. Original idea associations are Themba Fuela and Success Mabunda.
+
+WHAT IS EVOLUTION LEARNING?
+An education platform with the slogan “learn → practice → improve → evolve.” Main sections include Home, Study Hub, AI Tools, Quiz, Progress and Profile, with AI support, quizzes, notes, flashcards, homework, planning, goals and progress.
+
+WHAT IS INFINITY OS?
+A large AI-first computing concept combining an assistant, local/cloud model routing, memory, voice, vision, coding, automation, security, files/browser, plugins, device integration and remote-control concepts in a dark cyberpunk glass interface.
+
+WHAT IS INFINITY PRIME?
+The Android direction of the Infinity system, recorded with package direction com.cyberpulse.infinityprime and concepts including AEGIS, smart routing, Vault/memory, Project Brain, voice, screen awareness, accessibility control, paired desktop control and remote actions.
+
+WHAT IS AEGIS?
+An AI assistant/engine associated with Infinity, intended for answering, automation, model routing, voice, device operation, security-related actions, coding and system commands. Historical names include AEGIS TITAN, AEGIS v16 OMEGA, AEGIS Core and Aegis Titan Shield.
+
+WHAT IS PULSAR AI?
+A major independent AI-engine/model direction with internal names Pulsar Core and Pulsar-1. Its goal is to build an original AI engine/model and eventually expose it as an API/service, with desktop/Android companion, voice, coding, plugins, skills, offline operation and multi-model routing concepts.
+
+WHAT IS AMBER?
+AMBER is associated with the Pulsar AI Companion direction: an AI companion focused on Android/desktop interaction, app/device control, developer assistance, voice, automation, plugins/skills, memory and online/offline model use.
+
+WHAT IS VOID?
+A separate Android phone UI/launcher project, outside Cyber Pulse under the latest correction, aimed at rich launcher/system-UI customization, smooth motion, gestures, blur/depth, notifications, status bar and quick settings, with a target of roughly 500 MB installed or less.
+
+WHAT IS ALPHA11?
+A reasoning/reflection/personal-development concept associated with Hlaisi Nhlahla. The latest correction says it is not a Cyber Pulse product.
+
+WHAT ARE THE COMMUNITY SAFETY PROJECTS?
+Community Gadget is a simple emergency hardware/software concept with three-button logic, offline operation and control-center connection. Community Safety App is the software side with private-code access, alerts, emergency location sharing, notifications and coordination. Mawela Nkoriso is the associated concept contributor.
+
+WHAT WEBSITES ARE PART OF THE ECOSYSTEM?
+The master record includes the Cyber Pulse main information website, Cyber Learn Projects/offline library, Cyber Pulse APK download website, fundraising/admin dashboards and other team/community/product/portfolio web subsystems.
+
+WHAT IS THE OFFLINE-AI PHILOSOPHY?
+Offline capability is a recurring priority because internet may be unavailable or costly, student tools should keep working, privacy can improve, local models reduce provider dependence and devices remain useful during outages.
+
+WHAT IS THE MODEL-ROUTING PHILOSOPHY?
+Several projects use local-first/cloud-when-needed routing, task-specific models, fallback providers, OpenRouter support, benchmarking and automatic selection.
+
+WHAT IS THE DEVICE-CONTROL DIRECTION?
+Across Infinity, AEGIS, Pulsar and AMBER, the desired direction includes opening programs, coding, Windows/browser/file control, authorized messaging, keyboard/mouse control, repeated-task automation, Android accessibility control and desktop/phone pairing.
+
+WHAT IS THE CURRENT LATE-SEPTEMBER-2026 FOCUS?
+StudyLock: connectivity/install/UI/offline/security. Pulsar/AMBER: advanced companion, laptop control, Android and automation. Star AI: Android build, AI integration, Firebase and offline support. Evolution Learning: Android/Firebase/real features. Study AI: Android APKs and education AI. Cyber Pulse: websites, APK platform, library, branding and product organization.
+
+IMPORTANT INTERPRETATION RULE
+Do not claim a requested, experimental, prototype or failed-build feature is fully working unless the installed evidence establishes that. Preserve ownership uncertainty and newer corrections. Do not reveal or store passwords, API keys, tokens, exact private location or private medical information.

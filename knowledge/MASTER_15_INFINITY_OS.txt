@@ -1,0 +1,75 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 15. INFINITY OS
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+15. INFINITY OS
+================================================================================
+
+Infinity OS is one of DARTHWOLF's largest AI-first computing concepts.
+
+Purpose:
+Build an AI-centered computing environment where the assistant can control, automate, organize, code, research, manage files, operate apps, and work across devices.
+
+Infinity OS design:
+- cyberpunk glass
+- OLED dark
+- cyan
+- blue
+- purple
+- advanced AI dashboard
+
+Important Infinity OS features discussed:
+- Dashboard
+- AI chat
+- AI orchestrator
+- local models
+- cloud models
+- Model Center
+- Memory Vault
+- voice
+- vision
+- Learning Suite
+- Notes
+- Code Workspace
+- developer tools
+- Debug Console
+- Automation
+- Security Center
+- Files
+- Browser
+- Store
+- Themes
+- Settings
+- Plugin SDK
+- Wear companion
+- device integration
+- project memory
+- browser automation
+- phone companion
+- MCP
+- backups
+- rollback
+- device control
+- app launching
+- coding
+- remote commands
+
+Infinity OS also experimented with:
+- QR pairing
+- web pairing
+- remote laptop control
+- live chat
+- file upload
+- multiple API providers
+- voice control
+- always-on mic concepts
+- mobile/desktop connection
+- WhatsApp-related automation concepts
+
+IMPORTANT OWNERSHIP HISTORY:
+Later records distinguished Desktop Infinity from Cyber Pulse in some versions, while Infinity OS Android / Infinity Prime remained associated with the Cyber Pulse ecosystem.
+The exact ownership label changed over time, so this distinction should be preserved.
+
+================================================================================

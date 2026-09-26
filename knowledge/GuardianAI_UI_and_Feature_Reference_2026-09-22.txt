@@ -1,0 +1,175 @@
+GUARDIANAI — CLEANED UI / FEATURE REFERENCE
+================================================================================
+
+GuardianAI — Neon Blue UI Concept
+GUARDIANAI
+CYBER PULSE SECURITY
+SYSTEM
+◈
+Overview
+⬡
+Shield
+✦
+Safety AI
+⌁
+Activity
+▣
+Device
+⚙
+Settings
+Protection Core
+Offline ready
+GuardianAI
+/
+Overview
+Sign in
+● Protection active
+Guardian Protection Core · Online
+Digital safety with a
+neon edge.
+A redesigned GuardianAI interface built around clarity, trust and high-contrast cyber security visuals — without looking like a generic settings app.
+Open Protection Shield
+Ask Safety AI
+04
+active protection layers
+100%
+local safety core
+24/7
+device watch
+READY
+Safety AI status
+Protection Matrix
+LIVE
+◎
+Context-aware adult-content filter
+Blocks access intent while allowing educational questions.
+ACTIVE
+⌁
+Scam & phishing shield
+Local pattern checks for suspicious prompts and messages.
+ACTIVE
+◇
+External app monitor
+Accessibility-powered checks where Android exposes input text.
+ACTIVE
+✦
+Safety AI exemption
+Safety discussions inside GuardianAI stay usable.
+ACTIVE
+Recent Security Events
+LOCAL
+Protection system started
+GuardianAI background protection initialized.
+NOW
+Safety AI available
+Offline guidance library ready.
+NOW
+Permission check
+Android special access may need approval.
+1M
+Protection Shield
+A focused command center for GuardianAI’s active safety layers.
+SYSTEM PROTECTED
+MULTI-LAYER DEFENSE
+Shield status:
+maximum.
+Every visible layer uses the same blue-light cyber system, with clearer states and stronger hierarchy than the old card-heavy layout.
+Context Filter
+Intent-aware classification
+Scam Shield
+Message & notification checks
+External App Watch
+Accessibility monitoring
+Safety Alerts
+Explain what was blocked and why
+Safety AI
+A calmer, premium assistant space designed for safety questions — not punishment.
+OFFLINE READY
+Guardian Assistant
+SAFE DISCUSSION
+Ask me about scams, phishing, online pressure, privacy, suspicious links, cyberbullying, or why certain categories are protected. Educational questions are allowed here.
+Send
+Safety Book
+LOCAL
+Educational questions are allowed
+The UI makes it clear that learning about risks, effects, recovery and safety is not the same as trying to access blocked material.
+Private by design
+Local explanations can work without sending every question to a remote server.
+Simple language
+Warnings explain what happened and give safer next actions without being graphic.
+Activity
+A clean security log without overwhelming the user.
+Export summary
+Protection event
+Unsafe access intent detected in an external app and blocked.
+07:01
+Educational query allowed
+Safety-focused question classified as informational.
+06:58
+Accessibility permission reminder
+One Android permission still needs approval.
+06:50
+Device Control
+Powerful Android controls, shown with clear permission states.
+ANDROID
+Accessibility Protection
+Monitor supported external-app text fields
+Usage Access
+Understand which app is active
+Notification Access
+Check visible notification text for scam patterns
+VPN Consent
+Prepared for future local network filtering
+Managed-device protection
+DEVICE OWNER
+True uninstall blocking is only available when Android has deliberately provisioned GuardianAI as Device Owner / DPC. This screen keeps that limitation clear instead of pretending a normal APK can silently prevent uninstall.
+Settings
+A simpler control surface with fewer generic Android-style rows.
+PIN PROTECTED
+Adult-content protection
+Context-aware filtering
+Scam & phishing protection
+Local detection rules
+Safety explanations
+Explain why something was blocked
+Offline-first mode
+Prefer local safety features
+Critical controls
+6-DIGIT PIN
+Disable background protection
+◈
+Home
+⬡
+Shield
+✦
+AI
+▣
+Device
+⚙
+Settings
+×
+GUARDIANAI
+ILLUMINATED SECURE ACCESS
+SECURE AUTHENTICATION
+Welcome
+Back.
+Pull the cord to illuminate your protected path.
+EMAIL
+✉
+PASSWORD
+⌑
+CONFIRM PASSWORD
+⌑
+SIGN IN
+→
+or
+G
+Google
+◈
+Guest
+Continue with an Anonymous Firebase session
+New to GuardianAI?
+Create account
+HTML preview only — the Android build keeps Firebase authentication, GuardianAI Guest access and the protected PIN flow.
+GuardianAI UI preview
+Action completed.

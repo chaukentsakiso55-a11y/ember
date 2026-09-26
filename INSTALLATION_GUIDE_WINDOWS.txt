@@ -1,0 +1,50 @@
+EMBER WINDOWS QUICK INSTALL
+===========================
+
+1. Right-click the Ember ZIP and choose Extract All.
+2. Open the extracted Ember folder (the folder with main.py in it).
+3. Double-click INSTALL_EMBER.bat.
+4. If Python is missing, allow the installer to install Python 3.12 with
+   winget, or install Python 3.12 manually from the official Python site.
+   Re-run INSTALL_EMBER.bat if Windows needs to refresh the PATH.
+5. Wait until dependencies finish installing. The installer creates .venv
+   inside the Ember folder; it does not need administrator rights in
+   a normal user-writable folder.
+6. Choose whether to create the Ember desktop shortcut and launch Ember.
+7. Later, double-click RUN_EMBER.bat or your shortcut to start the app.
+
+OFFLINE AI (OPTIONAL)
+---------------------
+Ember's Python installation and Ollama model installation are separate.
+For local offline AI, double-click INSTALL_OFFLINE_AI_MODELS.bat, choose
+0 to install Ollama, then choose one small model (such as Llama 3.2 3B).
+Model downloads require internet once; using a downloaded model in Ember
+can work offline when configured to use local Ollama.
+
+FIX FOR THE PREVIOUS OLLAMA ERROR
+---------------------------------
+The older 00_INSTALL_OLLAMA.bat passed a stray ^ character into PowerShell:
+  A positional parameter cannot be found that accepts argument '^'.
+The updated BAT uses winget first and a correctly quoted official
+PowerShell command as an optional fallback. Re-run the NEW BAT; do not
+reuse the previous one.
+
+PRIVACY
+-------
+No passwords or API keys are required by these BAT installers. Do NOT
+place a plaintext credential file in the extracted project directory.
+Use Ember's Providers settings and an encrypted credential vault when
+that feature is implemented and verified.
+
+TROUBLESHOOTING
+---------------
+- Do not run the BAT directly from within the ZIP preview: extract first.
+- Use a writable directory, such as your Documents folder.
+- Allow adequate disk space; the complete Python dependency install can
+  use substantial disk space and offline models take additional gigabytes.
+- If venv creation fails, check the Python version and Python venv/pip.
+- If an install fails, read the command window error and run the installer
+  again; do not claim completion until setup reports success.
+- Browser automation may be unavailable if Playwright browser downloads
+  fail; the Python setup will show a warning.
+- This package is Windows-oriented. The BAT files are not macOS/Linux.

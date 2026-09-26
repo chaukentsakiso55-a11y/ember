@@ -1,0 +1,40 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 41. OFFLINE AI
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+41. OFFLINE AI
+================================================================================
+
+Offline capability is one of the strongest repeated themes across DARTHWOLF's projects.
+
+Projects with major offline direction:
+- StudyLock
+- Study AI
+- StudyOS
+- Star AI
+- Infinity OS
+- Pulsar AI
+
+Offline technologies discussed:
+- llama.cpp
+- Whisper.cpp
+- local models
+- local databases
+- imported knowledge packs
+- offline quizzes
+- dictionaries
+- local search
+- LAN communication
+- encrypted model storage
+
+Why offline matters in the project philosophy:
+- internet is not always available
+- costs matter
+- student tools should continue working
+- privacy can improve
+- local models reduce dependence on one provider
+- devices can remain useful during outages
+
+================================================================================

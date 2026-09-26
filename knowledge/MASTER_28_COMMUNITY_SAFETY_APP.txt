@@ -1,0 +1,23 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 28. COMMUNITY SAFETY APP
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+28. COMMUNITY SAFETY APP
+================================================================================
+
+Community Safety App is the software side of the community-safety idea.
+
+Functions discussed:
+- private-code community access
+- alerts
+- emergency location sharing
+- notifications
+- coordination
+- group/community response
+
+Associated concept contributor:
+Mawela Nkoriso
+
+================================================================================

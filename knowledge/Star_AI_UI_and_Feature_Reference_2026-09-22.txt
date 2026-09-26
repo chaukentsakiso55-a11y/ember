@@ -1,0 +1,137 @@
+STAR AI — CLEANED UI / FEATURE REFERENCE
+================================================================================
+
+STAR AI — Intelligence Workspace
+STAR
+AI
+Home
+AI Chat
+AI Tools
+Study
+Science Projects
+My Projects
+Account
+Notifications
+Profile
+Settings
+N
+STAR User
+Local workspace
+Home
+AI not connected
+N
+STAR
+AI
+N
+✦
+STAR AI / INTELLIGENCE WORKSPACE
+What will you create today?
+Ask, learn, reason, research and build — with real data only.
+Connect real AI
+Connect a live AI model to start chatting. STAR will not show simulated AI replies.
+Quick actions
+Recent conversations
+View all
+Recent projects
+View all
+New conversation
+Teach
+New
+Live responses only. Connect an AI model before chatting.
+AI Tools
+Focused assistants for specific jobs.
+Study
+Your subjects, sets, and sessions in one place.
+Subjects
+Science Projects
+Hypotheses, experiments, and findings.
+My Projects
+Everything you're building, tracked in one view.
+Notifications
+Stay on top of STAR's updates.
+Mark all read
+N
+STAR User
+Your local STAR workspace
+0
+Chats
+0
+Projects
+0
+Learned
+Account
+Edit profile
+Settings
+Sign out
+Settings
+Tune how STAR looks and talks to you.
+Premium
+Liquid Glass UI
+Translucent glass surfaces + a floating companion emoji
+Appearance
+Accent color
+Personalize STAR's glow
+Preferences
+Push notifications
+Replies, reminders, milestones
+Sound effects
+Send and receive chimes
+Reduce motion
+Minimize animations
+AI Connection
+Your own API endpoint
+Not set — using Claude's built-in connection
+Teaching
+What STAR has learned
+Nothing taught yet
+STAR's system prompt
+Identity, reasoning rules & behavior
+Data & privacy
+Export my data
+Delete all data
+About
+STAR AI
+Version 1.0.0 · Preview build
+Sign out
+Home
+Chat
+Tools
+Study
+More
+Science
+My Projects
+Notifications
+Profile
+Settings
+Connect AI
+Paste your API key below and STAR connects immediately — no separate save/test steps.
+API key
+Don't have one?
+Get a free key at console.anthropic.com
+— takes about a minute.
+Advanced: use my own backend instead ▾
+Backend endpoint URL
+If set, this is used instead of calling Anthropic directly — leave blank for the simple key-based setup above. Should accept a POST with {system, messages} and return {text: "..."}.
+Cancel
+Connect
+STAR's system prompt
+This defines STAR's identity, reasoning, and behavior rules. It's the exact text that will be sent as the system prompt once STAR is connected to a real AI API — for now, the chat's built-in replies follow it loosely.
+Reset to default
+Save
+Teach STAR
+Give STAR an exact reply to use next time. It'll prefer this over its own guess.
+When I say…
+STAR should reply…
+Applies whenever your message closely matches the phrase above.
+Cancel
+Save & teach
+What STAR has learned
+These override STAR's own guesses. Learning lives in this browser tab — export it to keep it.
+Export
+Import
+Done
+Clear conversation?
+This will permanently delete every message in this conversation. This can't be undone.
+Cancel
+Delete
+✨

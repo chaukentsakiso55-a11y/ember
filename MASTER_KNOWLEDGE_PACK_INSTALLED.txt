@@ -1,0 +1,13 @@
+EMBER MASTER KNOWLEDGE PACK — 22 SEPTEMBER 2026
+
+Installed knowledge now includes:
+- Full StudyLock technical/project record and people reference.
+- Full StudyOS record (v4/v5 + experimental architecture distinctions).
+- DARTHWOLF personal/creator master context (non-sensitive).
+- Cyber Pulse organization, people, websites, project ownership/status and master project index.
+- Infinity OS V7 owner manual.
+- AEGIS TITAN research/architecture reference.
+- Cleaned Star AI, Evolution Learning and GuardianAI UI/feature references.
+- Broader project history for Study AI, Pulsar AI, AMBER, Void, Community systems, hardware concepts and historical experiments through the master context.
+
+Sensitive secrets/private health/exact private location are intentionally not embedded.

@@ -1,0 +1,42 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 4. FAVORITE TECHNOLOGY DIRECTION
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+4. FAVORITE TECHNOLOGY DIRECTION
+================================================================================
+
+The strongest long-term technical interests are:
+
+1. Artificial Intelligence
+2. Cybersecurity
+3. Android applications
+4. Desktop AI
+5. Automation
+6. Offline AI
+7. Personal AI assistants
+8. AI operating systems
+9. Device control
+10. Robotics
+11. Electronics
+12. Futuristic interfaces
+
+DARTHWOLF is especially interested in the idea of AI that:
+- listens
+- speaks
+- sees the screen
+- remembers
+- controls apps
+- controls the computer
+- works offline
+- works online
+- uses multiple models
+- switches between providers
+- can automate repetitive work
+- can write code
+- can operate tools
+- can connect to a phone
+- can connect to other devices
+
+================================================================================

@@ -1,0 +1,50 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 35. CYBER PULSE APK DOWNLOAD WEBSITE
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+35. CYBER PULSE APK DOWNLOAD WEBSITE
+================================================================================
+
+Website:
+cyber-pulse-download.netlify.app
+
+Purpose:
+Provide a visually rich place to download Cyber Pulse applications.
+
+Design:
+- stacked app cards
+- scroll between apps
+- tap display image for details
+- download button
+- liquid-fill button
+- animated pill navigation
+- 3D stacked carousel
+
+First-visit idea:
+- animated heart
+- particles gathering
+- thank-you message
+- poem
+- first visit only
+
+Background music:
+- included
+- starts with welcome
+- user controls
+- preference memory
+
+Apps represented at different times included:
+- StudyLock
+- GuardianAI
+- Evolution Learning
+- Study AI
+- connected StudyLock Student
+- StudyLock Parent
+- StudyLock Teacher
+
+Important rule:
+StudyLock Student, Parent, and Teacher should be separate app cards, not one combined entry.
+
+================================================================================

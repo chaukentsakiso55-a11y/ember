@@ -1,0 +1,31 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 44. DEVICE CONTROL
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+44. DEVICE CONTROL
+================================================================================
+
+A major DARTHWOLF goal is AI that can control a device rather than only answer questions.
+
+Desired abilities across Infinity, AEGIS, Pulsar, and AMBER:
+- open programs
+- use VS Code
+- write code
+- control Windows
+- use browser
+- manage files
+- interact with WhatsApp
+- send messages
+- respond to messages when allowed
+- control games
+- press keys
+- use mouse
+- automate repeated actions
+- control Android using accessibility
+- pair desktop and phone
+
+This is one of the clearest long-term directions in DARTHWOLF's AI work.
+
+================================================================================

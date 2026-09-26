@@ -1,0 +1,68 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 19. PULSAR AI
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+19. PULSAR AI
+================================================================================
+
+Pulsar AI is a major independent AI project direction.
+
+Official name:
+Pulsar AI
+
+Internal naming:
+- Pulsar Core
+- Pulsar-1
+
+Goal:
+Build an original AI engine/model and eventually run it as an API/service.
+
+Ambition:
+Reach very high general intelligence capability.
+
+Pulsar direction included:
+- own engine
+- own model
+- server API
+- 24/7 availability
+- desktop companion
+- Android companion
+- floating assistant
+- voice
+- always-on mic concepts
+- screen control
+- open apps
+- coding
+- plugins
+- skills
+- offline operation
+- OpenRouter support
+- multi-model routing
+
+Pulsar Companion ideas:
+- floating draggable assistant
+- configurable avatar
+- voice responses
+- continuous listening
+- computer control
+- multilingual ability
+- coding ability
+- plugin system
+- desktop + Android
+
+Pulsar later absorbed or borrowed concepts from:
+- AEGIS
+- Infinity OS
+- ASTER Agent systems
+
+A robot-body concept was also discussed:
+- LEGO construction
+- 3 motors
+
+Pulsar builds:
+GitHub repository work included Pulsar Android / companion builds and AMBER-related build targets.
+Several builds failed during September 2026.
+
+================================================================================

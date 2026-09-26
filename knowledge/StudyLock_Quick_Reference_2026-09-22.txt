@@ -1,0 +1,66 @@
+STUDYLOCK — EMBER QUICK REFERENCE
+===================================
+Canonical date: 22 September 2026
+
+Name and speech aliases
+- Official name: StudyLock.
+- Speech-to-text may produce Studylog, Study Log, Starlock, Sterelog, or similar forms. When the conversation is clearly about the project, interpret them as StudyLock.
+
+What StudyLock is
+StudyLock is a Cyber Pulse connected education and focus-control ecosystem. It combines distraction blocking, protected focus sessions, AI/offline learning, quizzes, planning, notes, progress, parent controls, and teacher-to-student academic communication.
+
+Main apps
+- StudyLock Student — com.studylock.student
+- StudyLock Parent — com.studylock.parent
+- StudyLock Teacher — com.studylock.teacher
+- Parent HTML dashboards exist as diagnostic/reference implementations.
+- Student, Parent, and Teacher remain separate apps; they communicate through shared protocols/backend rather than being merged into one APK.
+
+People behind StudyLock
+- Ntsakiso Chauke / DARTHWOLF — Cyber Pulse Founder, CEO, Lead Developer, main system builder and system architect; major implementation and integration role.
+- Rhandzu Fuela — research and early idea contributor; one of the first minds behind the StudyLock idea.
+- Nziani Nhlanhla — research partner and idea collaborator; older notes sometimes used Dziani Nhlanhla.
+
+Core Student functions
+Focus Mode, timer, app blocking, Auto Study, schedules, AI Tutor, offline Tutor fallback, quizzes/offline quizzes, Notes, Planner, Progress, Learn/resources, Rewards/XP, local library imports, metrics, Parent pairing, Teacher connection, PIN/settings lock, Device Admin/protection concepts, Accessibility blocking, heartbeat/status.
+
+Core Parent functions
+Generate pairing code, QR pairing, connect to Student, view focus state/study time/AI usage/blocked apps/metrics, remotely start Focus, authorized end, schedules, Auto Study control, protection/approval controls, goals/assignments in later designs, heartbeat/online state.
+
+Core Teacher functions
+Class/join codes, student joining, notes, announcements, assignments, resources, questions, broadcast, class communication, visual-learning sharing concepts. Teacher is for academic support and should not automatically have Parent-level device-security authority.
+
+Architecture
+Kotlin, Android Studio, Jetpack Compose in native builds, Gradle, Firebase/Firestore, Firebase Authentication in some versions, Google Services config, Accessibility Service, Device Admin APIs, WebView/native bridge concepts in HTML-based builds, local databases and offline import/search. compileSdk 35 and minSdk 26 were used in one major Student build.
+
+Firebase/sync
+- Family backend/project name recorded: studylock-family.
+- Parent↔Student channel/collection recorded: studylock_parent_channels.
+- Teacher↔Student class channel/collection recorded: studylock_teacher_classes.
+- Pairing uses 6-digit codes and QR in connected designs.
+- Correct package registration, google-services configuration, auth, Firestore rules, collection paths, schemas, heartbeats and pairing acknowledgements all have to match.
+- The Parent HTML sometimes connected while the Parent APK did not; at least one HTML version used ntfy.sh/localStorage rather than the same Firebase path, so visual similarity did not prove protocol parity.
+
+Design
+The Student app is the visual reference. Current family direction is liquid yellow/orange, rounded/liquid-glass controls, darker backgrounds, and minimal white-heavy panels. Parent and Teacher should feel like the same StudyLock family while preserving their distinct responsibilities.
+
+Security
+- 6-digit PIN and Settings Lock are core requirements.
+- PIN-gated admin deactivation/uninstall-release has been requested/implemented conceptually in several builds.
+- Accessibility is used for app blocking.
+- Ordinary Android Device Admin cannot honestly guarantee impossible-to-bypass uninstall protection; stronger Device Owner / managed-device modes provide more control.
+
+Offline learning/imports
+Supported or attempted formats: ZIP, SQLite, JSON, JSONL, TXT, Markdown, CSV, HTML, and text-extractable PDF. Scanned/image-only PDFs require OCR and were not guaranteed. Offline dictionaries, curriculum packs, quizzes and Tutor fallback have all been part of the development direction.
+
+Offline library website
+StudyLock may fetch learning resources one-way from cyber-learn-projects.netlify.app. Later library scope includes Grades 8–12, past papers from 2020 onward, memos where public, filters, general knowledge packs and focus music. Local imports remain important for offline independence.
+
+Known recurring problems
+Parent APK not connecting while HTML does; Teacher sync; Generate New Key failure; Dashboard didn’t respond; app not installed/invalid package; signature conflicts; Firebase rules/auth/config; PIN persistence; uninstall protection limits; app blocking failures; missing offline quiz/content; damaged local database; buttons/touch interception; repeated Gradle/GitHub Actions failures; secret-scan warnings for exposed API/Firebase keys; widget/Wear experiments failing.
+
+Current priority as of 22 September 2026
+Fix Parent installation, make Parent↔Student pairing/heartbeat actually work, use working HTML behavior as a reference where appropriate, make Teacher↔Student sync reliable, keep all three apps separate, match Parent/Teacher UI to Student liquid-yellow/orange design, preserve Student functionality, and verify the whole flow on real Android devices.
+
+Answering rule
+For detailed claims, search the full StudyLock overview in Ember's local knowledge library. Distinguish verified/implemented behavior from requested, attempted, experimental, or still-unverified behavior. Newer corrections override older records.

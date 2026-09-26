@@ -1,0 +1,66 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 1. WHO DARTHWOLF IS
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+1. WHO DARTHWOLF IS
+================================================================================
+
+Name:
+Ntsakiso Chauke
+
+Alias / creator identity:
+DARTHWOLF
+Also commonly written as Darthwolf or DarthWolf.
+
+Main identity:
+Student developer, builder, founder, technology enthusiast, AI enthusiast, cybersecurity learner, programmer, and system designer.
+
+Country:
+South Africa
+
+Education context:
+High-school student.
+Grade 10 in 2026.
+Science-oriented school path.
+Strong interest in technology and engineering-related fields.
+Geography has also been one of the subjects strongly associated with his school interests.
+
+Core areas of interest:
+- Artificial intelligence
+- AI advancement
+- AI engineering
+- Cybersecurity
+- Ethical hacking
+- Programming
+- Python
+- Android development
+- Kotlin
+- Jetpack Compose
+- Web development
+- Desktop software
+- Operating-system concepts
+- Offline AI
+- Automation
+- AI agents
+- Voice assistants
+- Robotics
+- Electronics
+- Electrical engineering
+- Computer control systems
+- App security
+- Digital safety
+- Education technology
+- Futuristic user interfaces
+- AI companions
+- Local/offline models
+- Smart-device integration
+- Multi-device control
+- Cloud + offline hybrid systems
+
+DARTHWOLF is not primarily interested in building simple single-purpose apps.
+A repeated pattern in his projects is combining multiple systems together:
+AI + automation + voice + security + offline capabilities + futuristic UI + mobile + desktop + connected devices.
+
+================================================================================

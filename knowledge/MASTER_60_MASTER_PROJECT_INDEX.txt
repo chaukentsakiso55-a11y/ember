@@ -1,0 +1,119 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 60. MASTER PROJECT INDEX
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+60. MASTER PROJECT INDEX
+================================================================================
+
+CORE CYBER PULSE / STRONGLY ASSOCIATED
+--------------------------------------
+StudyLock
+StudyLock Student
+StudyLock Parent
+StudyLock Teacher
+StudyLock Parent Dashboard
+Evolution Learning
+StudyOS
+Study AI
+Star AI
+GuardianAI
+Infinity OS Android
+Infinity Prime
+AEGIS
+Community Safety App
+Community Gadget
+Cyber Pulse AI Earpods
+Pulse AI
+Cyber Pulse main website
+Cyber Learn Projects
+Cyber Pulse APK Download website
+
+INFINITY / AEGIS SUBSYSTEMS
+---------------------------
+Infinity Core
+Agent Matrix
+Mission Control
+Device Mesh
+Memory Vault
+Infinity Shield
+Developer OS
+Vision
+Model Hub
+Project Capsules
+Infinity Sandbox
+Memory 3.0 Knowledge Graph
+Background Intelligence
+Time Machine
+Model Benchmark Lab
+Adaptive Performance
+Skill Store
+Forge
+Omega Forge
+Omega Brain
+Titan Core
+Titan Shield
+Sentinel
+Nexus IDE
+Trinity Engine
+AEGIS Core
+AEGIS TITAN
+AEGIS v16 OMEGA
+Aegis Titan Shield
+
+INDEPENDENT / EXPERIMENTAL / BROADER PERSONAL PROJECT HISTORY
+-------------------------------------------------------------
+Pulsar AI
+Pulsar Core
+Pulsar-1
+Pulsar AI Companion
+AMBER
+Knox AI
+Void
+Alpha11 / Alpha Eleven
+Phoenix Learning System
+DroidDesk
+HORIZON OS
+HORIZON OS 2.0
+HORIZON EVENT
+HORIZON CORE
+HORIZON AI
+HORIZON MESH
+HORIZON UI
+AIClient2API
+500 AI Agents concept
+NEXUS
+GPT-7 Lab
+The Forbidden Gates
+
+HARDWARE / ROBOTICS
+-------------------
+Pulsar robot
+LEGO AI robot
+Infinity Car / robotic car
+ESP32 vehicle concepts
+Community emergency gadget
+Cyber Pulse AI Earpods
+TriTech hand-crank / backup power concept
+
+WEB / ORGANIZATION / INFRASTRUCTURE
+-----------------------------------
+Cyber Pulse main website
+Cyber Pulse Team
+Cyber Pulse Products
+Cyber Pulse Community
+Cyber Pulse Safety
+Cyber Pulse Family
+Cyber Pulse Tree
+Cyber Pulse portfolio
+Cyber Pulse authentication
+Cyber Learn Projects
+Offline library
+APK download website
+$100,000 Challenge
+Fundraising dashboard
+Admin dashboards
+Infinity OS website
+
+================================================================================

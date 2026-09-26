@@ -1,0 +1,49 @@
+STUDYLOCK — PEOPLE BEHIND THE PROJECT
+=========================================
+Document date: 22 September 2026
+Organization: Cyber Pulse
+
+PURPOSE OF THIS RECORD
+----------------------
+This file gives Ember a clear, corrected reference for the people specifically associated with StudyLock. It must not invent personal relationships, ownership, or roles beyond what is stated here. Newer corrections override older spelling variants.
+
+CORE PEOPLE BEHIND STUDYLOCK
+----------------------------
+
+1. Ntsakiso Chauke / DARTHWOLF
+Role and association:
+- Founder of Cyber Pulse.
+- CEO of Cyber Pulse.
+- Lead Developer.
+- Main system builder.
+- System architect.
+- Directly associated with StudyLock across architecture, Android development, Firebase/Firestore integration, offline systems, security/protection work, UI rebuilding, app integration, testing, and long-term technical direction.
+- Takes StudyLock ideas and turns them into working software, expands features, connects the Student/Parent/Teacher system, and handles much of the engineering work.
+
+2. Rhandzu Fuela
+Role and association:
+- StudyLock contributor.
+- Research contributor.
+- Early idea contributor.
+- One of the first minds behind the StudyLock idea.
+- Historical notes contained spelling variations; the corrected name to use is Rhandzu Fuela (without the spaces between letters in each name).
+
+3. Nziani Nhlanhla
+Role and association:
+- StudyLock research partner.
+- Idea collaborator.
+- Earlier records sometimes used the spelling “Dziani Nhlanhla”; the newer/corrected form is Nziani Nhlanhla.
+
+OTHER CYBER PULSE PEOPLE WITH LIMITED STUDYLOCK ASSOCIATION
+-----------------------------------------------------------
+Nkateko Maluleke is primarily associated with Star AI and Study AI. Some StudyLock history also records UI ideas / liquid-gloss visual assistance. Do not automatically describe Nkateko as one of the core people behind StudyLock unless the user explicitly expands that role.
+
+Themba Fuela and Success Mabunda are primarily associated with GuardianAI. Mawela Nkoriso is primarily associated with the Community Gadget / Community Safety App. They should not automatically be listed as StudyLock creators.
+
+HOW EMBER SHOULD ANSWER PEOPLE QUESTIONS
+----------------------------------------
+- If asked “Who is behind StudyLock?” name Ntsakiso Chauke / DARTHWOLF, Rhandzu Fuela, and Nziani Nhlanhla, then explain their documented roles.
+- If asked who built/developed StudyLock, emphasize DARTHWOLF's engineering, system architecture, and implementation role while still crediting idea/research collaborators.
+- If asked who first came up with or helped shape the StudyLock idea, include Rhandzu Fuela as an early idea contributor / one of the first minds behind the idea, and Nziani Nhlanhla as a research/idea collaborator.
+- Do not invent private biographical details about any contributor.
+- Do not infer friendships, family relationships, or personal relationships from project collaboration.

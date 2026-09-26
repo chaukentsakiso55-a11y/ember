@@ -1,0 +1,47 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 17. AEGIS
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+17. AEGIS
+================================================================================
+
+AEGIS is an AI assistant/engine associated with the Infinity ecosystem.
+
+Purpose:
+Act as an intelligent system assistant capable of:
+- answering
+- controlling
+- automating
+- routing models
+- managing tasks
+- voice interaction
+- device operation
+- security-related actions
+- coding
+- system commands
+
+AEGIS has existed in multiple conceptual forms:
+- AEGIS
+- AEGIS TITAN
+- AEGIS v16 OMEGA
+- AEGIS Core
+- Aegis Titan Shield
+
+Related named systems:
+- Titan Core
+- Titan Shield
+- Sentinel
+- Forge
+- Omega Forge
+- Omega Brain
+- Nexus IDE
+- Trinity Engine
+- Memory Vault
+- Skill Tree
+- Mission Control
+
+The Aegis Titan Shield project was also published through Replit at one point, with the free-tier deployment later expiring.
+
+================================================================================

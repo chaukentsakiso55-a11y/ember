@@ -1,0 +1,43 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 34. CYBER PULSE OFFLINE LIBRARY WEBSITE
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+34. CYBER PULSE OFFLINE LIBRARY WEBSITE
+================================================================================
+
+Website:
+cyber-learn-projects.netlify.app
+
+Purpose:
+Act as an offline-knowledge/library source for Cyber Pulse education and AI apps.
+
+Apps intended to use it:
+- StudyLock
+- Study AI
+- StudyOS
+- Star AI
+- Infinity OS
+
+Important rule:
+The apps use the website/library URL.
+The website does not need to send users back into the apps.
+
+Library content direction:
+- Grade 8–12 curriculum
+- past papers from 2020 onward
+- public memos where available
+- grade filters
+- subject filters
+- year filters
+- term filters
+- general knowledge
+- focus music
+
+Focus-music direction:
+- calm instrumental
+- playback controls
+- preference memory
+
+================================================================================

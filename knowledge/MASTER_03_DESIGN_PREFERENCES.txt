@@ -1,0 +1,44 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 3. DESIGN PREFERENCES
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+3. DESIGN PREFERENCES
+================================================================================
+
+DARTHWOLF strongly prefers futuristic visual design.
+
+Repeated visual themes:
+- Black backgrounds
+- OLED dark interfaces
+- Neon cyan
+- Electric blue
+- Violet / purple
+- Orange/yellow liquid-glass accents for StudyLock
+- Glassmorphism
+- Liquid-glass UI
+- Glowing borders
+- Rounded cards
+- 3D layered interfaces
+- HUD-style panels
+- Sci-fi dashboards
+- Motion effects
+- Smooth spring animations
+- Blur
+- Depth effects
+- Animated navigation
+- Futuristic loading states
+- Cinematic hero sections
+- Cyberpunk visual language
+
+Cyber Pulse visual style:
+Dark, futuristic, polished, AI-first, high-technology presentation.
+
+StudyLock visual style:
+Liquid yellow/orange, rounded, modern, student-friendly, less white background.
+
+Infinity / AEGIS visual style:
+Dark cyberpunk glass, cyan/blue/purple neon, advanced command-center feel.
+
+================================================================================

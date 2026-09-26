@@ -1,0 +1,47 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 10. EVOLUTION LEARNING
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+10. EVOLUTION LEARNING
+================================================================================
+
+Evolution Learning is an education platform.
+
+Slogan:
+learn → practice → improve → evolve.
+
+Main concept:
+A student learning environment built around continuous improvement.
+
+Major sections:
+- Home
+- Study Hub
+- AI Tools
+- Quiz
+- Progress
+- Profile
+
+Features discussed:
+- AI learning support
+- quizzes
+- notes
+- flashcards
+- homework
+- planning
+- goals
+- progress
+- study tools
+
+Development direction:
+- Web/HTML prototype
+- Android rebuild
+- Firebase support
+- authentication
+- AI integration
+- offline-oriented ideas
+
+Evolution Learning Android build workflows were actively attempted in September 2026 and had build failures during development.
+
+================================================================================

@@ -1,0 +1,37 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 43. VOICE ASSISTANT DIRECTION
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+43. VOICE ASSISTANT DIRECTION
+================================================================================
+
+Voice is a repeated requirement.
+
+Common desired behavior:
+- wake or listen
+- understand natural speech
+- perform the task
+- respond by voice
+- run in background
+- open apps
+- type messages
+- read information
+- control the PC
+- work across desktop and mobile
+
+Named personality inspirations:
+- JARVIS
+- EDITH
+- Friday
+- Ultron
+- Optimus Prime
+
+Infinity/AEGIS personality names also included:
+- AUTO
+- allay
+- wolf
+- EDITH
+
+================================================================================

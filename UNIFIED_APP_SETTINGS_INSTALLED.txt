@@ -1,0 +1,41 @@
+EMBER — UNIFIED IN-APP SETTINGS
+===============================
+
+This build adds a unified APP SETTINGS panel inside the main Ember interface.
+Open Ember, click the gear icon, then click APP SETTINGS.
+
+Settings now available inside the app:
+- General identity: assistant name and user name
+- Assistant voice
+- Interface theme
+- Animated face / reactor-core HUD
+- AI routing mode: Auto / Online / Local
+- Multi-provider routing enable/disable
+- Local AI runtime and endpoint
+- Installed/local model selection
+- Max tokens, temperature and fallback models
+- One-click access to the offline-model BAT installer menu
+- AI provider enable/disable controls
+- Preferred provider selection
+- Provider API-key replacement without displaying stored secret values
+- Temporary memory
+- Privacy logging
+- Mini HUD
+- Agent supervisor
+- Visual agent
+- Screen understanding
+- Workflow recording
+- Notification digest
+- Emergency kill switch
+- Performance profile
+- Wake word
+- Push-to-talk
+- Morning brief
+- Live-model thinking
+- Proactive audio
+- Camera/screen media resolution
+
+The existing Memory, Audio Devices, Plugin Manager and Plugin Settings panels are
+also linked directly from the new settings screen.
+
+The old config files remain compatible and are still used as the source of truth.

@@ -1,0 +1,34 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 50. GITHUB AND BUILD CULTURE
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+50. GITHUB AND BUILD CULTURE
+================================================================================
+
+DARTHWOLF frequently uses GitHub repositories and GitHub Actions to build projects.
+
+Common pattern:
+- build app
+- CI fails
+- inspect error
+- patch source
+- rebuild
+- download APK
+- test on Android
+- find real-device issue
+- repeat
+
+Projects with repeated CI/build work:
+- StudyLock
+- Study AI
+- Evolution Learning
+- Star AI
+- Pulsar AI
+- AMBER
+- Infinity-related projects
+
+The development process is very iterative and hands-on.
+
+================================================================================

@@ -1,0 +1,102 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 9. STUDYLOCK
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+9. STUDYLOCK
+================================================================================
+
+StudyLock is one of the biggest and most developed Cyber Pulse projects.
+
+Purpose:
+Help students focus, reduce distractions, study more effectively, and connect parents and teachers into the learning process.
+
+Main app family:
+- StudyLock Student
+- StudyLock Parent
+- StudyLock Teacher
+- Parent HTML dashboard
+- Earlier desktop experiments
+
+Core Student features:
+- Focus Mode
+- Study timer
+- App blocking
+- Accessibility-based blocking
+- Auto Study
+- Study schedule
+- AI Tutor
+- Offline Tutor
+- Quiz system
+- Offline quizzes
+- Notes
+- Planner
+- Progress
+- Learning resources
+- Rewards / XP
+- PIN lock
+- Parent pairing
+- Teacher connection
+- Offline library
+- Local knowledge
+- Metrics
+- blocked-app tracking
+
+Parent features:
+- Pairing code
+- QR pairing
+- Student status
+- Study metrics
+- Start focus remotely
+- Manage schedules
+- Auto Study control
+- blocked-app visibility
+- protection controls
+- approval flow
+
+Teacher features:
+- Class code
+- student joining
+- notes
+- assignments
+- resources
+- questions
+- announcements
+- broadcasts
+- visual-learning sharing concepts
+- class communication
+
+Technology:
+- Kotlin
+- Android
+- Compose
+- Firebase
+- Firestore
+- Accessibility
+- Device Admin
+- offline databases
+
+Major StudyLock engineering challenges:
+- Parent ↔ Student pairing
+- Teacher ↔ Student pairing
+- Firebase rules
+- APK installation
+- invalid-package errors
+- signing conflicts
+- app blocking
+- PIN persistence
+- uninstall protection
+- offline AI
+- damaged local databases
+- button/touch issues
+- repeated Gradle/CI failures
+
+Design direction:
+Liquid yellow/orange StudyLock interface.
+Parent and Teacher should visually match Student.
+
+StudyLock is one of the projects that best represents DARTHWOLF's overall development style because it combines:
+education + AI + security + offline support + Android + sync + family control + teacher support.
+
+================================================================================

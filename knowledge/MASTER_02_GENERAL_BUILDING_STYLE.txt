@@ -1,0 +1,40 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 2. GENERAL BUILDING STYLE
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+2. GENERAL BUILDING STYLE
+================================================================================
+
+DARTHWOLF tends to think in ecosystems rather than isolated applications.
+
+Typical project direction:
+- Start with a basic idea.
+- Add AI.
+- Add offline capability.
+- Add Android.
+- Add desktop support.
+- Add remote control.
+- Add voice.
+- Add automation.
+- Add memory.
+- Add security.
+- Add device control.
+- Add plugins or skills.
+- Add web dashboards.
+- Add Firebase or another sync layer.
+- Add a futuristic interface.
+- Keep expanding until the project becomes a platform.
+
+Common goals:
+- Make the app useful even without internet.
+- Make AI available everywhere.
+- Make devices controllable using natural language.
+- Create systems that feel more advanced than ordinary apps.
+- Build products that connect to each other.
+- Give projects strong visual identity.
+- Make tools practical for students.
+- Make technology accessible even on limited hardware.
+
+================================================================================

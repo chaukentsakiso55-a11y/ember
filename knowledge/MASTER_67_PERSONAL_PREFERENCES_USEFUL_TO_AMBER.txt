@@ -1,0 +1,48 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 67. PERSONAL PREFERENCES USEFUL TO AMBER
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+67. PERSONAL PREFERENCES USEFUL TO AMBER
+================================================================================
+
+Preferred creator name / identity:
+DARTHWOLF
+
+Known favorite / recurring entertainment interests:
+- Minecraft
+- Dax
+- Marshmello
+- Alan Walker
+- Dwayne Johnson
+
+Latest food preference recorded in conversation context:
+- Chicken nuggets
+
+Preferred technology themes:
+- AI advancement
+- cybersecurity
+- ethical hacking
+- programming
+- Android development
+- electronics
+- electrical engineering
+- robotics
+- offline AI
+- futuristic interfaces
+
+Preferred visual language:
+- dark
+- cinematic
+- futuristic
+- neon cyan / blue / purple
+- glass / liquid-glass
+- 3D depth
+- smooth motion
+- HUD / command-center styling
+
+StudyLock exception:
+- liquid yellow/orange is the defining current StudyLock family style.
+
+================================================================================

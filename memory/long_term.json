@@ -1,0 +1,108 @@
+{
+  "identity": {
+    "darthwolf": {
+      "value": "Ntsakiso Chauke / DARTHWOLF is a South African high-school student developer and Founder, CEO and Lead Developer of Cyber Pulse. Full non-sensitive profile is preloaded in the local knowledge pack.",
+      "updated": "2026-09-22"
+    }
+  },
+  "preferences": {
+    "technical_direction": {
+      "value": "Strong interests: AI advancement/engineering, cybersecurity, Android/Kotlin, Python, offline AI, automation, robotics/electronics, voice/device control, education technology, futuristic interfaces.",
+      "updated": "2026-09-22"
+    },
+    "design": {
+      "value": "Prefers dark/OLED futuristic glass UI with cyan/blue/purple neon, depth and smooth motion; StudyLock specifically uses liquid yellow/orange.",
+      "updated": "2026-09-22"
+    }
+  },
+  "projects": {
+    "studylock": {
+      "value": "StudyLock is a Cyber Pulse Student/Parent/Teacher focus-and-learning ecosystem. Full technical history is preloaded in the local StudyLock knowledge pack.",
+      "updated": "2026-09-22"
+    },
+    "studylock_people": {
+      "value": "Core people behind StudyLock: Ntsakiso Chauke / DARTHWOLF — Founder/CEO/Lead Developer/system architect; R. Fuela — research + early idea contributor; Nziani Nhlanhla — research partner + idea collaborator.",
+      "updated": "2026-09-22"
+    },
+    "studylock_status": {
+      "value": "Current priority: Parent install + Parent↔Student pairing/heartbeat, Teacher↔Student sync, liquid yellow/orange family UI, preserved Student features, and real-device end-to-end verification.",
+      "updated": "2026-09-22"
+    },
+    "cyber_pulse": {
+      "value": "Cyber Pulse is the user's youth-built technology ecosystem. Master organization/project/team record is installed in local knowledge.",
+      "updated": "2026-09-22"
+    },
+    "studyos": {
+      "value": "StudyOS is a student-focused offline-first AI operating environment. v4 centers local models/llama.cpp/Whisper.cpp; v5 expands to Android/WearOS/embedded, encrypted/no-cloud operation, LAN remote brain and distributed agents. Full record installed.",
+      "updated": "2026-09-22"
+    },
+    "portfolio": {
+      "value": "Major knowledge includes StudyLock, StudyOS, Study AI, Star AI, Evolution Learning, GuardianAI, Infinity OS/Prime, AEGIS, Community Safety/Gadget, Pulsar AI, AMBER, Void, Cyber Pulse websites and historical experiments.",
+      "updated": "2026-09-22"
+    },
+    "study_ai": {
+      "value": "Study AI is a Cyber Pulse education AI assistant focused on tutoring/learning, with online/offline models, Firebase and Android APK direction. It is distinct from StudyLock and StudyOS.",
+      "updated": "2026-09-22"
+    },
+    "star_ai": {
+      "value": "Star AI is a general-purpose Cyber Pulse assistant direction for work, learning, research, productivity and coding, with Android/desktop, multi-provider, voice, memory and offline concepts.",
+      "updated": "2026-09-22"
+    },
+    "guardianai": {
+      "value": "GuardianAI is a Cyber Pulse digital-safety project associated with Themba Fuela and Success Mabunda, with harmful-content detection/blocking, app protection and parental-safety direction.",
+      "updated": "2026-09-22"
+    },
+    "evolution_learning": {
+      "value": "Evolution Learning is a Cyber Pulse education platform with the slogan learn → practice → improve → evolve, covering Study Hub, AI Tools, Quiz, Progress and Profile.",
+      "updated": "2026-09-22"
+    },
+    "infinity_os": {
+      "value": "Infinity OS is a large AI-first computing concept with model routing, memory, voice/vision, coding, automation, security, files/browser, plugins and device-control concepts; desktop ownership/status has varied historically.",
+      "updated": "2026-09-22"
+    },
+    "infinity_prime": {
+      "value": "Infinity Prime is the Android direction of Infinity and is associated with Cyber Pulse in later records.",
+      "updated": "2026-09-22"
+    },
+    "aegis": {
+      "value": "AEGIS is an assistant/engine associated with Infinity, with historical variants including AEGIS TITAN and AEGIS v16 OMEGA; it overlaps with Infinity but is not identical to it.",
+      "updated": "2026-09-22"
+    },
+    "pulsar_ai": {
+      "value": "Pulsar AI is primarily an independent AI-engine/model direction with Pulsar Core/Pulsar-1 naming and companion/API/offline/multi-model goals.",
+      "updated": "2026-09-22"
+    },
+    "amber_project": {
+      "value": "AMBER is a recorded Pulsar AI Companion direction involving Android/desktop control, voice, automation and tools. Distinguish the historical AMBER project name from the current Ember application when context requires it.",
+      "updated": "2026-09-22"
+    },
+    "void": {
+      "value": "Void is a separate Android phone UI/launcher project and is outside Cyber Pulse under the latest recorded correction.",
+      "updated": "2026-09-22"
+    },
+    "community_safety": {
+      "value": "Community Gadget and Community Safety App are community-safety concepts associated with Mawela Nkoriso; the gadget uses a simple emergency interface and the app handles alerts/coordination.",
+      "updated": "2026-09-22"
+    },
+    "web_ecosystem": {
+      "value": "Cyber Pulse web ecosystem includes the main site, Cyber Learn/offline library, APK download site, fundraising/admin dashboards and related product/team/community pages.",
+      "updated": "2026-09-22"
+    }
+  },
+  "relationships": {},
+  "wishes": {},
+  "notes": {
+    "studylock_aliases": {
+      "value": "Speech variants such as Studylog/Study Log/Starlock can refer to StudyLock when project context makes that clear.",
+      "updated": "2026-09-22"
+    },
+    "project_status_rules": {
+      "value": "Latest corrections: Alpha11 and Void are outside Cyber Pulse; Pulsar AI is primarily independent; Desktop Infinity status is uncertain; Infinity OS Android/Infinity Prime are associated with Cyber Pulse.",
+      "updated": "2026-09-22"
+    },
+    "deep_knowledge_pack": {
+      "value": "Master context is split into focused section records for precise retrieval. Use focused records first and preserve status/ownership corrections.",
+      "updated": "2026-09-22"
+    }
+  }
+}

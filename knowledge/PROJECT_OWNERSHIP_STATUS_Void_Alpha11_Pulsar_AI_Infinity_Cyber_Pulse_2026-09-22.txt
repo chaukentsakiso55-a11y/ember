@@ -1,0 +1,31 @@
+SOURCE-DERIVED OWNERSHIP STATUS REFERENCE
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+
+================================================================================
+56. PROJECT OWNERSHIP / STATUS CLARIFICATIONS
+================================================================================
+
+Not every project mentioned historically should automatically be labeled an official Cyber Pulse product.
+
+Known clarifications:
+
+Alpha11:
+Explicitly later stated to be outside Cyber Pulse.
+
+Void:
+Separate from Cyber Pulse.
+
+Pulsar AI:
+Discussed as an independent AI-engine project rather than a normal Cyber Pulse product.
+
+Desktop Infinity:
+Later records distinguished it from Cyber Pulse.
+
+Infinity OS Android / Infinity Prime:
+Associated with Cyber Pulse in later project registries.
+
+Core Cyber Pulse products should therefore be separated from:
+- independent projects
+- older experiments
+- personal projects
+- historical concepts

@@ -1,0 +1,124 @@
+{
+  "routing": {
+    "default_provider": "ollama",
+    "fallback_order": [
+      "ollama",
+      "openai",
+      "gemini",
+      "anthropic",
+      "grok",
+      "openrouter",
+      "groq",
+      "xkiro"
+    ]
+  },
+  "providers": [
+    {
+      "id": "xkiro",
+      "name": "xKiro",
+      "type": "openai-compatible",
+      "base_url": "https://api.xkiro.com/v1",
+      "api_key_env": [
+        "XKIRO_API_KEY"
+      ],
+      "model": "",
+      "model_hints": [],
+      "enabled": true,
+      "priority": 100
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "type": "openai-compatible",
+      "base_url": "https://api.openai.com/v1",
+      "api_key_env": [
+        "OPENAI_API_KEY"
+      ],
+      "model": "",
+      "model_hints": [],
+      "enabled": true,
+      "priority": 95
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic Claude",
+      "type": "anthropic",
+      "base_url": "https://api.anthropic.com/v1",
+      "api_key_env": [
+        "ANTHROPIC_API_KEY"
+      ],
+      "model": "",
+      "model_hints": [],
+      "enabled": true,
+      "priority": 90
+    },
+    {
+      "id": "groq",
+      "name": "Groq",
+      "type": "openai-compatible",
+      "base_url": "https://api.groq.com/openai/v1",
+      "api_key_env": [
+        "GROQ_API_KEY"
+      ],
+      "model": "",
+      "model_hints": [],
+      "enabled": true,
+      "priority": 85
+    },
+    {
+      "id": "openrouter",
+      "name": "OpenRouter",
+      "type": "openai-compatible",
+      "base_url": "https://openrouter.ai/api/v1",
+      "api_key_env": [
+        "OPENROUTER_API_KEY"
+      ],
+      "model": "",
+      "model_hints": [],
+      "enabled": true,
+      "priority": 80,
+      "headers": {
+        "HTTP-Referer": "https://ember.local",
+        "X-Title": "Ember"
+      }
+    },
+    {
+      "id": "gemini",
+      "name": "Google Gemini",
+      "type": "openai-compatible",
+      "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+      "api_key_env": [
+        "GEMINI_API_KEY",
+        "GOOGLE_API_KEY"
+      ],
+      "model": "",
+      "model_hints": [],
+      "enabled": true,
+      "priority": 75
+    },
+    {
+      "id": "ollama",
+      "name": "Ollama Local",
+      "type": "openai-compatible",
+      "base_url": "http://127.0.0.1:11434/v1",
+      "api_key_env": [],
+      "model": "",
+      "model_hints": [],
+      "enabled": true,
+      "priority": 50,
+      "local": true
+    },
+    {
+      "id": "grok",
+      "name": "Grok",
+      "type": "openai-compatible",
+      "base_url": "https://api.x.ai/v1",
+      "api_key_env": [
+        "XAI_API_KEY"
+      ],
+      "model": "",
+      "enabled": true,
+      "model_hints": []
+    }
+  ]
+}

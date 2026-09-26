@@ -1,0 +1,105 @@
+DARTHWOLF + CYBER PULSE — MASTER PROJECT ROUTING INDEX
+================================================================================
+Date: 22 September 2026
+Purpose: Fast local reference for Ember. The detailed master context files contain fuller history.
+
+DARTHWOLF / NTSAKISO CHAUKE
+---------------------------
+Creator identity: DARTHWOLF (also Darthwolf / DarthWolf)
+General profile: South African high-school student developer, builder, founder, technology/AI/cybersecurity learner and system designer.
+Cyber Pulse role: Founder, CEO, Lead Developer, main system builder and system architect.
+Core interests: AI engineering, cybersecurity/ethical hacking, Python, Android/Kotlin, automation, offline AI, robotics/electronics, voice assistants, device control, education technology, and futuristic interfaces.
+Typical build pattern: start with an idea, then add AI, offline support, mobile/desktop integration, voice, automation, memory, security, device control and connected services.
+Design preference: dark futuristic OLED/glass interfaces, cyan/blue/purple neon, depth, motion, polished dashboards. StudyLock is the major exception with a liquid yellow/orange family identity.
+
+CYBER PULSE
+-----------
+Slogan: Build Beyond the Idea.
+Description: Youth-built technology organization/ecosystem focused on turning ideas into working AI, education, safety, automation, mobile/desktop, offline and connected-device systems.
+
+Documented Cyber Pulse people / project associations:
+- Ntsakiso Chauke / DARTHWOLF — Founder, CEO, Lead Developer, system architect; development/integration across the ecosystem.
+- Rhandzu Fuela — StudyLock research, early idea contributor, and one of the first minds behind the StudyLock idea
+- Nziani Nhlanhla (older records may say Dziani Nhlanhla) — StudyLock research partner / idea collaborator.
+- Nkateko Maluleke (also Maluleke Nkateko) — Star AI original idea association; Study AI / UI ideas; liquid-gloss visual assistance in some history.
+- Themba Fuela — GuardianAI idea association.
+- Success Mabunda — GuardianAI concept/research association.
+- Mawela Nkoriso — Community Gadget / Community Safety concept lead or idea contributor.
+- Hlaisi Nhlahla — Alpha11 association; Alpha11 is not currently a Cyber Pulse product.
+Do not infer friendships/family relationships or private facts from project association.
+
+CORE / STRONGLY ASSOCIATED CYBER PULSE PROJECTS
+-----------------------------------------------
+1. StudyLock — Student/Parent/Teacher focus, learning, app blocking, offline tutoring, pairing and school/family support. Dedicated complete knowledge pack installed.
+2. Evolution Learning — structured learning platform; slogan "learn -> practice -> improve -> evolve"; Home, Study Hub, AI Tools, Quiz, Progress, Profile; Android/Firebase/AI direction.
+3. StudyOS — student-focused AI operating environment; offline-first v4; Android/WearOS/embedded/distributed v5. Dedicated complete knowledge record installed.
+4. Study AI — education-focused AI assistant/tutor; online + offline model direction; Android/Firebase work; distinct from StudyLock and StudyOS.
+5. Star AI — general-purpose assistant for work, learning, research, productivity and coding; Android/desktop, voice, memory, offline+online multi-model direction.
+6. GuardianAI — digital-safety system focused on detecting/blocking harmful or adult content and supporting safer-device/parental controls.
+7. Infinity OS Android / Infinity Prime — AI-first computing/platform direction associated with Cyber Pulse in later records.
+8. AEGIS — AI assistant/platform lineage with edge AI, memory, security, coding, tutoring, orchestration and device intelligence; AEGIS TITAN reference installed.
+9. Community Safety App — community alerts, emergency coordination and private-code access concepts.
+10. Community Gadget — simple offline-capable emergency hardware/terminal with three-button logic and control-center concepts.
+11. Cyber Pulse AI Earpods — wearable AI audio/assistant hardware concept.
+12. Pulse AI — AI helper associated with Cyber Pulse web/product ecosystem.
+13. Cyber Pulse websites — main/info website, Cyber Learn/offline library, APK Download website, and related community/team/product web surfaces.
+
+CYBER PULSE WEB ECOSYSTEM
+-------------------------
+- Main/info site: Cyber Pulse organization, products, team, about/contact, authentication/profile concepts.
+- Cyber Learn / offline library: Grade 8-12 curriculum libraries in the later scope, past papers from 2020 onward, memos where public, general knowledge and focus music; apps fetch/use resources from the site.
+- APK Download website: app cards/downloads for StudyLock variants, GuardianAI, Evolution Learning, Study AI and other releases; StudyLock Student/Parent/Teacher remain separate entries when separate APKs exist.
+- Hosting direction: Netlify has been a major deployment platform; Firebase used for authentication/backend in several projects.
+
+INDEPENDENT / PERSONAL / EXPERIMENTAL PROJECTS
+----------------------------------------------
+- Pulsar AI / Pulsar Core / Pulsar-1 — primarily independent AI engine/model + API ambition; desktop/Android companion; voice, plugins, offline, multi-model, device-control direction.
+- AMBER — advanced assistant/companion direction associated with Pulsar work; computer/app control, automation, messaging/game-control concepts subject to authorization and safety.
+- Void — separate from Cyber Pulse; Android phone UI/launcher replacement with rich customization and smooth motion; target installed size around <=500 MB.
+- Alpha11 / Alpha Eleven — reasoning/reflection/personal-development concept; explicitly separate from Cyber Pulse in later corrections.
+- Knox AI — less-defined independent powerful model/engine concept.
+- Phoenix Learning System — older education concept.
+- DroidDesk — Android/desktop productivity/interaction experiment.
+- HORIZON family — HORIZON OS, OS 2.0, EVENT, CORE, AI, MESH, UI; experimental OS/device-mesh/interface concepts.
+- The Forbidden Gates — broader experimental project history.
+- NEXUS / GPT-7 Lab / 500 AI Agents — experimental AI/platform concepts appearing in the broader project catalog.
+
+INFINITY / AEGIS INTERNAL NAMES
+-------------------------------
+Infinity Core; Agent Matrix; Mission Control; Device Mesh; Memory Vault; Infinity Shield; Developer OS; Vision; Model Hub; Project Capsules; Infinity Sandbox; Memory 3.0 Knowledge Graph; Background Intelligence; Time Machine; Model Benchmark Lab; Adaptive Performance; Skill Store; Forge / Omega Forge; Omega Brain; Titan Core; Titan Shield; Sentinel; Nexus IDE; Trinity Engine; AEGIS Core; AEGIS TITAN; AEGIS v16 OMEGA; Aegis Titan Shield.
+These are modules/subsystems/concepts, not automatically separate public products.
+
+HARDWARE / ROBOTICS CONCEPTS
+----------------------------
+- Pulsar robot / LEGO AI robot (3-motor body concept).
+- Infinity Car / robotic car / ESP32 vehicle concepts.
+- Community emergency gadget.
+- Cyber Pulse AI Earpods.
+- TriTech hand-crank / backup-power concept.
+
+IMPORTANT OWNERSHIP / STATUS RULES
+----------------------------------
+- Alpha11: not Cyber Pulse unless a newer explicit correction says otherwise.
+- Void: separate from Cyber Pulse.
+- Pulsar AI: primarily independent AI-engine/model direction.
+- Desktop Infinity has had changing/uncertain ownership descriptions; preserve uncertainty.
+- Infinity OS Android / Infinity Prime: associated with Cyber Pulse in later records.
+- Experimental names must not automatically be described as finished or released products.
+
+ALIASES / SPEECH NORMALIZATION
+------------------------------
+- "Cyberpowers" can mean Cyber Pulse in speech-to-text context.
+- "Studylog", "Study Log", and sometimes "Starlock" can mean StudyLock when context clearly points to that project.
+- StudyOS / Study OS are the same project.
+- Study AI is NOT Star AI.
+- Star AI is NOT Study AI.
+- AEGIS is NOT Infinity OS, though their histories overlap.
+- Pulsar AI is NOT Cyber Pulse as an organization.
+
+PRIVACY / KNOWLEDGE BOUNDARY
+----------------------------
+This local profile intentionally excludes passwords, API keys, private tokens, exact private address/location, recovery secrets, private medical information and unnecessary private profiles of other people. Ember should never invent missing private facts.
+
+================================================================================
+END OF MASTER ROUTING INDEX
+================================================================================

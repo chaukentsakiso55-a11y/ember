@@ -1,0 +1,34 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 52. FIREBASE USAGE
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+52. FIREBASE USAGE
+================================================================================
+
+Firebase has been repeatedly used as the main backend direction.
+
+Uses:
+- authentication
+- pairing
+- syncing
+- user accounts
+- app data
+- student/parent state
+- teacher classes
+- AI-related app support
+- cloud data
+
+Projects associated with Firebase:
+- StudyLock
+- GuardianAI
+- Evolution Learning
+- Study AI
+- Star AI
+- Cyber Pulse website
+
+One of the major lessons in the project history:
+the UI can appear correct while Firebase rules, app registration, package identity, auth, or schema still prevent the actual system from working.
+
+================================================================================

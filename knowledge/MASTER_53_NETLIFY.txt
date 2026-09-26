@@ -1,0 +1,19 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 53. NETLIFY
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+53. NETLIFY
+================================================================================
+
+Netlify became an important hosting platform for Cyber Pulse websites.
+
+Known deployments:
+- Cyber Pulse main information website
+- Cyber Learn Projects / offline library
+- Cyber Pulse APK download website
+
+Netlify was preferred for quick deployment of static sites.
+
+================================================================================

@@ -1,0 +1,34 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 46. EDUCATION INTEREST
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+46. EDUCATION INTEREST
+================================================================================
+
+Despite the heavy AI/cybersecurity focus, a large part of DARTHWOLF's actual product output is education technology.
+
+Major education projects:
+- StudyLock
+- Evolution Learning
+- StudyOS
+- Study AI
+- Phoenix Learning System
+- Cyber Learn / offline library
+
+Common educational features:
+- quizzes
+- notes
+- tutoring
+- offline curriculum
+- past papers
+- learning resources
+- progress
+- goals
+- planning
+- focus control
+- parent involvement
+- teacher involvement
+
+================================================================================

@@ -1,0 +1,52 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 33. CYBER PULSE MAIN WEBSITE
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+33. CYBER PULSE MAIN WEBSITE
+================================================================================
+
+Main organization website:
+Cyber Pulse
+
+Live deployment used:
+cyber-pulse-info.netlify.app
+
+Slogan:
+Build Beyond the Idea.
+
+Main sections:
+- Products
+- Meet the Team
+- Join Cyber Pulse
+- Contact
+- About Cyber Pulse
+
+Visual style:
+- futuristic
+- dark
+- neon cyan/blue/purple
+- glass
+- cinematic hero
+- animated navigation
+- 3D elements
+
+Authentication directions included:
+- Continue with Google
+- Continue as Guest
+- Continue anonymously
+- Email/password where used
+
+Earlier authentication experiments also included other providers before later simplification.
+
+The site also included or planned:
+- user profiles
+- admin dashboard
+- PWA
+- sound design
+- Pulse AI floating assistant
+- product information
+- team information
+
+================================================================================

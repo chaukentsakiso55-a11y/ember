@@ -1,0 +1,29 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 42. AI MODEL ROUTING
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+42. AI MODEL ROUTING
+================================================================================
+
+Many DARTHWOLF projects use the idea of multiple AI providers instead of relying on only one.
+
+Model-routing concepts:
+- local model first
+- cloud model when needed
+- different model for coding
+- different model for reasoning
+- fallback providers
+- OpenRouter support
+- model benchmarking
+- automatic route selection
+
+This appears in:
+- Infinity OS
+- Star AI
+- Pulsar AI
+- Study AI
+- AEGIS
+
+================================================================================

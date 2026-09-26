@@ -1,0 +1,165 @@
+STUDYOS — COMPLETE PROJECT KNOWLEDGE RECORD
+================================================================================
+Document date: 22 September 2026
+Project family: Cyber Pulse education / AI operating-environment work
+Primary documented builder / architect: Ntsakiso Chauke / DARTHWOLF
+
+STATUS AND INTERPRETATION
+-------------------------
+This record combines the confirmed StudyOS direction with historical/experimental concepts discussed during its evolution. Ember must distinguish a design target or experiment from a verified shipped feature. Do not claim a feature is running on a real device unless the current project evidence confirms that.
+
+1. WHAT STUDYOS IS
+------------------
+StudyOS is a student-focused operating environment intended to combine learning, AI tutoring, productivity, local/offline intelligence, voice, device integration, and study workflows into one system. It is broader than a normal study app: its direction is an AI-first student operating environment that can continue to function when cloud services or internet access are unavailable.
+
+StudyOS is not the same project as StudyLock, Study AI, Star AI, AEGIS, or Infinity OS.
+- StudyLock: focus control, app blocking, Student/Parent/Teacher ecosystem.
+- Study AI: education-focused AI tutor/assistant.
+- StudyOS: broader student AI operating environment/platform.
+- Star AI: general-purpose assistant.
+- AEGIS / Infinity OS: later/broader AI-computing and device-control directions.
+
+Historical lineage discussed:
+Evolution Learning -> StudyOS -> AEGIS -> Infinity OS
+This is a development/influence lineage, not a claim that all four are the same product.
+
+2. STUDYOS V4.0 DIRECTION
+-------------------------
+StudyOS v4.0 was defined around offline-first local AI.
+Core direction:
+- Offline-first operation.
+- Local language models.
+- llama.cpp-based local inference concepts.
+- Whisper.cpp-based local speech recognition concepts.
+- Local speech / voice interaction.
+- Minimal dependence on permanent cloud connectivity.
+- Student-centered AI and learning workflows.
+- Local knowledge and retrieval.
+
+Local model examples associated with v4:
+- Phi-3 Mini class, including the 3.8B-class direction.
+- Gemma 2 2B class.
+These are model directions/targets and should not be described as permanently bundled unless the actual build contains them.
+
+Historical/experimental v4 architecture ideas also included:
+- Retrieval-augmented generation (RAG) over local study knowledge.
+- Local vector/search memory concepts.
+- LoRA / PEFT-style adaptation ideas for specialized learning behavior.
+- Dedicated task agents for areas such as homework, research, coding, and tutoring.
+- Local/REST control interfaces and LAN-based communication experiments.
+- Separation of student data, local knowledge, model runtime, and task-agent layers.
+
+3. STUDYOS V5.0 DIRECTION
+-------------------------
+StudyOS v5.0 expanded the concept beyond a single phone application.
+Target platforms/directions:
+- Android.
+- Wear OS.
+- Embedded-device concepts.
+
+Core v5 ideas:
+- Encrypted local models / protected model storage.
+- No-cloud or cloud-optional operating mode.
+- Wear OS tiles / quick study controls.
+- A remote-brain concept over local networks (LAN), allowing a stronger nearby device to perform heavier processing for a smaller device.
+- Agent-swarm / multi-agent study intelligence.
+- Distributed study intelligence across permitted devices.
+- Stronger owner-controlled trust boundaries for connected devices.
+- Encrypted Device Mesh concepts in later/stricter designs.
+
+The owner-only / encrypted Device Mesh direction should be treated as an access-control goal: only explicitly authorized devices/users should participate. It is not permission to bypass device security or account controls.
+
+4. OFFLINE AI PHILOSOPHY
+------------------------
+StudyOS repeatedly emphasizes offline capability because student access to stable internet, data, or cloud providers cannot be assumed.
+Desired offline capabilities include:
+- Local question answering.
+- Local study knowledge search.
+- Local speech recognition where supported.
+- Local model inference.
+- Local notes and study material.
+- Offline quizzes / learning utilities where content is available.
+- LAN communication with trusted nearby devices.
+
+Cloud AI can enhance capability, but the StudyOS concept should remain useful without it.
+
+5. AI / AGENT ROLES
+-------------------
+Historical role ideas include:
+- Tutor: explains school subjects and learning material.
+- Homework agent: helps interpret and work through assignments.
+- Research agent: organizes and searches available knowledge/resources.
+- Coding agent: assists with programming, debugging, and explanations.
+- Study/planning agent: helps organize learning goals and sessions.
+
+These roles should be orchestrated with clear permissions and must not be treated as autonomous authority over the user's device or accounts.
+
+6. KNOWLEDGE AND MEMORY
+-----------------------
+StudyOS directions include local knowledge libraries, imported resources, retrieval/search, and persistent student context. RAG was discussed as a way to retrieve relevant local material before the AI answers. Memory and knowledge should remain separated conceptually:
+- knowledge = reference material, school resources, imported documents;
+- memory = user preferences/progress/context;
+- model = reasoning/generation engine.
+
+7. VOICE
+--------
+Voice direction includes local speech recognition through Whisper.cpp-style components and local/offline speech where practical. Voice is intended as an interface into tutoring, study control, and productivity rather than a requirement that every device always listen.
+
+8. DEVICE / LAN INTEGRATION
+---------------------------
+The remote-brain concept allows StudyOS on a phone/watch/embedded device to ask an authorized stronger machine on the same trusted network to do heavier work. The design goal is local collaboration without forcing a public cloud dependency.
+
+Important principles:
+- explicit pairing/authorization;
+- encrypted communication;
+- clear device identity;
+- revocable trust;
+- local-first fallback;
+- do not expose private study data to untrusted devices.
+
+9. WEAR OS
+----------
+Wear OS direction includes lightweight study interactions such as tiles, quick status, reminders, timers, and sending small requests to the phone/remote brain. Heavy local LLM inference on a watch should be treated as hardware-dependent rather than assumed.
+
+10. RELATIONSHIP TO CYBER PULSE
+-------------------------------
+StudyOS is strongly associated with Cyber Pulse's education/AI portfolio. DARTHWOLF / Ntsakiso Chauke is the primary documented builder and system architect in the available project history. No additional StudyOS-specific contributor role should be invented unless later records explicitly establish it.
+
+11. RELATIONSHIP TO OTHER PROJECTS
+----------------------------------
+Evolution Learning influenced the structured-learning direction.
+Study AI represents a more direct tutoring/education assistant.
+StudyLock represents focus/security/family/teacher controls.
+AEGIS and Infinity OS represent broader AI-computing, automation, device-control, security, and multi-agent directions that developed later.
+
+12. DESIGN DIRECTION
+--------------------
+StudyOS belongs to the broader Cyber Pulse futuristic design family:
+- dark/OLED interfaces;
+- glass / depth;
+- cyan, blue, purple neon language;
+- clean study dashboards;
+- strong visual hierarchy;
+- smooth motion;
+- AI-first command/learning surfaces.
+StudyLock's yellow/orange liquid identity should not automatically be applied to StudyOS.
+
+13. ENGINEERING PRINCIPLES
+--------------------------
+- Offline-first, cloud optional.
+- Modular model/runtime design.
+- Hardware-aware model selection.
+- Keep student data private by default.
+- Explicit permissions for device-to-device actions.
+- Separate model, memory, knowledge, and tools.
+- Graceful fallback when a model or device is unavailable.
+- Do not claim experimental features are complete until tested.
+- Optimize for limited hardware and battery.
+
+14. CURRENT KNOWLEDGE BOUNDARY
+------------------------------
+The strongest confirmed StudyOS information is its offline-first v4 direction and expanded v5 Android/WearOS/embedded/distributed direction. Some deeper architecture concepts were experimental or planning-stage. Ember should answer using that distinction rather than converting every historical idea into a shipped feature.
+
+================================================================================
+END OF STUDYOS RECORD
+================================================================================

@@ -1,0 +1,45 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 49. DEVICES AND DEVELOPMENT ENVIRONMENT
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+49. DEVICES AND DEVELOPMENT ENVIRONMENT
+================================================================================
+
+Main computing context:
+- Dell Windows laptop
+- One recorded development-laptop configuration: Intel Core i5-2520M with 8 GB RAM
+- Android phone
+- Android Studio
+- emulator
+- GitHub
+- Python environments
+
+Phone context:
+Samsung Android device has been used for testing and daily mobile development-related discussions.
+One specifically recorded phone model is Samsung A06.
+
+Other devices discussed:
+- JVC smart TV
+- wearable / WearOS concepts
+- robotics hardware
+
+Python versions discussed across troubleshooting:
+- Python 3.8
+- Python 3.10
+- Python 3.13
+- Python 3.14
+
+Development difficulties encountered:
+- pip timeouts
+- virtual-environment problems
+- Gradle timeouts
+- Android Studio cache size
+- GitHub Actions failures
+- APK signing
+- package errors
+- Firebase configuration
+- missing dependencies
+
+================================================================================

@@ -1,0 +1,26 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 8. CORE CYBER PULSE PRODUCTS
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+8. CORE CYBER PULSE PRODUCTS
+================================================================================
+
+The main Cyber Pulse portfolio has included:
+
+- StudyLock
+- Evolution Learning
+- StudyOS
+- Study AI
+- Star AI
+- GuardianAI
+- Infinity OS Android / Infinity Prime direction
+- AEGIS
+- Community Safety App
+- Community Gadget
+- Cyber Pulse AI Earpods
+
+Other systems have appeared in the broader history but do not all have the same ownership/status.
+
+================================================================================

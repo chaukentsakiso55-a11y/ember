@@ -1,0 +1,674 @@
+EVOLUTION LEARNING — CLEANED UI / FEATURE REFERENCE
+================================================================================
+
+Evolution Learning v5.0 - Modern Learning Workspace
+‹
+📚
+EVOLUTION
+LEARNING v5.0
+👩🏾‍🎓
+Student
+Grade 10
+Online
+⏱
+0m
+✏️
+0
+🔒 FOCUS ACTIVE
+25:00
+VIEW
+📚
+EVOLUTION LEARNING
+YOUR FUTURE, BUILT ONE SESSION AT A TIME
+v5.0 · Modern · Focused · Built for real learning
+Begin Your Journey →
+👩‍🎓
+Sign in to Evolution
+Protect your progress, focus sessions, and AI study history.
+Sign In
+Sign Up
+Welcome Back
+Sign In
+Create Account
+Grade 1
+Grade 2
+Grade 3
+Grade 4
+Grade 5
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Grade 10
+Grade 11
+Grade 12
+University
+College
+Create Account
+Continue as Guest
+🏠 Home
+Learn, Track, Grow
+● LIVE ACTIVITY
+Build momentum from what you actually do.
+No pre-filled streaks, scores, or predictions. Evolution now reports only activity recorded in this app.
+0m
+Learning time
+0
+Quizzes done
+0
+Focus sessions
+💭 How are you feeling today?
+😴
+Tired
+😟
+Stressed
+😐
+Okay
+😊
+Good
+🚀
+Focused
+📈 Daily Progress
+0%
+Complete goals to fill the bar
+🔒 Focus Lock Session
+Block distraction apps and stay on task. Finish a quick check-in quiz to unlock your study flow.
+TikTok
+Instagram
+YouTube
+Games
+WhatsApp
+Start Focus Lock
+🎯 Study Goals
+0/3 done
+No goals yet. Add one below and your completion percentage will start from real activity.
+Add
+📝 Homework Tracker
+0 pending
+Add Homework
+💡
+"Education is the most powerful weapon which you can use to change the world."
+— Nelson Mandela
+📖 Study Hub
+AI-enhanced learning tools
+🎓 Exam Prep Centre
+Get ready for finals with official resources and proven strategies.
+📄
+Past Papers
+💡
+Strategy Tips
+⚡ Smart Flashcards
+Tap to reveal
+What is 3x - 9 = 0?
+Box 1/3
+← Prev
+Next →
+🧠 AI Mind Map Generator
+Type any topic — the AI instantly builds a visual concept map.
+🗺️
+⏱️ Pomodoro Timer
+25:00
+Focus Time
+Start
+Reset
+� Subject Explorer
+Choose a subject for a summary, key facts, and online course recommendations.
+Mathematics
+Science
+History
+English
+�🔒 Focus Lock Mode
+Block distractions and focus on studying for a set time.
+Enter Focus Mode
+📅 Personalised Study Planner
+AI generates a custom study schedule based on your subjects, exam dates, and available time.
+Create My Plan
+Current Plan Active
+📝 AI Quiz Generator from Notes
+Paste your notes and the AI will generate a custom quiz for you.
+Generate Quiz from Notes
+�🏽‍🏫 Live AI Teacher
+Ask the AI teacher for step-by-step explanations, examples, and voice support.
+Open Live AI Tutor
+📷 Camera Homework Solver
+Snap your homework to extract the question and get a guided answer.
+Solve Homework Photo
+🧠 AI Weakness Detector
+The AI scans your performance and suggests what to focus on next.
+Analyze Weaknesses
+🗺️ View Skill Tree
+🧩 Memory Training Game
+Boost your recall with a quick study challenge.
+Play Memory Game
+🏆 Class Leaderboard
+Compare XP with classmates and school rivals.
+View Leaderboards
+🧠 AI Mistake Bank
+Review questions you missed and master your weak points.
+0 Weak Points Found
+Open Bank
+�📝 My Notes
+Calculus formulas
+Mathematics
+d/dx(xⁿ)=nxⁿ⁻¹ d/dx(sinx)=cosx...
+🤖 AI Power Centre
+8 AI tools powered by Claude
+📖
+Smart Dictionary AI
+Reference
+Search any English word to get its meaning, synonyms, and usage examples.
+📖 Open Dictionary →
+🔊
+AI Voice Reader
+Accessibility
+Listen to your notes, summaries, or any text. Perfect for auditory learners or multi-tasking.
+🔊 Open Voice Reader →
+📸
+AI Smart Scanner
+PRO
+Scan homework, handwritten notes, or textbooks using OCR to extract text and get instant AI help.
+📸 Open Smart Scanner →
+📖
+Smart Dictionary AI
+Reference
+Search any English word to get its meaning, synonyms, and usage examples.
+📖 Open Dictionary →
+🤖
+AI Tutor
+Most Used
+Ask any question on any subject. Get clear, grade-appropriate answers with step-by-step explanations.
+🤖 Open AI Tutor →
+✍️
+Essay Grader
+Powerful
+Paste any essay and get an AI score with structured feedback.
+✍️ Open Essay Grader →
+📖
+Smart Dictionary AI
+Reference
+Search any English word to get its meaning, synonyms, and usage examples.
+📖 Open Dictionary →
+📚
+AI Homework Helper
+New
+Get step-by-step solutions and explanations for homework problems.
+📚 Open Homework Helper →
+📖
+Smart Dictionary AI
+Reference
+Search any English word to get its meaning, synonyms, and usage examples.
+📖 Open Dictionary →
+📝
+AI Notes Summarizer
+Essential
+Paste your long study notes and get a concise, high-impact summary instantly.
+📝 Open Summarizer →
+📖
+Smart Dictionary AI
+Reference
+Search any English word to get its meaning, synonyms, and usage examples.
+📖 Open Dictionary →
+🚀
+AI Career Path Finder
+Career
+Predict your ideal career path based on subjects, interests, and academic performance.
+🚀 Open Career AI →
+✨
+EDITH
+Analytical
+An advanced analytical AI to challenge your reasoning, debate complex topics, and refine your logic.
+✨ Chat with EDITH →
+✏️ Adaptive Quiz Engine
+Practice, measure, improve
+🔍 Find Your Subject
+All
+STEM
+Languages
+Commerce
+Humanities
+Arts
+⚔️
+STUDY BATTLES
+Challenge a classmate to a live quiz duel!
+Join Battle
+📚
+Mathematics
+Curriculum-aligned questions ready.
+CHOOSE DIFFICULTY
+Easy
+Med
+Hard
+CHOOSE MODE
+Practice
+Mock Exam
+Topic-by-Topic Test
+🚀 Start Session
+← Back to Selection
+Mathematics
+00:00
+Next Question →
+🏆
+Session Complete!
+80%
+🔍 Review Mistakes
+📜 Claim Excellence Certificate
+Try Again
+Finish
+📊 Real Progress
+Only activity recorded by Evolution Learning
+⏱️
+0m
+Learning time
+✏️
+0
+Completed quizzes
+🎯
+—
+Average quiz accuracy
+🧠
+0
+Flashcards reviewed
+🔒
+0
+Completed focus sessions
+✅
+0
+Homework completed
+🧾 Quiz history
+No completed quizzes yet. Your real results will appear here.
+🎯 Goals
+No goals tracked yet.
+⏱️ App activity
+👤 My Profile
+👤
+✎
+New Student
+New learning profile
+0m
+Learning time
+0
+Quizzes
+0/0
+Goals done
+🤖 AI Study Coach
+Get personalized study tips and motivation from your AI coach.
+Open Study Coach
+🛡️ System Security
+LOCAL CHECKS
+Review local protection settings, focus permissions, and stored activity from one place.
+Run Security Scan
+⚙️ App Settings
+Your Grade
+Grade 10
+Open Settings
+Reset Progress
+Sign Out
+🏆 Achievements
+📚 Resources
+📝 Notes
+🎥 Classes
+🔒 PIN active · Features run during school & study time only · Share PIN only with parents/guardians
+Evolution Learning v5.0 · Your learning data stays yours
+🏠
+Home
+📖
+Study
+🤖
+AI
+✏️
+Quiz
+📊
+Stats
+👤
+Me
+🔔
+Alerts
+0
+AI Voice Reader
+Convert text to natural speech.
+×
+🔊 Read Aloud
+⏹️ Stop
+VOICE SPEED
+Slower
+Normal
+Faster
+Smart Dictionary AI
+Powered by Google Dictionary API.
+×
+🔍
+Type a word and press search.
+AI Career Path Finder
+FUTURE-PREDICT-V1
+Discover your future based on your profile.
+×
+What are your top 3 interests?
+What is your favorite subject?
+Mathematics
+Physical Sciences
+Life Sciences
+English HL
+Accounting
+History
+Expected APS Score? (Approx)
+🔍 Predict My Career Path
+Reset Analysis
+📄 Past Exam Papers
+Official DBE & IEB papers for revision.
+×
+🔍 Mistake Review
+Analyze where you went wrong.
+×
+Note Quiz Generator
+Convert your study notes into a practice quiz.
+×
+🚀 Generate & Start Quiz
+AI is analyzing notes and crafting questions...
+Customize Avatar
+Express yourself with a custom look.
+×
+Select Character
+👩
+👨
+🧑
+👩‍🎓
+👨‍🎓
+👩‍🔬
+👨‍🔬
+🚀
+Select Skin Tone
+Select Theme Style
+Default
+Anime 🌸
+Manga ✨
+Cartoon 🎨
+Toon 🚀
+Studio 🌈
+Done
+🛡️ Evolution Security Center
+Antivirus & System Integrity
+×
+🛡️
+System Secure
+Last scan: Just now
+🛡️ Security Features
+Real-time Protection
+ACTIVE
+Anti-Phishing Filter
+ACTIVE
+Encrypted Storage
+AES-256
+Anti-Tamper Shield
+READY
+🛡️ Device Protection
+Registering as Device Admin prevents unauthorized uninstallation and data wiping.
+Admin Status:
+NOT REGISTERED
+Register Device Admin
+Run Full System Scan
+Smart Scanner
+OCR-VISION-X
+Extract text from images or camera.
+×
+EXTRACTED TEXT:
+Copy
+Ask AI
+🪄 Convert to Flashcards
+📸 Capture & OCR
+📁 Upload Image
+⚡ Modes
+Homework
+Notes
+Handwritten
+AI Tutor
+CLAUDE-3-OPUS-ENGINE
+Ask any question and get a smart answer.
+×
+🔍
+Search
+Ask AI Tutor
+Essay Grader
+LINGUISTIC-ANALYTICS-ENGINE
+Paste your essay and get a quick score + feedback.
+×
+🌍
+Check
+Grade Essay
+AI Homework Helper
+STEM-SOLVER-X-ENGINE
+Get step-by-step solutions for homework problems.
+×
+📊
+Query
+Get Help
+AI Notes Summarizer
+SUMMARY-CORE-X
+Paste your notes and get the key points.
+×
+Summarize Notes
+EDITH
+CRITICAL-THINKING-CORE-V2
+Your analytical partner for deep reasoning and logical debate.
+×
+Greetings. I am EDITH. I've been monitoring your learning patterns. What premise or concept shall we subject to critical analysis today?
+Send
+App Settings
+Adjust your grade and learning preferences.
+×
+Theme Mode
+Toggle Light/Dark Mode
+Your Grade
+Grade 1
+Grade 2
+Grade 3
+Grade 4
+Grade 5
+Grade 6
+Grade 7
+Grade 8
+Grade 9
+Grade 10
+Grade 11
+Grade 12
+University
+College
+App Security
+Security Key: 2211 (Required for setting changes & focus exit)
+🗑️ Delete App Data
+Offline Mode
+Enable offline mode (sync when online)
+Parental Controls
+🛡️ Enter PIN to Open Dashboard
+Manual PIN Entry (Backup)
+🔒 Security Key active · Features run during school & study time only.
+Save Settings
+Focus Lock Mode
+Block games, social media, and focus.
+×
+🎯
+Decide when to focus:
++ Add Time Slot
+Block Games & Socials
+Restrict TikTok, Roblox, etc.
+🎵 Focus Music
+None
+Lo-fi Beats (Radio)
+Nature Sounds
+Ambient Deep Focus
+🚀 Start Focus Mode
+🔒
+Focus Mode Active
+Time remaining:
+25:00
+PLAYING:
+Lo-fi
+⏹️ Stop Music
+🚫 Games and Social Media are blocked
+Requires security key (2211) to exit early.
+End Session early
+Break Time!
+You've been studying for a while. Take a break.
+×
+☕
+Recommended: 5-10 minute break
+Stand up, stretch, or get some fresh air. Breaks improve focus and prevent burnout.
+Resume Studying
+AI Study Coach
+Your personalized learning mentor.
+×
+Get Another Tip
+🔔 Notifications
+Stay updated on your progress.
+×
+🏆 Achievements
+Unlock badges and milestones.
+×
+📚 Learning Resources
+Access curated study materials.
+×
+‹
+📘 Subject Explorer
+Learn about subjects and recommended online courses.
+×
+📝 Note Taking
+Create and organize your notes.
+×
+🎙️
+Listening... Speak clearly.
+Save Note
+🪄 AI Auto-Sum
+🎥 Live Classes
+Join scheduled classes.
+×
+No live classes are currently scheduled. Check back later for new sessions.
+🏆 Leaderboards
+Track weekly XP, school rank, and top learners.
+×
+🧠 Weakness Detector
+Find your weak topics and get AI-backed study actions.
+×
+🧩 Memory Training
+Quick games to improve recall and study retention.
+×
+Study Planner AI
+Custom schedule for South African students.
+×
+Select Your Priority Subjects:
+Mathematics
+Science
+English
+History
+Daily Study Capacity:
+1 Hour per day
+2 Hours per day
+4 Hours per day (Intensive)
+Exam Target:
+🚀 Generate Personalised Plan
+YOUR AI STUDY ROADMAP
+Edit Preferences
+🎊
+LEVEL UP!
+You've reached
+2
+Keep studying to unlock new rewards and badges!
+AWESOME
+🤖
+🔒
+Parental Verification
+Please enter your Parent PIN to continue.
+Cancel
+Unlock
+🛡️ PARENT COMMAND CENTER
+V4.0 Advanced Monitoring
+×
+Total Study Time
+0h
+↑ 15% from last week
+Focus Quality
+82%
+Optimal Study State
+📚 Academic Mastery
+Live Analytics
+🎁 Reward Milestone
+Goal: New Sneakers
+Unlock at 2000 points
+0 / 2000
+📊 Recent Performance (CAPS)
+⚠️ Restricted Activity Log
+⚙️ Remote Controls
+Lock Down Apps (Focus Active)
+Forced Content Filter (NSFW)
+Automatic Focus Scheduling
+🚫 Blocklist Management
++ Add New App to Restricted List
+🛡️ Anti-Tamper System
+SECURE
+Device Administrator status prevents child from force-closing or uninstalling the app during focus sessions.
+Security Logs
+Cloud Sync
+💬 Send a Motivation Nudge
+Send a message and an optional point bonus to encourage your child.
+No Bonus
++50 Points
++100 Points
++200 Points
+🚀 Send Nudge
+University APS Predictor
+Based on South African University Standards
+×
+Your Current APS Score
+32
+✓ BACHELOR PASS QUALIFIED
+🏫 University Eligibility
+Note: APS calculation excludes Life Orientation at some universities (e.g. UCT, Wits). This is an estimate based on your current performance.
+⚔️ Study Battle
+Challenge your rivals in real-time.
+×
+Create a Room
+Host New Battle
+OR
+Join with Code
+Join
+ROOM CODE
+8842
+Share this code with your friends.
+Wating for opponents...
+👩🏾‍🎓
+You
+VS
+?
+Searching...
+START DUEL ⚔️
+🧠 AI Mistake Bank
+Your personal revision library.
+×
+🚀 Practice Weak Points
+Clear All
+Exam Anxiety Relief
+Take a moment to center yourself.
+×
+Breathe
+Deep breathing calms the nervous system.
+Follow the circle. Inhale as it grows, exhale as it shrinks.
+Start Exercise
+Lo-Fi Beats
+🗺️ Academic Skill Tree
+Visualize your progress across all subjects.
+×
+Mastered (75%+)
+In Progress
+Not Started
+EVOLUTION
+CERTIFICATE OF EXCELLENCE
+This award is proudly presented to:
+Student Name
+for achieving an outstanding score of
+95%
+Mathematics Assessment
+Evolution AI
+Verification Authority
+🏆
+—
+Date Awarded
+Print / Save as PDF
+Close

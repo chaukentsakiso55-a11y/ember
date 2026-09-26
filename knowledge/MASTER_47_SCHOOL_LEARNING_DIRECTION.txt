@@ -1,0 +1,24 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 47. SCHOOL / LEARNING DIRECTION
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+47. SCHOOL / LEARNING DIRECTION
+================================================================================
+
+DARTHWOLF is a high-school student in a science-oriented track.
+
+Academic topics frequently worked on in ChatGPT:
+- Physics
+- Life Sciences
+- History
+- Mathematics/probability
+- Geography
+- school assignments
+- exam preparation
+
+Technology and school often overlap:
+many of the biggest projects are designed specifically for students.
+
+================================================================================

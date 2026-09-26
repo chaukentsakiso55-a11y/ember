@@ -1,0 +1,30 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 12. STUDY AI
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+12. STUDY AI
+================================================================================
+
+Study AI is a dedicated education AI assistant.
+
+Purpose:
+AI tutoring and learning assistance.
+
+Direction:
+- online models
+- offline models
+- education-focused AI
+- Firebase integration
+- Android APK
+
+Study AI has been actively developed inside Cyber Pulse.
+
+GitHub Actions builds for Study AI Android were repeatedly attempted during September 2026 and several builds failed.
+
+Study AI is separate from StudyLock:
+StudyLock is the larger focus/study-control system.
+Study AI is more directly centered around AI tutoring.
+
+================================================================================

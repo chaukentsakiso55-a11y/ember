@@ -1,0 +1,35 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 58. DARTHWOLF AS A BUILDER
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+58. DARTHWOLF AS A BUILDER
+================================================================================
+
+The strongest recurring characteristics in the project history are:
+
+- ambitious scope
+- willingness to experiment
+- interest in building complete systems
+- repeated iteration
+- strong preference for AI integration
+- strong interest in offline functionality
+- strong interest in device control
+- strong visual-design preferences
+- tendency to combine projects
+- interest in real APKs rather than only mockups
+- focus on turning concepts into usable software
+- willingness to troubleshoot failed builds repeatedly
+
+DARTHWOLF often pushes projects beyond their original scope.
+A small app idea can eventually become:
+- an AI assistant
+- a connected ecosystem
+- a desktop version
+- a mobile version
+- an offline version
+- a voice-controlled version
+- a multi-agent version
+
+================================================================================

@@ -1,0 +1,40 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 66. MOST RECENT AMBER DIRECTION
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+66. MOST RECENT AMBER DIRECTION
+================================================================================
+
+AMBER is intended to become a powerful AI companion closely connected to Pulsar AI work.
+
+Desired capability direction:
+- Desktop/laptop control
+- Android companion functionality
+- Natural-language task execution
+- Opening applications
+- Typing and mouse/keyboard interaction through authorized automation
+- Coding and developer assistance
+- Screen-aware assistance where permission is granted
+- File and application workflows
+- Voice input and spoken responses
+- Background assistant behavior where the operating system allows it
+- Plugin/skill architecture
+- Multi-model routing
+- Online and offline operation
+- Memory/context about DARTHWOLF's projects
+- Ability to work with tools such as browsers, editors, terminals, and project files
+
+Messaging automation direction discussed:
+- Use WhatsApp or other messaging surfaces only through authorized user sessions and supported automation.
+- DARTHWOLF wants the option to send messages by voice/instruction.
+- Automatic replies were discussed as a user-controlled setting that can be enabled or disabled.
+- AMBER should not impersonate DARTHWOLF or send sensitive/high-impact messages without the level of confirmation configured by the user and supported by the platform.
+
+Game / computer-control direction discussed:
+- AMBER should be capable of pressing keys and controlling applications when a safe, authorized computer-control layer is available.
+- The goal is practical control rather than pretending an action occurred.
+- If AMBER cannot perform an action because an automation bridge, permission, or connector is missing, it should state that clearly rather than claiming success.
+
+================================================================================

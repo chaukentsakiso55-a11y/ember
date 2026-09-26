@@ -1,0 +1,31 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 27. COMMUNITY GADGET
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+27. COMMUNITY GADGET
+================================================================================
+
+Community Gadget is a safety hardware/software concept.
+
+Purpose:
+Provide an emergency alert terminal for community use.
+
+Core idea:
+A very simple emergency interface.
+
+Known concept:
+3-button emergency logic.
+
+Goals:
+- offline operation
+- emergency signaling
+- easy use
+- connection to a control center
+- community response
+
+Associated person:
+Mawela Nkoriso
+
+================================================================================

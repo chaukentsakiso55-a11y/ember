@@ -1,0 +1,72 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 18. INFINITY CORE AND RELATED ENGINES
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+18. INFINITY CORE AND RELATED ENGINES
+================================================================================
+
+Infinity-related internal system names have included:
+
+Infinity Core
+Core intelligence/orchestration layer.
+
+Agent Matrix
+Multi-agent structure.
+
+Mission Control
+Central control panel for tasks and agents.
+
+Device Mesh
+Connection layer for multiple devices.
+
+Memory Vault
+Persistent memory system.
+
+Infinity Shield
+Security layer.
+
+Developer OS
+Developer-focused workspace.
+
+Vision
+Visual/screen understanding.
+
+Model Hub
+Model management and routing.
+
+Project Capsules
+Project-specific memory/workspaces.
+
+Infinity Sandbox
+Safe execution/testing environment.
+
+Memory 3.0 Knowledge Graph
+More advanced structured memory concept.
+
+Background Intelligence
+AI processing that continues in the background.
+
+Time Machine
+History/rollback concept.
+
+Model Benchmark Lab
+Compare AI model behavior/performance.
+
+Adaptive Performance
+Adjust system behavior based on available hardware.
+
+Skill Store
+Installable assistant abilities.
+
+Forge / Omega Forge
+Building/automation/development system.
+
+Nexus IDE
+Integrated development environment concept.
+
+Trinity Engine
+Core multi-part engine concept.
+
+================================================================================

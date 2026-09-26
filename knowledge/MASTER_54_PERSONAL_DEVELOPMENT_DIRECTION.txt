@@ -1,0 +1,26 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 54. PERSONAL DEVELOPMENT DIRECTION
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+54. PERSONAL DEVELOPMENT DIRECTION
+================================================================================
+
+DARTHWOLF's projects show a consistent pattern:
+he wants to move from using technology to building technology.
+
+The long-term direction includes:
+- becoming stronger in AI engineering
+- cybersecurity
+- software engineering
+- Android development
+- system design
+- robotics
+- automation
+- electrical/electronic systems
+
+The most ambitious projects are not simple apps.
+They aim to become platforms, operating environments, AI engines, or connected ecosystems.
+
+================================================================================

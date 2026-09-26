@@ -1,0 +1,32 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 16. INFINITY PRIME
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+16. INFINITY PRIME
+================================================================================
+
+Infinity Prime is the Android direction of the Infinity system.
+
+Package direction recorded:
+com.cyberpulse.infinityprime
+
+Concepts included:
+- AEGIS
+- smart routing
+- multi-provider AI
+- Vault
+- memory
+- Project Brain
+- voice
+- screen awareness
+- operations timeline
+- accessibility control
+- paired desktop control
+- remote actions
+- WhatsApp Cloud API concepts
+
+The goal was to place much of the Infinity experience onto Android.
+
+================================================================================

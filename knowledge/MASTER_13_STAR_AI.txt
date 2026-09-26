@@ -1,0 +1,52 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 13. STAR AI
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+13. STAR AI
+================================================================================
+
+Star AI is a general-purpose AI assistant.
+
+Purpose:
+General AI for:
+- work
+- learning
+- research
+- productivity
+- coding
+- everyday assistant tasks
+
+Direction:
+- Android
+- desktop
+- online models
+- offline models
+- multiple providers
+- voice
+- speech-to-text
+- text-to-speech
+- background operation
+- memory
+- user interaction history
+
+Voice personality ideas discussed:
+- Jarvis-style voice
+- EDITH-style voice
+- Friday-style voice
+- Ultron-style voice
+- Optimus Prime-style voice
+
+Android identity recorded historically:
+com.cyberpulse.starAI
+
+Version direction:
+1.1.0
+
+Star AI Android builds were repeatedly attempted around September 2026 and experienced build failures.
+
+Original idea association:
+Nkateko Maluleke.
+
+================================================================================

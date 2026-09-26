@@ -1,0 +1,15 @@
+EMBER DEEP KNOWLEDGE EXPANSION — 22 September 2026
+
+Installed on top of MASTER KNOWLEDGE build.
+
+Adds:
+- 69 focused master-section records for precise retrieval.
+- Project alias/disambiguation dictionary.
+- High-frequency DARTHWOLF/Cyber Pulse project Q&A retrieval guide.
+- Expanded long-term project routing memory.
+- Improved knowledge search normalization and title/project matching.
+- Explicit Ember vs historical AMBER project disambiguation.
+
+Existing detailed StudyLock, StudyOS, Infinity OS, AEGIS, Star AI, Evolution Learning and GuardianAI records remain installed.
+
+Privacy boundary preserved: this expansion adds no plaintext passwords, API keys, auth tokens, precise private location or private medical information.

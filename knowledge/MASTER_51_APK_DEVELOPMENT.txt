@@ -1,0 +1,38 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 51. APK DEVELOPMENT
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+51. APK DEVELOPMENT
+================================================================================
+
+A major part of DARTHWOLF's workflow is turning ideas or HTML prototypes into Android APKs.
+
+Typical requests:
+- convert HTML to Android app
+- preserve exact UI
+- make preview buttons real
+- wire Firebase
+- wire AI
+- add offline mode
+- sign APK
+- make installable
+- fix "App not installed"
+- fix package conflicts
+- build again
+
+Projects built or intended as APKs:
+- StudyLock Student
+- StudyLock Parent
+- StudyLock Teacher
+- Star AI
+- GuardianAI
+- Evolution Learning
+- Study AI
+- Infinity Prime
+- Pulsar AI Companion
+- AMBER
+- Void
+
+================================================================================

@@ -1,0 +1,26 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 23. ALPHA11 / ALPHA ELEVEN
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+23. ALPHA11 / ALPHA ELEVEN
+================================================================================
+
+Alpha11 is a reasoning/reflection/personal-development system concept.
+
+Associated person:
+Hlaisi Nhlahla
+
+IMPORTANT:
+Alpha11 was later explicitly clarified as NOT part of Cyber Pulse.
+
+Historical functions associated with Alpha11:
+- reasoning
+- reflection
+- learning
+- decision support
+
+It remains part of DARTHWOLF's broader project history, but should be listed separately from current Cyber Pulse products.
+
+================================================================================

@@ -1,0 +1,29 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 38. CYBER PULSE WEBSITE SUBSYSTEMS
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+38. CYBER PULSE WEBSITE SUBSYSTEMS
+================================================================================
+
+Website-related projects and sections mentioned historically include:
+- Main Cyber Pulse website
+- Community site
+- Team site
+- Products site
+- Tree site
+- Safety site
+- Family site
+- project portfolio
+- Infinity OS site
+- authentication portal
+- offline-learning library
+- APK download website
+- admin systems
+- dashboards
+- launch pages
+- branding pages
+- ID/profile pages
+
+================================================================================

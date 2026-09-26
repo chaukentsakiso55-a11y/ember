@@ -1,0 +1,29 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 40. ROBOTICS
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+40. ROBOTICS
+================================================================================
+
+DARTHWOLF has repeatedly shown interest in giving AI a physical body.
+
+Examples:
+- Pulsar robot
+- LEGO robot concept
+- 3-motor design
+- Infinity robotic car
+- ESP32-related concepts
+- AI-connected gadgets
+- emergency hardware
+
+The robotics direction connects software AI to:
+- motors
+- sensors
+- voice
+- remote control
+- physical movement
+- automation
+
+================================================================================

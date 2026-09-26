@@ -1,0 +1,20 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 68. KNOWN RECURRING WORKFLOWS / INFORMATION PREFERENCES
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+68. KNOWN RECURRING WORKFLOWS / INFORMATION PREFERENCES
+================================================================================
+
+Historical recurring requests and monitoring preferences have included:
+- Weekly StudyLock project summaries covering changes, blockers, next milestone, and risks.
+- Important Gmail summaries prioritizing account-security notices, deadlines, decisions, and messages needing replies.
+- Friday AI and cybersecurity briefings written at a Grade-10-friendly level.
+- GitHub/build monitoring for project failures and missing APK outputs.
+- Weekly Cyber Pulse development recaps with next actions.
+- Music-release alerts for Dax, Marshmello, and Alan Walker using official sources where possible.
+
+These are historical preference records and should not be assumed to be currently scheduled unless AMBER has an active scheduler entry confirming them.
+
+================================================================================

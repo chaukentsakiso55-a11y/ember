@@ -1,0 +1,93 @@
+{
+  "purpose": "Help Ember resolve speech-to-text variants and distinguish similarly named projects.",
+  "aliases": {
+    "StudyLock": [
+      "StudyLock",
+      "Study Lock",
+      "Studylog",
+      "Study Log",
+      "Starlock"
+    ],
+    "Cyber Pulse": [
+      "Cyber Pulse",
+      "CyberPulse",
+      "Cyberpowers",
+      "Cyber Powers"
+    ],
+    "StudyOS": [
+      "StudyOS",
+      "Study OS"
+    ],
+    "Study AI": [
+      "Study AI",
+      "StudyAI"
+    ],
+    "Star AI": [
+      "Star AI",
+      "StarAI"
+    ],
+    "GuardianAI": [
+      "GuardianAI",
+      "Guardian AI"
+    ],
+    "Evolution Learning": [
+      "Evolution Learning"
+    ],
+    "Infinity OS": [
+      "Infinity OS",
+      "Infinity"
+    ],
+    "Infinity Prime": [
+      "Infinity Prime"
+    ],
+    "AEGIS": [
+      "AEGIS",
+      "AEGIS TITAN",
+      "AEGIS v16 OMEGA",
+      "Aegis Titan Shield"
+    ],
+    "Pulsar AI": [
+      "Pulsar AI",
+      "Pulsar",
+      "Pulsa",
+      "Pulsar Core",
+      "Pulsar-1"
+    ],
+    "AMBER": [
+      "AMBER",
+      "Amber"
+    ],
+    "Void": [
+      "Void"
+    ],
+    "Alpha11": [
+      "Alpha11",
+      "Alpha Eleven"
+    ],
+    "Community Gadget": [
+      "Community Gadget"
+    ],
+    "Community Safety App": [
+      "Community Safety App"
+    ],
+    "Pulse AI": [
+      "Pulse AI"
+    ],
+    "Cyber Learn Projects": [
+      "Cyber Learn Projects",
+      "offline library"
+    ],
+    "Cyber Pulse APK Download": [
+      "Cyber Pulse APK Download",
+      "APK download website"
+    ]
+  },
+  "important_distinctions": [
+    "StudyLock is not StudyOS, Study AI, or Star AI.",
+    "StudyOS is a student-focused AI operating environment; Study AI is a tutoring-focused AI; Star AI is a general-purpose assistant.",
+    "AEGIS and Infinity OS overlap historically but are not identical.",
+    "Pulsar AI is primarily an independent AI-engine direction in the latest record.",
+    "Void and Alpha11 are separate from Cyber Pulse under the latest recorded corrections.",
+    "Desktop Infinity ownership/status changed over time; Infinity OS Android / Infinity Prime remained associated with Cyber Pulse in later records."
+  ]
+}

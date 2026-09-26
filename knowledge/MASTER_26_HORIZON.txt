@@ -1,0 +1,30 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 26. HORIZON
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+26. HORIZON
+================================================================================
+
+HORIZON-related names appeared in experimental operating-system and system-platform development.
+
+Names included:
+- HORIZON OS
+- HORIZON OS 2.0
+- HORIZON EVENT
+- HORIZON CORE
+- HORIZON AI
+- HORIZON MESH
+- HORIZON UI
+
+Directions discussed:
+- OS concepts
+- settings
+- SMS
+- AI
+- device mesh
+- interface layer
+- laptop/Android integration
+
+================================================================================

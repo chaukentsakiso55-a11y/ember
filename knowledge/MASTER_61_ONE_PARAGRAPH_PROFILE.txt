@@ -1,0 +1,12 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 61. ONE-PARAGRAPH PROFILE
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+61. ONE-PARAGRAPH PROFILE
+================================================================================
+
+Ntsakiso Chauke, known as DARTHWOLF, is a South African student developer and the founder, CEO, and lead developer of Cyber Pulse. His work focuses heavily on artificial intelligence, cybersecurity, Android software, offline AI, automation, connected devices, education technology, robotics, and futuristic interface design. He has built or planned a large ecosystem of projects including StudyLock, Evolution Learning, StudyOS, Study AI, Star AI, GuardianAI, Infinity OS, AEGIS, Community Safety systems, Pulsar AI, AMBER, Void, and many experimental engines, websites, assistants, hardware ideas, and AI-control systems. His development style is highly iterative and ambitious: projects usually evolve from simple ideas into larger platforms with AI, voice, memory, automation, offline support, mobile/desktop versions, device control, and interconnected services.
+
+================================================================================

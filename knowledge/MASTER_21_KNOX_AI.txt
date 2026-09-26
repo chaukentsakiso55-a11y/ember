@@ -1,0 +1,19 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 21. KNOX AI
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+21. KNOX AI
+================================================================================
+
+Knox AI was discussed as a possible name for a separate AI model/project outside Cyber Pulse.
+
+Purpose direction:
+Build a powerful independent AI model/engine.
+
+The idea was discussed in the context of creating a system approaching the capability of frontier AI models.
+
+Knox AI did not become as fully defined in the known project history as Pulsar AI, but it is part of DARTHWOLF's broader AI-building history.
+
+================================================================================

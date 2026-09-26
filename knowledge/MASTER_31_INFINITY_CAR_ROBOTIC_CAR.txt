@@ -1,0 +1,21 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 31. INFINITY CAR / ROBOTIC CAR
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+31. INFINITY CAR / ROBOTIC CAR
+================================================================================
+
+Cyber Pulse / Infinity-related hardware ideas included an AI robotic car.
+
+Concept direction:
+- AI-controlled vehicle/robotic platform
+- ESP32 or electronics-based control
+- connection to AI systems
+- automation
+- robotics experimentation
+
+The idea appeared in older Cyber Pulse hardware/project catalogs.
+
+================================================================================

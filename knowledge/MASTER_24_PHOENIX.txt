@@ -1,0 +1,19 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 24. PHOENIX
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+24. PHOENIX
+================================================================================
+
+Phoenix / Phoenix Learning System appears in older project history.
+
+General direction:
+Education / learning-system concept.
+
+It appeared among the projects that existed before or alongside the larger Cyber Pulse ecosystem.
+
+The available project history does not define Phoenix as deeply as StudyLock, StudyOS, or Evolution Learning.
+
+================================================================================

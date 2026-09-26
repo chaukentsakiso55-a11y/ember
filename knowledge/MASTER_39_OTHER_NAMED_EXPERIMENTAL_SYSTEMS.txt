@@ -1,0 +1,42 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 39. OTHER NAMED EXPERIMENTAL SYSTEMS
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+39. OTHER NAMED EXPERIMENTAL SYSTEMS
+================================================================================
+
+Other names appearing in the broader project history include:
+
+AIClient2API
+Direction:
+AI API routing / connection work.
+
+500 AI Agents
+Direction:
+large multi-agent experimentation.
+
+OpenHands
+Direction:
+agent/coding automation influence.
+
+NEXUS
+Direction:
+UI / development / orchestration concept.
+
+GPT-7 Lab
+Direction:
+experimental advanced-AI lab concept.
+
+The Forbidden Gates
+Direction:
+experimental/creative project name.
+
+McDonald's South Africa website concept
+Direction:
+website/prototype exercise, not a Cyber Pulse core product.
+
+These are part of the broader idea/build history and should not automatically be treated as official commercial Cyber Pulse products.
+
+================================================================================

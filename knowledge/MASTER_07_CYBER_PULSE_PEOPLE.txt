@@ -1,0 +1,99 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 7. CYBER PULSE PEOPLE
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+7. CYBER PULSE PEOPLE
+================================================================================
+
+The following names have been associated with Cyber Pulse or projects connected to it.
+
+Ntsakiso Chauke / DARTHWOLF
+Role:
+- Founder
+- CEO
+- Lead Developer
+- Main system builder
+- System architect
+
+Associated across:
+- StudyLock
+- Star AI
+- Study AI
+- StudyOS
+- Infinity-related work
+- AEGIS
+- GuardianAI
+- Evolution Learning
+- websites
+- infrastructure
+- Android development
+- project integration
+
+RHANDZU FUELA
+Latest records identify the StudyLock contributor as Rhandzu Fuela / R? Fuela, with older spelling variations appearing in historical notes.
+Most consistently recovered newer spelling:
+Rhandzu Fuela
+
+Association:
+- StudyLock
+- Research
+- Early idea contributor
+- One of the first minds behind the StudyLock idea
+
+Nziani Nhlanhla
+Also appeared earlier as Dziani Nhlanhla.
+
+Association:
+- StudyLock
+- Research partner
+- Idea collaborator
+
+Nkateko Maluleke
+Also written in surname-first form:
+Maluleke Nkateko
+
+Association:
+- Star AI
+- Study AI
+- UI ideas
+- Liquid-gloss visual assistance in some StudyLock history
+- Original Star AI idea contributor
+
+Themba Fuela
+
+Association:
+- GuardianAI
+- Safety product concept
+- Original GuardianAI idea contributor
+
+Success Mabunda
+Surname was later corrected to Mabunda.
+
+Association:
+- GuardianAI
+- Concept/research contribution
+- Associated with Themba Fuela in GuardianAI idea history
+
+Mawela Nkoriso
+Earlier records sometimes contained spelling variants.
+
+Association:
+- Community Gadget
+- Community Safety App
+- Concept lead / idea contributor
+
+Hlaisi Nhlahla
+Association:
+- Alpha11
+- Alpha11 system/concept contribution
+
+IMPORTANT ORGANIZATION NOTE:
+Alpha11 was later clarified as NOT being part of Cyber Pulse.
+It may still be connected historically to DARTHWOLF's broader project history, but it should not automatically be listed as a current Cyber Pulse product.
+
+The above people should be described as collaborators, contributors, project-associated people, or team members only where that was actually stated.
+The records do not justify inventing personal relationships beyond what was explicitly shared.
+
+================================================================================

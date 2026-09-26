@@ -1,0 +1,68 @@
+EMBER — Python desktop source build
+
+Extract the ZIP before running it.
+On Windows, install Python 3.11 or 3.12, then double-click INSTALL_EMBER.bat.
+After installation, use RUN_EMBER.bat.
+Alternatively: python -m pip install -r requirements.txt
+Then: python main.py
+
+Configure providers in Settings > AI & Models. Use the gear beside a provider to
+enter its endpoint/key; enter its model ID and Save Settings. Keys are stored in
+the OS credential vault, not this source archive. Existing private keys were not
+copied from the old projects. API subscriptions and model downloads are separate.
+For local chat, run Ollama, download a model in Manage Local Models, and choose
+its model name. A local OpenAI-compatible server can use the local endpoint entry.
+
+Start Voice records a speech turn, ending after silence or 30 seconds. Whisper
+may download its selected model on first use. TTS is opt-in in AI & Models.
+Edge TTS uses an online service. Kokoro requires installing kokoro and its model;
+use a Kokoro voice ID such as af_heart when selecting that engine.
+Camera opens a local preview. Screen Share currently captures one reviewable
+screenshot; it does not stream the desktop.
+
+NETWORK / CONNECTIVITY
+The header stays NOT CONNECTED until a provider has actually passed a connection
+test or answered. A saved key alone does not establish connectivity. The Core
+and Settings screens show live NET throughput. 0 KB/s can be legitimate idle
+traffic; it is not an Internet connectivity indicator.
+
+WHAT THIS DELIVERY IS
+A runnable, modular native Qt desktop source build. It includes the reference
+female artwork, alternative portrait and original hologram, Core visualization,
+shared voice/text conversation, provider routing/fallback, six Settings pages,
+real CPU/RAM/network telemetry, optional GPU/temperature sensors, file extraction,
+weather/RSS requests, a local model downloader, user-approved memory, explicit
+local automation actions, and a trusted-plugin runner.
+
+IMPORTANT LIMITATIONS — NOT A FULLY COMPLETED EXACT REBUILD
+Visual fidelity is not certified as exact or 99%. Typography, icons, borders,
+panel density and some layouts still differ from the supplied references.
+The female portrait has limited procedural deformation and audio-driven mouth
+motion, not a fully rigged lifelike character. The alternate portrait is static;
+the original hologram uses the original procedural avatar rig. Core artwork is
+combined with animated rings/particles rather than a full volumetric renderer.
+No Windows device, microphone, camera, GPU, real provider credentials, or local
+inference server was available for end-to-end testing in this environment.
+Voice uses turn-based capture, not a continuous full-duplex live-call protocol.
+Image vision submission and continuous screen sharing are not implemented.
+Flight Finder opens browser search; it does not fetch fares itself. Integrations
+open user-controlled sessions; they do not autonomously read/reply to messages.
+PC automation is explicit launch/open/paste functionality, not a natural-language
+agent with unrestricted PC control. Plugins are trusted native Python programs
+requiring per-run approval, not sandboxed plugins or a full UI extension system.
+Image generation accepts a configured compatible endpoint. Video generation only
+submits a generic job; provider-specific polling/render retrieval is incomplete.
+Hard resource caps, automatic updates, automatic idle-process termination,
+self-improvement, scheduled news/weather/flight alerts, persistent file-analysis
+history, context summarization and advanced task-based model routing are missing.
+Unavailable settings are disabled where represented. Not all old Ember backend
+features have been migrated; retain your original projects.
+No standalone EXE/installer has been produced. That stage waits for NEXT.
+
+VERIFICATION
+Passed here: Python compilation; Qt offscreen launch; navigation through every
+page and six Settings tabs; rendering at 1920x1080, 1600x900, 1536x864, 1366x768;
+three avatar selections; settings persistence; shared text/transcript updates;
+provider success/error handling using a stub response; clean shutdown.
+The stub was used only in the test process; no demo response is shipped in code.
+Windows installation and real online/audio/hardware behavior remain unverified.

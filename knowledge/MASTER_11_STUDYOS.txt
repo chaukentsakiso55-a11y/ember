@@ -1,0 +1,44 @@
+SOURCE-DERIVED MASTER SECTION
+Source: DARTHWOLF_AMBER_MASTER_CONTEXT_2026-09-22.txt
+Section: 11. STUDYOS
+Rule: Preserve this section as recorded; newer corrections override older conflicting records.
+
+================================================================================
+11. STUDYOS
+================================================================================
+
+StudyOS is a student-focused operating environment.
+
+Purpose:
+Create a study-centered system where AI, learning tools, offline models, productivity, and device integration are combined.
+
+StudyOS v4.0 direction:
+- offline-first
+- local models
+- llama.cpp
+- Whisper.cpp
+- Phi-class models
+- Gemma-class models
+- local speech
+- no constant cloud dependency
+
+StudyOS v5.0 direction:
+- Android
+- WearOS
+- embedded systems
+- encrypted models
+- no-cloud mode
+- watch tiles
+- remote brain over LAN
+- agent swarm
+- distributed study intelligence
+
+StudyOS is connected historically to the development path that later influenced AEGIS and Infinity OS.
+
+A project lineage mentioned in earlier work:
+Evolution Learning
+→ StudyOS
+→ AEGIS
+→ Infinity OS
+
+================================================================================

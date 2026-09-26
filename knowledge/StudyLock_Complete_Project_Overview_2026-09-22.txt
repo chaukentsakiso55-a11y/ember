@@ -1,0 +1,1753 @@
+STUDYLOCK — COMPLETE PROJECT OVERVIEW, BUILD HISTORY, FEATURES, ERRORS, AND CURRENT STATUS
+========================================================================================
+
+Document date: 22 September 2026
+Project: StudyLock
+Organization: Cyber Pulse
+Primary purpose: Study/focus control, distraction blocking, learning support, family/teacher supervision, offline learning, and protected study sessions.
+
+IMPORTANT STATUS NOTE
+---------------------
+This document reconstructs the StudyLock project from the recorded project history through 22 September 2026.
+It includes implemented features, requested features, experimental builds, known errors, fixes attempted, and items that still need real-device verification.
+Where a feature was requested or attempted but was not fully proven on a real device, it is clearly marked as such.
+
+================================================================================
+1. WHAT STUDYLOCK IS
+================================================================================
+
+StudyLock is a connected education and focus-control ecosystem designed to help a student study without distractions while giving approved parents and teachers controlled ways to support the student.
+
+The project grew from a single student focus app into a multi-app system made of:
+
+1. StudyLock Student
+2. StudyLock Parent
+3. StudyLock Teacher
+4. StudyLock Parent HTML Dashboard
+5. Earlier desktop/Windows StudyLock experiments
+6. Shared Firebase / connected-system infrastructure
+7. Offline learning libraries and imported knowledge packs
+
+The main goals of StudyLock are:
+
+- Keep the student focused during study sessions.
+- Block selected distracting apps.
+- Prevent a student from casually disabling protection during an active session.
+- Provide an AI Tutor.
+- Work as much as possible without internet.
+- Allow the Parent app to pair with the Student app.
+- Allow the Parent app to remotely start or manage study controls.
+- Allow the Teacher app to share school content with students.
+- Track study time, focus state, AI usage, blocked apps, schedules, goals, and other learning information.
+- Provide quizzes, notes, planning, progress tracking, rewards, learning resources, and study tools.
+- Use a recognizable StudyLock liquid/glass-style interface.
+- Keep Student, Parent, and Teacher as separate applications while allowing them to communicate.
+
+================================================================================
+2. MAIN STUDYLOCK APPLICATIONS
+================================================================================
+
+STUDYLOCK STUDENT
+-----------------
+
+Package:
+com.studylock.student
+
+The Student app is the main StudyLock application installed on the learner's device.
+
+Its responsibilities include:
+
+- Study/focus sessions.
+- App blocking.
+- Focus timers.
+- Auto Study.
+- Study schedules.
+- AI Tutor.
+- Offline Tutor fallback.
+- Quiz system.
+- Offline quizzes.
+- Notes.
+- Planner.
+- Progress tracking.
+- Learning resources.
+- Rewards / XP concepts.
+- Library import.
+- Local learning databases.
+- Study statistics.
+- Parent pairing.
+- Teacher joining.
+- Parent commands.
+- Teacher content delivery.
+- PIN-protected settings.
+- Device Admin / protection features.
+- Accessibility-based app blocking.
+- Student status reporting.
+- Focus heartbeat / connection status.
+
+The Student app has generally been treated as the visual and functional reference app for the Parent and Teacher versions.
+
+STUDYLOCK PARENT
+----------------
+
+Package:
+com.studylock.parent
+
+The Parent app is intended to pair with one or more Student installations and provide parental control over StudyLock functions.
+
+Main Parent functions include:
+
+- Generate a pairing code.
+- Show a pairing code.
+- QR-based pairing.
+- Link to a Student app.
+- View the student's focus state.
+- View study metrics.
+- View study time.
+- View blocked apps.
+- View AI usage statistics.
+- Start a study/focus session remotely.
+- End a session when authorized.
+- Configure or send schedules.
+- Control Auto Study.
+- Set or refresh protection-related controls.
+- Receive approval requests.
+- Manage goals and assignments in later connected-system designs.
+- Monitor connection / heartbeat state.
+
+The Parent app has gone through several different implementations because its pairing behavior was one of the largest problem areas in the project.
+
+STUDYLOCK TEACHER
+-----------------
+
+Package:
+com.studylock.teacher
+
+The Teacher app is intended for academic communication rather than parental device-security control.
+
+Teacher functionality has included or been requested to include:
+
+- Create or join a class structure.
+- Generate or use class/join codes.
+- Connect students to a teacher.
+- Send notes.
+- Send announcements.
+- Send assignments.
+- Send learning resources.
+- Send questions.
+- Share commitments / tasks.
+- Broadcast content to all students.
+- Group communication concepts.
+- Share whiteboard snapshots in later connected builds.
+- Maintain teacher/student heartbeat or presence.
+
+Important design rule:
+The Teacher app should not have the same security authority as the Parent app. Teacher functions are focused on learning, classes, assignments, resources, and communication.
+
+PARENT HTML DASHBOARD
+---------------------
+
+The Parent HTML dashboard became an important diagnostic reference because, at different points, it connected successfully to the Student app while the Parent APK did not.
+
+Known Parent HTML filenames have included versions such as:
+
+- studylock-parent-dashboard-1-2.html
+- studylock-parent-dashboard-1-2(2).html
+- studylock-parent-dashboard-1-2(3).html
+- studylock-parent-dashboard-1-3.html
+
+A major investigation in September 2026 focused on understanding why this HTML dashboard could connect while the Android Parent APK failed.
+
+At least one recorded HTML implementation used a different communication approach, including ntfy.sh/localStorage behavior, while the Android Parent app was expected to use Firebase/Firestore. This difference is important because two interfaces that look similar can still use completely different networking and pairing logic.
+
+================================================================================
+3. STUDYLOCK VISUAL DESIGN
+================================================================================
+
+StudyLock's visual identity has changed across versions, but several strong design directions became consistent.
+
+STUDENT DESIGN
+--------------
+
+The Student app became the main design reference.
+
+Important style elements:
+
+- Liquid-glass / liquid-style controls.
+- Orange or yellow/orange StudyLock accent.
+- Rounded cards.
+- Modern mobile dashboard.
+- Smooth visual hierarchy.
+- Focus-centered interface.
+- Darker or glass-like sections in later builds.
+- Existing Student design should be preserved when repairing connectivity.
+
+PARENT AND TEACHER DESIGN
+-------------------------
+
+The Parent and Teacher applications were later required to move away from plain or white backgrounds.
+
+The requested direction became:
+
+- Use the Student app as the UI/UX reference.
+- Use the same yellowish / liquid yellow or orange visual identity.
+- Avoid white background-heavy screens.
+- Prefer dark backgrounds.
+- Blue/cyan or purple supporting tones were also requested in some repair iterations.
+- Use liquid-orange / liquid-yellow controls.
+- Preserve pairing, QR, Firebase, and control functionality while changing the appearance.
+
+The goal is for all three applications to feel like one StudyLock family rather than unrelated apps.
+
+================================================================================
+4. EARLY STUDYLOCK / HTML-TO-ANDROID PHASE
+================================================================================
+
+An important early StudyLock goal was to reproduce an existing StudyLock HTML interface as a real Android application.
+
+The HTML reference included major screens such as:
+
+- Focus
+- Planner
+- Tutor
+- Quiz
+- Notes
+- Progress
+- Learn
+- Rewards
+- Authentication / onboarding
+- Settings
+- History
+- Background music
+- App blocking controls
+
+An Android rebuild was created around the idea of preserving the HTML look while adding native Android capabilities.
+
+Native additions included or were planned to include:
+
+- Accessibility-based app blocking.
+- Android notifications.
+- Speech input.
+- Text-to-speech.
+- Camera/file access.
+- Persistent app state.
+- Settings PIN.
+- Block list.
+- XP / reward state.
+- Focus session enforcement.
+
+One early build was referred to as:
+StudyLock-Individual-Rebuilt.apk
+
+The native app blocker required Android Accessibility permission to be enabled.
+
+A limitation noted in early builds was that blocking websites inside a web browser was different from blocking Android apps and remained a separate problem.
+
+================================================================================
+5. FAMILY EDITION PHASE
+================================================================================
+
+StudyLock later expanded into a Student/Parent connected system.
+
+At one point, the project structure used modules similar to:
+
+- :student
+- :parent
+- :shared
+
+A backend/project name used in the StudyLock family work was:
+studylock-family
+
+The system was designed so the Student and Parent applications used the same backend/Firebase project.
+
+Parent/Student functions included:
+
+- 6-digit pairing.
+- QR pairing.
+- Live focus status.
+- Study statistics.
+- Remote Auto Study control.
+- Remote Start Study.
+- Authorized End Study.
+- Scheduled study.
+- Duration options including 25, 45, 60, and 90 minutes in one control-center version.
+- Blocked-app visibility.
+- Student metrics.
+- Daily start behavior.
+
+One implementation used a FastAPI server in a desktop-family experiment.
+
+The Android family system later focused much more heavily on Firebase/Firestore.
+
+================================================================================
+6. ANDROID BUILD TECHNOLOGY
+================================================================================
+
+StudyLock Android development has primarily used:
+
+- Kotlin
+- Android Studio
+- Jetpack Compose in native versions
+- Gradle
+- Firebase
+- Firestore
+- Firebase Authentication in some versions
+- Google Services configuration
+- Android Accessibility Service
+- Device Admin APIs
+- WebView/native bridge concepts in HTML-based builds
+- Local databases / packaged learning assets
+- Offline import logic
+
+Recorded Android configuration for one major Student build:
+
+- compileSdk: 35
+- minSdk: 26
+
+An earlier package identity also existed in some experimental work:
+com.studylock.app
+
+The later final connected identities became:
+
+Student:
+com.studylock.student
+
+Parent:
+com.studylock.parent
+
+Teacher:
+com.studylock.teacher
+
+================================================================================
+7. STUDENT APP BUILD IDENTITIES AND VERSIONS
+================================================================================
+
+A number of versions were produced or discussed during development.
+
+Examples include:
+
+StudyLock Student 1.0.8
+- Work around weekly blocklist performance.
+- CI build failures were reported.
+
+StudyLock Student 1.0.10
+- First-run protection setup work.
+- CI failures were reported.
+
+StudyLock Student 1.0.12
+- Authenticated AI Tutor / offline dictionary work.
+- CI failures were reported.
+
+StudyLock Student 1.0.15-firebase-parent-controls
+Recorded identity:
+Package: com.studylock.student
+
+Recorded SHA-256:
+E6:D1:9E:B1:6A:9E:66:20:DF:B3:6C:16:00:63:35:E2:17:58:ED:E6:CE:94:63:C0:D1:EB:7C:E7:BD:09:7E:A7
+
+Recorded SHA-1:
+37:05:AF:6C:79:0D:95:BE:4D:44:07:6E:20:6A:F4:6D:59:9E:F1:8E
+
+StudyLock Student 1.0.16-reference-websites
+Added references to:
+- https://cyber-pulse-info.netlify.app
+- https://cyber-learn-projects.netlify.app
+
+The offline-learning website was intended as a source used by apps rather than a website that redirects users back into the apps.
+
+StudyLock Student 1.0.17-app-picker-library-pack-fix
+Important work included:
+- Installed-app picker persistence fix.
+- Library importer.
+- Support for several document/data formats.
+
+Recorded importer formats:
+- ZIP
+- SQLite
+- JSON
+- JSONL
+- TXT
+- Markdown
+- CSV
+- HTML
+
+A recorded SHA-256 for one 1.0.17 APK:
+635e9579d659768b6ee660cf8448df87dfe7ebf0798f0cdd067e7c0ee5ce2d2e
+
+StudyLock Student 1.1.2
+Example APK:
+StudyLock-1.1.2-offline-security.apk
+
+Recorded features in this phase included:
+- Offline security work.
+- 420 Grade 1–12 Term 3 topics.
+- 1,011 offline quiz questions.
+- Approximately 30 MB dictionary.
+- Offline Tutor fallback.
+- Offline Quiz fallback.
+- Liquid-glass UI.
+- Auto Study.
+- Session hardening.
+- 6-digit PIN.
+- Settings Lock.
+- Device Admin.
+- PIN-gated admin deactivation/uninstall-release concept.
+- Pairing.
+- Metrics.
+- Remote focus.
+
+A signing-certificate change meant a fresh install could be required rather than installing over an older APK.
+
+StudyLock Student 1.2.0-INSTALL-FIX
+Later installation-focused repair.
+
+StudyLock Student 1.2.0-INSTALL-FIX-v2
+Another installation/signing/resource alignment repair.
+
+StudyLock Student 1.2.1-BUTTON-FIX
+A later build addressing button/input problems.
+
+A fix in this period involved overlay/touch handling so UI controls could actually receive taps correctly.
+
+================================================================================
+8. UNIFIED / CONNECTED STUDYLOCK SYSTEM
+================================================================================
+
+StudyLock later moved toward a unified connected family made of separate APKs.
+
+Important unified artifacts included names such as:
+
+- StudyLock-Unified-1.2.0-Student-Parent-Teacher-Source.zip
+- StudyLock-Teacher-Module-1.0.0.zip
+- StudyLock-Expansion-Phase1-Family-Bundle-INSTALL-FIX.zip
+- StudyLock-Connected-System(1).zip
+- StudyLock-Connected-System(2).zip
+- StudyLock-Connected-System(3).zip
+- StudyLock-Connected-FIXED-System.zip
+- StudyLock-Connected-System-Fixed-TEST.zip
+- StudyLock-Fixed-Set-2026-09-22(1).zip
+
+One connected-system package was also recorded as containing three separate APKs that should remain separate entries:
+
+- StudyLock-Student-Connected-Unchanged.apk
+- StudyLock-Parent-Fixed.apk
+- StudyLock-Teacher-Fixed.apk
+
+The final architecture is not supposed to merge Student, Parent, and Teacher into a single APK. They are separate apps that communicate.
+
+================================================================================
+9. STUDENT ↔ PARENT COMMUNICATION DESIGN
+================================================================================
+
+A major connected-system design used a Firebase/Firestore channel structure.
+
+A recorded Parent/Student collection/channel name was:
+studylock_parent_channels
+
+Connected features included:
+
+- Pairing acknowledgement.
+- Pairing code.
+- Pairing status.
+- Heartbeat.
+- Student state.
+- Focus state.
+- Start Focus command.
+- Authorized End Focus command.
+- Auto Study sync.
+- Schedules.
+- Apps / blocklist information.
+- Goals.
+- Assignments.
+- Quizzes.
+- Modes.
+- Settings lock.
+- Protection refresh.
+- Approval requests.
+- Metrics.
+
+The Student app could periodically write state/metrics so the Parent dashboard could display them.
+
+A metrics interval of about 10 seconds was used in at least one implementation.
+
+Firebase Anonymous Authentication and Firestore security rules became important because the apps may fail to communicate even when the UI code is correct if the backend rejects reads/writes.
+
+================================================================================
+10. STUDENT ↔ TEACHER COMMUNICATION DESIGN
+================================================================================
+
+A later connected Teacher implementation used structures such as:
+studylock_teacher_classes
+
+Recorded Teacher/Student connected behavior included:
+
+- Join codes.
+- Class joining.
+- Heartbeat, including a recorded 25-second heartbeat in one version.
+- Pings.
+- Teacher posts.
+- Assignments.
+- Resources.
+- Questions.
+- Whiteboard snapshots.
+
+Teacher authority is intended to be different from Parent authority.
+
+Teacher:
+- Supports learning and classroom functions.
+
+Parent:
+- Controls protection, schedules, focus sessions, and parental permissions.
+
+================================================================================
+11. PAIRING SYSTEM
+================================================================================
+
+StudyLock pairing has used several approaches over its development.
+
+PAIRING METHODS
+---------------
+
+- 6-digit pairing codes.
+- QR codes.
+- Deep-link style pairing concepts such as:
+  studylock://pair
+- Firebase/Firestore pairing channels.
+- LAN/same-Wi-Fi experiments.
+- Parent HTML communication approaches.
+
+PARENT CODE GENERATION
+----------------------
+
+A repeated issue was that the Parent "Generate new key" or pairing-code button did not work correctly in some APK builds.
+
+Repairs attempted to make the Parent app:
+
+- Generate codes locally and immediately.
+- Display codes without waiting for Firebase.
+- Generate a QR from the code.
+- Publish the pairing channel to Firebase.
+- Show connection state.
+- Fall back to Firebase REST communication in some repaired builds.
+
+SAME-WIFI / LAN
+---------------
+
+Same-Wi-Fi communication was explored as an option.
+
+Some native v5 designs included LAN pairing/sync concepts.
+
+However, Firebase and LAN are different systems:
+- Firebase can synchronize across different networks if internet and backend configuration work.
+- LAN can work between devices on the same local network if the apps implement direct local networking correctly.
+
+Having both phones on the same Wi-Fi does not automatically make two StudyLock APKs connect unless the APKs actually contain the same LAN protocol, ports, discovery method, permissions, and message format.
+
+================================================================================
+12. WHY THE PARENT HTML COULD CONNECT WHEN THE PARENT APK COULD NOT
+================================================================================
+
+This became one of the key StudyLock debugging questions.
+
+The Parent HTML and Parent APK sometimes looked like they were supposed to perform the same job, but they did not necessarily use the same backend or protocol.
+
+At least one recorded HTML Parent dashboard used:
+- ntfy.sh
+- localStorage
+
+while Android versions were designed around:
+- Firebase
+- Firestore
+- Firebase Authentication
+- REST fallback in some repairs
+
+Therefore, the HTML successfully connecting did not prove the Parent APK's Firebase communication was configured correctly.
+
+Potential causes investigated across different builds included:
+
+- Parent and Student using different Firebase projects.
+- Different collection names.
+- Different pairing-code formats.
+- Firestore rules blocking the Parent app.
+- Anonymous Authentication not enabled.
+- Parent app not publishing its pairing channel.
+- Student app expecting a different document structure.
+- Missing google-services configuration.
+- Incorrect package name in Firebase.
+- Stale or incorrect Firebase project configuration.
+- REST requests using the wrong project/collection.
+- UI generating a code but not writing it remotely.
+- Parent app expecting the Student to respond through a different transport.
+- Student waiting for a dashboard heartbeat that the Parent APK never sends.
+- HTML using an entirely different transport than the Android app.
+
+A later goal was to copy the actual working connection logic from the Parent HTML where possible while retaining the Parent app's native structure and design.
+
+================================================================================
+13. FIREBASE
+================================================================================
+
+Firebase has been central to later StudyLock connected versions.
+
+A major Firebase project name:
+studylock-family
+
+Firebase roles have included:
+
+- Student/Parent pairing.
+- Focus status.
+- Metrics.
+- Remote commands.
+- Schedules.
+- Auto Study.
+- Connected state.
+- Teacher classes.
+- Teacher posts/resources.
+- Authentication.
+- Firestore data.
+
+IMPORTANT FIREBASE REQUIREMENTS
+-------------------------------
+
+For Student ↔ Parent / Teacher syncing to work, the following must align:
+
+- Same intended Firebase project.
+- Correct google-services.json per package/app registration.
+- Correct Android package registered in Firebase.
+- Correct Firestore collection/document paths.
+- Correct security rules.
+- Authentication method enabled when required.
+- Network access permission.
+- Working Firebase SDK or REST endpoint.
+- Matching pairing-code/channel format.
+- Correct command/event schema.
+
+SECURITY INCIDENTS / SECRET EXPOSURE
+------------------------------------
+
+During early GitHub work, secret scanning reported exposed Google API/Firebase-related keys in project files, including:
+
+- app/build.gradle.kts in one commit.
+- parent/google-services.json in one commit.
+
+Any exposed private/API credentials should be rotated or restricted rather than treated as secret merely because they are embedded in an APK or repository.
+
+================================================================================
+14. FOCUS MODE
+================================================================================
+
+Focus Mode is one of StudyLock's core features.
+
+Main behavior:
+
+- Student starts a study session.
+- Timer runs for the selected duration.
+- Distracting apps are blocked.
+- StudyLock remains accessible.
+- Parent may remotely start a session in connected versions.
+- Session state is written to metrics/status.
+- Student is discouraged from ending the session early.
+- Auto Study can start sessions based on configured behavior.
+
+Duration rules changed across versions.
+
+One major requirement defined:
+- Minimum: 25 minutes.
+- Maximum: 5 hours.
+
+Some Parent Control Center builds also offered quick presets such as:
+- 25 minutes
+- 45 minutes
+- 60 minutes
+- 90 minutes
+
+NO-PAUSE / HARDENED SESSION
+---------------------------
+
+Later builds emphasized:
+- No pause.
+- Reduced ability to end early.
+- Quiz gate or authorization concepts.
+- Parent-authorized end.
+- Protection refresh.
+
+Android security limits mean an ordinary app cannot guarantee that an owner can never disable or uninstall it unless the device is managed under stronger Device Owner / enterprise-style conditions.
+
+================================================================================
+15. APP BLOCKING
+================================================================================
+
+StudyLock uses Android Accessibility capabilities to detect foreground apps and redirect/block selected distractions.
+
+Known examples of default-blocked apps in one build:
+- Chrome
+- YouTube
+
+Later versions added:
+- Installed-app picker.
+- Blocklist persistence.
+- Weekly blocklist performance work.
+- Parent visibility of blocked apps.
+
+The Accessibility Service is important because Android does not normally allow a regular app to simply close any other app at will.
+
+The blocking flow can:
+- Detect an unwanted foreground package.
+- Redirect the user.
+- Show the StudyLock focus interface.
+- Maintain block state during a focus session.
+
+LIMITATIONS
+-----------
+
+- Accessibility permission must be granted by the user.
+- Some manufacturers aggressively stop background services.
+- Browser website blocking is harder than package/app blocking.
+- Android security updates can change behavior.
+- A regular Device Admin app cannot completely prevent the device owner from eventually removing it.
+
+================================================================================
+16. DEVICE ADMIN, PIN, AND UNINSTALL PROTECTION
+================================================================================
+
+One of the most important StudyLock security requirements is that the student should not be able to disable protection without authorization.
+
+PIN
+---
+
+A 6-digit PIN has been used for:
+- First launch.
+- Settings protection.
+- Admin deactivation approval.
+- Uninstall-release concept.
+- Parent/security controls.
+
+The desired behavior:
+
+1. First launch asks for or creates the 6-digit PIN.
+2. StudyLock is granted the required admin/accessibility permissions.
+3. The user cannot simply enter settings and disable the protection without the PIN.
+4. Uninstall should require an authorized release process.
+
+REPORTED PROBLEM
+----------------
+
+The user repeatedly reported that StudyLock could still be uninstalled because Android allowed Device Admin to be deactivated without StudyLock successfully forcing a PIN first.
+
+This is a platform-level issue as well as an implementation issue.
+
+Classic Device Admin does not give a normal third-party Android application absolute control over Settings or the package installer.
+
+TRUE STRONGER LOCKDOWN
+----------------------
+
+For significantly stronger uninstall prevention, Android Device Owner / managed-device deployment is generally required.
+
+Some StudyLock native v5 work referred to:
+- Device Owner
+- Lock Task
+
+But a consumer-installed APK cannot silently make itself Device Owner on an already configured phone.
+
+Therefore, "PIN before uninstall" can be approximated in a normal app, but cannot be guaranteed against the actual device owner unless the device is enrolled/managed in a supported Android management mode.
+
+================================================================================
+17. AUTO STUDY
+================================================================================
+
+Auto Study is designed to automatically activate StudyLock based on a schedule or daily configuration.
+
+Functions have included:
+
+- Daily automatic start.
+- Parent remote control of Auto Study.
+- Scheduled focus.
+- Start at a configured time.
+- Send schedule to Student.
+- Sync Auto Study state.
+- Maintain the same state after reopening the application.
+
+A desktop StudyLock experiment also used:
+- Start on first launch.
+- Start at Windows sign-in.
+
+================================================================================
+18. AI TUTOR
+================================================================================
+
+AI Tutor is another central StudyLock feature.
+
+The Tutor has gone through several approaches:
+
+ONLINE AI
+---------
+
+Earlier versions used or experimented with:
+- Gemini
+- Google Generative AI / Google AI libraries
+- API-driven chat
+- Authenticated AI calls
+
+OFFLINE AI / FALLBACK
+---------------------
+
+The project later emphasized offline behavior.
+
+Offline Tutor sources have included:
+- Packaged curriculum topics.
+- Offline quiz database.
+- Dictionary.
+- Imported document text.
+- Local library packs.
+- Reference database.
+- Search over local documents.
+
+One version included:
+- Approximately 420 curriculum topics.
+- Approximately 1,011 quiz questions.
+- Around 30 MB of dictionary data.
+
+A later repair added about 60 offline Grade 10 entries to one damaged/reference database.
+
+REPORTED AI TUTOR PROBLEMS
+--------------------------
+
+Reported problems included:
+- Tutor not answering general questions.
+- API not wired correctly in some builds.
+- Offline Tutor not finding imported material.
+- Missing or malformed local reference database.
+- Tutor quality too limited when internet is absent.
+- Need for better offline questions and quizzes.
+
+================================================================================
+19. OFFLINE LEARNING
+================================================================================
+
+StudyLock has an important offline-first requirement.
+
+The user requested that important StudyLock learning functions continue working without internet.
+
+Offline capability has included or been developed around:
+
+- Local curriculum content.
+- Local dictionary.
+- Offline quizzes.
+- Offline Tutor fallback.
+- Imported learning documents.
+- Library packs.
+- Past paper support concepts.
+- Local databases.
+- Cached content.
+- Queue/resend for actions that cannot sync immediately.
+
+SUPPORTED IMPORT FORMATS
+------------------------
+
+Across later library/import builds, supported or attempted formats included:
+
+- ZIP
+- SQLite
+- JSON
+- JSONL
+- TXT
+- Markdown
+- CSV
+- HTML
+- PDF, with best-effort text extraction in later repair versions
+
+PDF LIMITATION
+--------------
+
+Text-based PDFs are easier to import.
+
+Image-only/scanned PDFs require OCR, which is different from normal PDF text extraction and was not guaranteed in the connected builds.
+
+================================================================================
+20. OFFLINE LIBRARY WEBSITE CONNECTION
+================================================================================
+
+StudyLock was connected conceptually to the Cyber Pulse offline-learning library website.
+
+Website:
+cyber-learn-projects.netlify.app
+
+The intended direction is one-way:
+- StudyLock uses/fetches library resources from the website.
+- The website does not need to link users back into StudyLock.
+
+The website/library ecosystem was intended to provide:
+
+- Grade 8–12 curriculum libraries in the later site scope.
+- Past papers from 2020 onward.
+- Memos where publicly available.
+- Subject/grade/year/term filtering.
+- General knowledge packs.
+- Focus music.
+
+StudyLock itself also supports imported local libraries so it does not depend completely on the website.
+
+================================================================================
+21. QUIZ SYSTEM
+================================================================================
+
+StudyLock's Quiz functionality has included:
+
+- Quiz screen.
+- Offline quiz bank.
+- Curriculum questions.
+- Progress-linked quiz activity.
+- Possible quiz-gate behavior before leaving/ending a study session.
+- Imported quiz content in later library builds.
+
+Known issues included:
+- Missing offline quizzes in certain versions.
+- Quiz content not appearing.
+- Imported packs not loading correctly.
+- Need to expand the offline question database.
+
+================================================================================
+22. PLANNER
+================================================================================
+
+Planner is part of the original StudyLock interface.
+
+Its purpose is to help students:
+- Plan study tasks.
+- Schedule sessions.
+- Track upcoming learning work.
+- Combine planned study with Auto Study.
+
+Later Parent/connected versions expanded scheduling so a Parent could send or control schedules remotely.
+
+================================================================================
+23. NOTES
+================================================================================
+
+StudyLock includes a Notes area for students.
+
+The Teacher ecosystem later added a separate concept:
+- Teacher sends notes/resources to students.
+
+The Student's private study notes and Teacher-delivered notes/resources should remain logically distinguishable.
+
+================================================================================
+24. PROGRESS AND METRICS
+================================================================================
+
+StudyLock tracks learning and focus activity.
+
+Metrics have included:
+
+- Study time.
+- Focus state.
+- AI usage.
+- Remote session state.
+- Blocked apps.
+- Session duration.
+- Connection state.
+- Parent controls.
+- Heartbeat.
+- Potential goals / assignment state in later builds.
+
+One build wrote metrics roughly every 10 seconds.
+
+The Parent app/dashboard uses these metrics to display Student status.
+
+================================================================================
+25. REWARDS / XP
+================================================================================
+
+The original StudyLock HTML included Rewards.
+
+Native rebuilds preserved or attempted to preserve:
+- Reward state.
+- XP concepts.
+- Progress-based motivation.
+
+This feature is less central than focus security and syncing but is part of the original StudyLock experience.
+
+================================================================================
+26. BACKGROUND MUSIC
+================================================================================
+
+The StudyLock HTML included focus/background music.
+
+An early interface included:
+- Multiple built-in tracks.
+- A custom music option.
+
+Background music is intended to support concentration while Focus Mode is active.
+
+================================================================================
+27. SPEECH / VOICE
+================================================================================
+
+StudyLock experiments included:
+- Speech-to-text.
+- Text-to-speech.
+- Voice Tutor behavior.
+
+Voice functions depend on Android speech/TTS support and, for cloud speech services, may require internet unless an offline engine is available.
+
+================================================================================
+28. STUDYLOCK DESKTOP EXPERIMENT
+================================================================================
+
+StudyLock was also explored as a Windows/Python desktop application.
+
+A known package:
+StudyLock-Python-Gemini-Desktop.zip
+
+Desktop technology included:
+- Python
+- google-genai
+- Settings/API-key configuration
+- Asynchronous chat/history
+- live_tutor_test.py
+
+A Family Edition desktop experiment used:
+- Separate Student/Parent tools
+- FastAPI
+- Pairing code
+- Study time
+- AI usage
+- Blocked apps
+- Automatic/remote study
+- Parent commands
+
+Windows builds also experienced CI/build failures.
+
+The Android version later became the main StudyLock direction.
+
+================================================================================
+29. HOME WIDGET / WEAR OS EXPERIMENTS
+================================================================================
+
+A StudyLock home-screen widget and Wear OS companion were attempted around September 2026.
+
+GitHub builds for the widget/Wear OS work failed in several runs.
+
+An optional Wear module existed in some project discussions.
+
+This should be treated as experimental rather than a core proven StudyLock feature.
+
+================================================================================
+30. BUILD / CI ERROR HISTORY
+================================================================================
+
+StudyLock experienced many GitHub Actions failures during rapid development.
+
+This section summarizes recorded failure periods.
+
+SEPTEMBER 1, 2026
+-----------------
+- StudyLock-family Android family build failure.
+- Desktop/Windows StudyLock builds also had failures in the early September period.
+
+SEPTEMBER 2, 2026
+-----------------
+- StudyLock-standalone Android workflow failed during the HTML/native blocker rebuild work.
+
+SEPTEMBER 3, 2026
+-----------------
+Multiple StudyLock standalone and family Android builds failed.
+
+Recorded problem areas included:
+- Exact Android build.
+- Firebase AI Tutor branches.
+- Family build.
+- Parent dashboard build.
+- Secret-scanning finding an exposed Google API key.
+- Firebase configuration problems.
+
+SEPTEMBER 4, 2026
+-----------------
+Failures reported for:
+- 1.0.8 blocklist performance work.
+- 1.0.10 first-run protection setup.
+- 1.0.12 authenticated AI/offline dictionary work.
+
+SEPTEMBER 5, 2026
+-----------------
+Multiple exact Android builds failed.
+
+Failures appeared after work including:
+- AI fallback.
+- New icon.
+- Visible offline libraries.
+- Tutor-answer changes.
+- APK packaging with a pre-signed/private AI asset.
+- Parent dashboard changes.
+
+SEPTEMBER 6, 2026
+-----------------
+A 1.0.17 app-picker/library-pack build also had a reported CI failure.
+
+SEPTEMBER 10, 2026
+------------------
+Widget/Wear OS build attempts failed multiple times.
+
+SEPTEMBER 14, 2026
+------------------
+Unified StudyLock APK CI builds failed repeatedly, including some very short 5–8 second failures.
+
+IMPORTANT
+---------
+
+A GitHub build failure does not always mean the source concept is wrong.
+
+Common Android CI failure categories can include:
+- Gradle syntax.
+- Dependency version mismatch.
+- Missing Android SDK component.
+- Wrong Java version.
+- Missing signing config.
+- Missing resource.
+- Duplicate resource.
+- Manifest conflict.
+- Invalid asset.
+- Wrong package/application ID.
+- Firebase plugin/configuration mismatch.
+- Secrets missing from CI.
+- Incorrect module path.
+- Corrupt build artifact.
+
+Each failed run needs its actual Gradle error log to identify the exact cause.
+
+================================================================================
+31. APK INSTALLATION ERRORS
+================================================================================
+
+"APP NOT INSTALLED"
+-------------------
+
+The Parent app repeatedly produced:
+App not installed
+
+Possible causes encountered or relevant to StudyLock builds include:
+
+- APK signed with a different certificate than an installed version.
+- Same package name but incompatible signature.
+- Broken or malformed APK.
+- Invalid package.
+- Resource alignment or packaging failure.
+- Version downgrade.
+- Corrupt rebuilt APK.
+- Split APK missing required parts.
+- Manifest/package mismatch.
+- Unsupported minSdk/device combination.
+- Repacked APK without correct signing.
+
+A StudyLock Student install-fix line was created to address signing/resource problems.
+
+The Parent app again showed installation problems on 22 September 2026.
+
+INVALID PACKAGE
+---------------
+
+An earlier StudyLock build was reported as:
+"invalid package"
+
+This usually indicates that Android could not parse or verify the APK as a valid installable package.
+
+Important:
+Passing a ZIP-level integrity check is not enough. An APK must also have:
+- Valid AndroidManifest.xml
+- Valid resources
+- Correct ZIP/APK structure
+- Valid signing scheme
+- Correct alignment/packaging
+- Compatible SDK settings
+
+================================================================================
+32. BUTTON / TOUCH ERRORS
+================================================================================
+
+At least one Student build required a BUTTON-FIX.
+
+A known class of issue involved:
+- UI overlays intercepting touches.
+- Buttons appearing correctly but not receiving taps.
+- WebView/Compose/native-layer interaction.
+
+A repair changed overlay/touch behavior so controls could receive input.
+
+The Parent "Generate new key" button also failed in some builds, though that problem was related not only to touch handling but also to pairing/code-generation logic.
+
+================================================================================
+33. DATABASE / OFFLINE ASSET ERRORS
+================================================================================
+
+One repair investigation found a malformed:
+studylock_reference_starter.db
+
+Repairs included:
+- Fixing/replacing the malformed reference database.
+- Adding approximately 60 offline Grade 10 entries.
+- Improving offline cache/queue/resend logic.
+
+A damaged local database can cause:
+- Tutor search failures.
+- Empty offline content.
+- Crashes when opening a library.
+- Missing quiz results.
+- Import failures.
+
+================================================================================
+34. SYNC FAILURES
+================================================================================
+
+This has been the largest recurring StudyLock error category.
+
+Symptoms reported include:
+
+- Student does not connect to Parent.
+- Parent does not connect to Student.
+- Parent HTML connects but Parent APK does not.
+- Teacher does not sync with Student.
+- Parent says it is connecting but eventually reports that the dashboard did not respond.
+- Student is open and displaying a passkey, but Parent still reports no response.
+- Pairing code exists but no live connection is established.
+- "Generate new key" does not work.
+- Connected state disappears.
+- Firebase round-trip has not been verified on real devices.
+- Same-Wi-Fi does not automatically fix the problem.
+
+Likely root causes vary by build:
+
+- Protocol mismatch.
+- Firebase project mismatch.
+- Firestore security rules.
+- Anonymous Auth disabled.
+- Collection path mismatch.
+- Parent and Student using different code schemas.
+- Missing heartbeat.
+- REST vs SDK mismatch.
+- HTML using a different communication service.
+- Incorrect google-services.json.
+- Parent app signed/rebuilt from a different source version.
+- Teacher rules not deployed.
+- Local-only UI code without the required backend write.
+- Student waiting for acknowledgement that Parent never sends.
+
+================================================================================
+35. FIRESTORE RULES
+================================================================================
+
+Firestore rules are essential.
+
+Even if:
+- both apps install,
+- both generate codes,
+- both have internet,
+- both use the same Firebase project,
+
+they still will not sync if Firestore security rules reject the operation.
+
+At the latest recorded connected-system status:
+- Teacher Firestore rules still needed deployment in at least one build status.
+- Firebase Anonymous Auth / rule configuration remained an important deployment requirement.
+
+Real-device testing must confirm:
+- Parent write.
+- Student read.
+- Student acknowledgement.
+- Parent read.
+- Heartbeat.
+- Remote command.
+- Metrics update.
+- Teacher join.
+- Teacher post.
+- Student receive.
+
+================================================================================
+36. FIREBASE REST FALLBACK
+================================================================================
+
+Some repaired Parent/Teacher APKs added a built-in Firebase REST fallback.
+
+Purpose:
+- Reduce dependence on a specific native Firebase SDK path.
+- Allow simpler Firestore REST communication when configured correctly.
+- Improve compatibility in rebuilt APKs.
+
+However, REST fallback still requires:
+- Correct project ID.
+- Correct database path.
+- Valid authentication or permissive rules.
+- Correct document schema.
+- Network access.
+- Correct collection names.
+
+It does not automatically bypass Firebase security.
+
+================================================================================
+37. OFFLINE SYNC
+================================================================================
+
+"Completely offline" has two meanings in StudyLock.
+
+LOCAL FEATURES OFFLINE
+----------------------
+
+These can work without internet:
+- Focus timer.
+- App blocking.
+- Local PIN.
+- Local notes.
+- Local quizzes.
+- Local Tutor search.
+- Imported libraries.
+- Local progress.
+- Local schedule execution.
+
+CROSS-DEVICE SYNC OFFLINE
+-------------------------
+
+Parent ↔ Student or Teacher ↔ Student cannot synchronize across two phones with no internet unless a local transport is implemented, such as:
+- LAN/Wi-Fi direct networking.
+- Bluetooth.
+- Local hotspot connection.
+- Another peer-to-peer transport.
+
+Some native versions explored LAN sync, but cross-device no-network sync should not be treated as universally proven in all final APKs.
+
+================================================================================
+38. PARENT CONTROL CENTER 1.1.2
+================================================================================
+
+A Parent Control Center version around 1.1.2 included:
+
+- 6-digit / QR pairing.
+- Firebase live status.
+- Metrics.
+- Blocked apps.
+- Start Study.
+- Authorized End Study.
+- Schedules.
+- No-pause / early-end restrictions.
+- Remote functions requiring Firebase/internet.
+
+This stage was important because it moved StudyLock closer to a true family-control system rather than a standalone focus timer.
+
+================================================================================
+39. STUDYLOCK NATIVE V5
+================================================================================
+
+Native v5 work included separate Student and Parent native projects.
+
+Known artifacts included:
+- StudyLock-Dual-v5/StudyLock-Student-Native-Kotlin-v5-ABOUT-LIQUID-GLOSS.zip
+- StudyLock-Parent-Native-Kotlin-v5.zip
+- StudyLock-Dual-Native-Kotlin-v5.zip
+
+Features/concepts in the v5 line included:
+
+- Kotlin/Compose.
+- Gemini.
+- 6-digit PIN.
+- Pairing PIN/QR.
+- LAN sync.
+- Statistics.
+- Device Owner / Lock Task concepts.
+- Offline Tutor.
+- Parent requiring PIN + LAN address in one design.
+- Manual Sync option.
+
+Not every v5 security/network feature was proven end-to-end on a real device.
+
+================================================================================
+40. STUDYLOCK SECURITY MODEL
+================================================================================
+
+StudyLock combines several layers:
+
+LAYER 1 — APPLICATION PIN
+- Prevent casual access to protected settings.
+
+LAYER 2 — ACCESSIBILITY SERVICE
+- Detect and block distracting apps.
+
+LAYER 3 — DEVICE ADMIN
+- Provide additional administrative protection.
+
+LAYER 4 — FOCUS SESSION RULES
+- No pause / controlled ending.
+
+LAYER 5 — PARENT AUTHORIZATION
+- Parent can control or approve certain changes.
+
+LAYER 6 — DEVICE OWNER / LOCK TASK
+- Stronger managed-device option where Android enrollment supports it.
+
+No single normal Android permission makes an app impossible for the actual device owner to remove.
+
+================================================================================
+41. PRIVACY DESIGN
+================================================================================
+
+StudyLock is designed to monitor study/focus behavior, not secretly spy on personal conversations.
+
+Useful Parent metrics include:
+- Study time.
+- Focus status.
+- Blocked apps.
+- AI usage counts.
+- Schedules.
+- Commands.
+
+An earlier family design specifically avoided Tutor text surveillance as a Parent feature.
+
+This separation is important:
+Parents should be able to manage StudyLock without automatically receiving every private question the student asks the Tutor.
+
+================================================================================
+42. LATER TEACHER REQUIREMENTS
+================================================================================
+
+The Teacher version expanded beyond basic connection.
+
+Requested Teacher features include:
+- Share notes.
+- Share commitments.
+- Share resources.
+- Send to individual students.
+- Broadcast to all students.
+- Group chat concept.
+- Assignments.
+- Classroom questions.
+- Visual materials.
+
+A visual-learning feature was also requested for StudyLock:
+- Dedicated tab for visual learners.
+- Built-in YouTube browser option.
+- Share visual content.
+
+These requirements should be checked against the exact current Teacher/Student source before claiming every one is complete.
+
+================================================================================
+43. VISUAL LEARNING
+================================================================================
+
+A later StudyLock direction added a dedicated Visual Learning concept.
+
+Requested functions:
+- Visual-learning tab.
+- Video/visual resources.
+- Built-in YouTube browser option.
+- Teacher sharing of visual content.
+
+This is intended to support students who learn better through images, video, demonstrations, and diagrams.
+
+================================================================================
+44. STUDYLOCK AND THE APK DOWNLOAD WEBSITE
+================================================================================
+
+StudyLock also appears on the separate Cyber Pulse APK-download website.
+
+Important rule:
+Student, Parent, and Teacher should be separate cards/app entries.
+
+They should not be presented as one combined download if three APKs are provided.
+
+An earlier Student download entry used:
+StudyLock-1.1.0-term3-auto-study.apk
+
+A connected-system ZIP later contained:
+- StudyLock-Student-Connected-Unchanged.apk
+- StudyLock-Parent-Fixed.apk
+- StudyLock-Teacher-Fixed.apk
+
+================================================================================
+45. MOST IMPORTANT REPORTED BUGS
+================================================================================
+
+1. Parent app does not connect to Student.
+2. Parent HTML connects but Parent APK does not.
+3. Teacher does not reliably connect to Student.
+4. Parent Generate New Key button fails.
+5. Pairing code appears but connection does not complete.
+6. "Dashboard didn't respond" error.
+7. Student is open/showing passkey but Parent still reports no response.
+8. App not installed.
+9. Invalid package.
+10. Different-signature installs requiring uninstall/fresh install.
+11. StudyLock can be deactivated/uninstalled without the intended PIN gate.
+12. Device Admin does not fully prevent uninstall.
+13. App blocking failed in some versions.
+14. Password/PIN did not save in an early reported version.
+15. AI Tutor did not answer general questions.
+16. Offline Tutor content was incomplete.
+17. Missing offline quizzes.
+18. Imported learning packs did not always appear.
+19. Past-paper viewing/import was incomplete.
+20. Malformed offline reference database.
+21. Buttons/touch targets did not work in one build.
+22. Firebase rules/auth not deployed/configured correctly.
+23. Repeated GitHub Actions/Gradle failures.
+24. Exposed API key warnings from GitHub secret scanning.
+25. Widget/Wear OS builds failed.
+26. Unified APK CI builds failed.
+27. Parent/Teacher UI used unwanted white backgrounds.
+28. Parent/Teacher UI did not match Student.
+29. Real-device Firebase round-trip remained unverified in some repair packages.
+30. Best-effort PDF importer works only for PDFs with extractable text.
+
+================================================================================
+46. FIXES ATTEMPTED
+================================================================================
+
+Across StudyLock development, the following repair strategies were used or attempted:
+
+- Rebuild Student from HTML as native Android.
+- Use Accessibility Service for blocking.
+- Add native app picker.
+- Persist blocklist selection.
+- Add PIN/settings lock.
+- Add Device Admin.
+- Add Auto Study.
+- Add remote Parent controls.
+- Add Firebase pairing.
+- Add QR pairing.
+- Add 6-digit pairing.
+- Add pairing deep link.
+- Add heartbeats.
+- Add metrics publishing.
+- Add Firestore channels.
+- Add Teacher class channels.
+- Add offline dictionary.
+- Add offline curriculum.
+- Add offline quizzes.
+- Add imported-library search.
+- Add multiple document import formats.
+- Add PDF text extraction.
+- Repair local reference database.
+- Add queue/cache/resend.
+- Fix button overlay/touch interception.
+- Repair signing/resource alignment.
+- Create install-fix APKs.
+- Add Firebase REST fallback.
+- Generate pairing codes locally before remote publish.
+- Rebuild Parent/Teacher UI in dark/liquid StudyLock style.
+- Preserve Student app while repairing Parent/Teacher.
+- Copy or study behavior from the working Parent HTML.
+- Deploy/update Firestore rules.
+- Add Teacher heartbeat and content sync.
+- Explore LAN/same-Wi-Fi communication.
+- Explore Device Owner / Lock Task for stronger protection.
+
+================================================================================
+47. WHAT HAS BEEN VERIFIED VS WHAT STILL NEEDS VERIFICATION
+================================================================================
+
+VERIFIED OR STRONGLY ESTABLISHED IN PROJECT HISTORY
+---------------------------------------------------
+
+- StudyLock has Student, Parent, and Teacher roles.
+- Final package identities use com.studylock.student, com.studylock.parent, and com.studylock.teacher.
+- StudyLock uses Kotlin/Android development in its main mobile builds.
+- Focus, Planner, Tutor, Quiz, Notes, Progress, Learn, Rewards were part of the original reference UI.
+- Accessibility-based app blocking has been implemented in StudyLock development.
+- Firebase/Firestore has been used for connected StudyLock designs.
+- 6-digit pairing and QR pairing have been implemented/attempted.
+- Offline content/import systems have been developed.
+- Multiple CI failures occurred during development.
+- Parent/Student syncing has been a recurring unresolved problem across several APK revisions.
+- Parent HTML has connected in situations where Parent APK did not.
+- PIN/uninstall protection has not been absolute on normal Android Device Admin.
+- Parent/Teacher UI redesign toward Student-style liquid yellow/orange has been requested.
+- App-not-installed / invalid-package errors occurred in certain APK builds.
+
+REQUIRES REAL-DEVICE END-TO-END VERIFICATION
+--------------------------------------------
+
+The latest APK set should not be called fully complete until the following are physically tested:
+
+1. Student APK installs.
+2. Parent APK installs.
+3. Teacher APK installs.
+4. Existing older signatures do not block installation.
+5. Parent generates a new key.
+6. Parent shows a QR.
+7. Student enters/scans Parent pairing code.
+8. Student writes acknowledgement.
+9. Parent receives acknowledgement.
+10. Parent displays Student online.
+11. Heartbeat remains stable for several minutes.
+12. Parent can start Focus.
+13. Student starts Focus.
+14. Parent can authorize/end Focus when allowed.
+15. Parent receives metrics.
+16. Blocklist synchronizes if that build supports it.
+17. Schedule synchronizes.
+18. Auto Study synchronizes.
+19. Teacher creates/uses a class code.
+20. Student joins Teacher.
+21. Teacher sends a post/resource.
+22. Student receives it.
+23. Offline Tutor works with airplane mode enabled.
+24. Offline Quiz works.
+25. Imported TXT/JSON/CSV/Markdown/HTML works.
+26. Text PDF import works.
+27. Accessibility blocking works.
+28. Reboot does not destroy required state.
+29. PIN persists.
+30. Settings remain PIN-protected.
+31. Admin/protection behavior is tested on the actual Samsung/Android version.
+32. Firebase rules reject unauthorized access while still allowing legitimate paired devices.
+
+================================================================================
+48. LATEST STATUS — 22 SEPTEMBER 2026
+================================================================================
+
+The latest StudyLock work is focused on the connected three-app system.
+
+Current priorities:
+
+1. Fix Parent APK installation.
+2. Make Parent ↔ Student pairing actually work.
+3. Use the behavior of the working Parent HTML as a reference.
+4. Ensure Firebase configuration/rules match the Student app.
+5. Make Generate New Key work.
+6. Make QR pairing work.
+7. Make connection/heartbeat stable.
+8. Make Teacher ↔ Student sync work.
+9. Give Parent and Teacher the same general UI/UX family as Student.
+10. Use the liquid yellow/orange StudyLock design.
+11. Avoid white backgrounds in Parent/Teacher.
+12. Preserve Student functionality.
+13. Keep all three apps separate.
+14. Retest APK package/signature validity.
+15. Test on real Android devices rather than relying only on build success.
+
+A recent Parent APK still produced "App not installed", meaning packaging/signing/install compatibility remains a current issue and must be solved before pairing can be considered fully tested.
+
+================================================================================
+49. RECOMMENDED FINAL STUDYLOCK ARCHITECTURE
+================================================================================
+
+STUDENT
+-------
+- Kotlin/Compose.
+- Local Room/SQLite library.
+- Accessibility Service.
+- Focus service.
+- PIN/security module.
+- Offline Tutor search.
+- Quiz engine.
+- Planner/Notes/Progress.
+- Firebase repository.
+- Parent channel listener.
+- Teacher class listener.
+- Metrics writer.
+- Local queue for offline sync.
+
+PARENT
+------
+- Kotlin/Compose.
+- Same StudyLock design system.
+- Local pairing-code generator.
+- QR generator.
+- Firebase repository.
+- Student heartbeat listener.
+- Remote command sender.
+- Metrics dashboard.
+- Schedule/Auto Study controls.
+- Security/approval controls.
+
+TEACHER
+-------
+- Kotlin/Compose.
+- Same StudyLock design system.
+- Class-code generator.
+- Firebase repository.
+- Student class list.
+- Posts/resources/assignments.
+- Questions.
+- Optional whiteboard/visual-sharing support.
+- No parental security authority.
+
+BACKEND
+-------
+Firebase project:
+studylock-family
+
+Recommended logical paths:
+- Parent/Student pairing channels.
+- Student state/metrics.
+- Parent commands.
+- Teacher classes.
+- Teacher content.
+- Auth identities / anonymous auth or account auth.
+- Strict Firestore rules.
+
+OFFLINE
+-------
+- Student functions continue locally.
+- Pending cloud writes are queued.
+- Parent/Teacher remote functions show offline state when Student is unreachable.
+- LAN can be added as an optional secondary transport but should use one clearly defined protocol.
+
+================================================================================
+50. STUDYLOCK CORE PRINCIPLES
+================================================================================
+
+The finished StudyLock system should follow these principles:
+
+1. STUDY FIRST
+The core purpose is to improve focus and learning, not just monitor the student.
+
+2. OFFLINE CAPABLE
+The Student should retain meaningful learning functions without internet.
+
+3. CONNECTED WHEN AVAILABLE
+Parent and Teacher controls should synchronize reliably when connectivity is available.
+
+4. CLEAR AUTHORITY
+Parent controls security/focus.
+Teacher controls learning/class content.
+Student retains the main learning interface.
+
+5. PRIVACY
+Do not turn StudyLock into secret message surveillance.
+
+6. HARD TO BYPASS, BUT HONEST ABOUT ANDROID LIMITS
+Use PIN, Accessibility, Device Admin, and managed-device features correctly without falsely claiming a normal APK can become impossible to uninstall.
+
+7. ONE DESIGN FAMILY
+Student, Parent, and Teacher should clearly look like StudyLock.
+
+8. RELIABLE BUILDS
+Every release APK must be:
+- parseable
+- signed
+- installable
+- correctly versioned
+- tested
+
+9. REAL TESTING
+A successful Gradle build is not enough.
+Pairing, blocking, security, offline behavior, and syncing must be tested on physical Android devices.
+
+10. SEPARATE APPS, SHARED SYSTEM
+Student, Parent, and Teacher remain separate APKs but share a common protocol and backend schema.
+
+================================================================================
+51. SIMPLE DESCRIPTION OF STUDYLOCK
+================================================================================
+
+StudyLock is a Cyber Pulse learning and focus ecosystem made of Student, Parent, and Teacher apps.
+
+The Student app helps a learner focus, blocks distracting apps, runs protected study sessions, provides quizzes, notes, planning, progress tools, learning libraries, and an AI Tutor that can use both online and offline information.
+
+The Parent app pairs with the Student app using a code or QR and is designed to view study information, manage schedules, control Auto Study, start or authorize focus sessions, and manage protection-related settings.
+
+The Teacher app connects to students for academic purposes such as sending notes, assignments, questions, resources, announcements, and visual/class content.
+
+The system has evolved through many Android, HTML, Firebase, offline-library, and security builds. Its biggest technical challenges have been reliable Parent/Student/Teacher synchronization, Firebase configuration, APK signing/install compatibility, offline learning databases, and Android's limitations around uninstall prevention.
+
+The current direction is to keep all three apps separate, make them share one reliable communication protocol, preserve the Student app's features, redesign Parent and Teacher to match the Student's liquid yellow/orange visual language, and verify every feature on real devices.
+
+================================================================================
+END OF STUDYLOCK PROJECT RECORD
+================================================================================
